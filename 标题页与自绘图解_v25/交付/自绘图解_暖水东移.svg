@@ -1,0 +1,45 @@
+<svg id="art" viewBox="0 0 1800 1012" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="正常状态向厄尔尼诺状态变化的赤道太平洋剖面示意">
+<style>text{font-family:Microsoft YaHei,Arial,sans-serif;fill:#244c60}</style><defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f4f9fa"/><stop offset="1" stop-color="#e4f1f4"/></linearGradient>
+ <linearGradient id="warm" x2="0" y2="1"><stop stop-color="#ffe2b1"/><stop offset="1" stop-color="#f5bd97"/></linearGradient>
+ <linearGradient id="cold" x2="0" y2="1"><stop stop-color="#89c6de"/><stop offset="1" stop-color="#5499bd"/></linearGradient>
+ <marker id="goldHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#d2a759"/></marker>
+ <marker id="warmHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#d7805f"/></marker>
+ <marker id="coldHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#569aba"/></marker>
+ <clipPath id="waterClip"><rect x="170" y="510" width="1460" height="370" rx="16"/></clipPath>
+</defs>
+<rect width="1800" height="1012" fill="#fffaf0"/>
+<text x="72" y="81" font-size="62">厄尔尼诺现象</text>
+<text x="72" y="134" font-size="35">赤道中东太平洋海水持续异常增暖</text>
+<rect x="1390" y="36" width="340" height="80" rx="24" fill="#e3f0f2"/>
+<text id="stateLabel" x="1560" y="90" font-size="43" text-anchor="middle">厄尔尼诺状态</text>
+<rect x="170" y="170" width="1460" height="340" rx="20" fill="url(#sky)"/>
+<text x="235" y="222" font-size="39">西太平洋 · 印尼一侧</text><text x="1200" y="222" font-size="39">东太平洋 · 秘鲁一侧</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path id="highFlow" d="M480 280L1390 280" stroke="#d2a759" stroke-width="10" marker-end="url(#goldHead)"/>
+ <path id="rise" d="M430 467L430 380" stroke="#d7805f" stroke-width="13" marker-end="url(#warmHead)"/>
+ <path id="sink" d="M1430 314L1430 457" stroke="#569aba" stroke-width="13" marker-end="url(#coldHead)" opacity="1"/>
+ <path id="westSink" d="M335 300L335 451" stroke="#569aba" stroke-width="7" opacity="0" marker-end="url(#coldHead)"/>
+ <path id="trade" d="M1390 468L1050 468" stroke="#d2a759" stroke-width="6" marker-end="url(#goldHead)"/>
+ <path id="tradeDots" class="flow" d="M1370 468L1080 468" stroke="#fff8da" stroke-width="3"/>
+</g>
+<g id="cloud" transform="translate(430 315)">
+ <path d="M-137 31C-177 17-161-26-125-27C-135-73-66-87-48-46C-26-105 45-94 53-54C96-80 137-40 119-8C163-7 172 31 132 42L-137 42Z" fill="#fffef8" stroke="#aac5ce" stroke-width="4"/>
+ <g id="rain" stroke="#76adc7" stroke-width="5" stroke-linecap="round" transform="translate(0 4)"><path d="M-70 72l-8 24M-20 80l-8 24M30 72l-8 24M80 80l-8 24"/></g>
+</g>
+<rect x="170" y="510" width="1460" height="370" rx="16" fill="url(#cold)" stroke="#87b5c8" stroke-width="3"/>
+<g clip-path="url(#waterClip)"><path id="warmLayer" fill="url(#warm)" d="M170 510H1630V668.4814814814815C1240 671.5555555555555 800 675.7407407407408 170 680.5555555555555Z"/>
+ <path id="thermoOld" d="M170 745C800 695 1240 596 1630 567" fill="none" stroke="#fffbed" stroke-width="3" stroke-dasharray="12 12" opacity="0.3333333333333333"/>
+ <path id="thermo" d="M170 680.5555555555555C800 675.7407407407408 1240 671.5555555555555 1630 668.4814814814815" fill="none" stroke="#e8a57b" stroke-width="4"/>
+ <path id="warmMove" d="M665.5555555555555 624L1318.5185185185185 624" fill="none" stroke="#d7805f" stroke-width="9" marker-end="url(#warmHead)" opacity="0.6666666666666666"/>
+ <path id="upwell" d="M1510 823C1485 774 1500 731.4814814814815 1510 678.4444444444445" fill="none" stroke="#3a7c9d" stroke-width="6.555555555555555" marker-end="url(#coldHead)" opacity="0.5407407407407407"/>
+ <path id="surface" d="M170 516H1630" fill="none" stroke="#fffbed" stroke-width="4"/>
+</g>
+<g><rect x="330" y="543" width="310" height="66" rx="18" fill="#fff8e9"/><text x="485" y="590" font-size="43" text-anchor="middle">表层暖水</text>
+ <rect x="510" y="794" width="280" height="64" rx="18" fill="#eaf5f7"/><text x="650" y="840" font-size="43" text-anchor="middle">深层冷水</text>
+ <rect x="1170" y="742" width="320" height="65" rx="18" fill="#fffaf0"/><text id="upwellLabel" x="1330" y="788" font-size="39" text-anchor="middle">冷水上涌减弱</text>
+ <rect id="thermoTag" x="855" y="661.5555555555555" width="235" height="64" rx="18" fill="#fffaf0"/><text id="thermoText" x="973" y="706.5555555555555" font-size="41" text-anchor="middle">温跃层</text>
+ <rect x="650" y="176" width="530" height="65" rx="18" fill="#fffaf0"/><text id="tradeLabel" x="915" y="222" font-size="37" text-anchor="middle">东风信风减弱</text></g>
+<rect x="0" y="913" width="1800" height="99" fill="#244559"/>
+<text id="caption" x="900" y="977" font-size="42" text-anchor="middle" style="fill:#fffaf0">暖水向东扩展，东部温跃层加深，冷水上升流受到抑制。</text>
+</svg>

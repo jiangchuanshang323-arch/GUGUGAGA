@@ -1,0 +1,11 @@
+﻿# Browser profiles can contain account data, cookies, and cached pages
+.browser/
+**/.browser/
+
+# Generated build and interpreter caches
+.build/
+**/.build/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.log

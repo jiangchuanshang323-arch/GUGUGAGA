@@ -1,0 +1,16 @@
+{
+  "decode": "PASS",
+  "seconds": 54.572041666666664,
+  "chapters": [
+    "回答0.5℃互动",
+    "正常态东风信风与暖水/上升流",
+    "沃克环流闭合"
+  ],
+  "transition": [
+    15.692375,
+    18.492375
+  ],
+  "source_image": "NOAA original image intact with separate Chinese annotations",
+  "no_full_concat": true,
+  "output": "G:\\Arthur\\数字微课\\主体课程\\小温差大热量_正常环流_v15\\交付\\海洋发烧了_第三段_小温差与正常环流_v15.mp4"
+}

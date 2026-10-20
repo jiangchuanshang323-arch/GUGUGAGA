@@ -1,0 +1,65 @@
+{
+  "output": {
+    "file": "G:\\Arthur\\数字微课\\阶段合成_v32\\交付\\海洋发烧了_目前阶段新版_v32.mp4",
+    "seconds": 188.23,
+    "streams": [
+      "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 806 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 150 kb/s (default)"
+    ]
+  },
+  "inputs": [
+    {
+      "file": "G:\\Arthur\\数字微课\\主体课程\\得意黑_大字无水印_v6\\.build\\开场_双水印处理.mp4",
+      "seconds": 10.03,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High 4:4:4 Predictive) (avc1 / 0x31637661), yuv444p(progressive), 1254x720, 3485 kb/s, 24 fps, 24 tbr, 1000k tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 131 kb/s (default)"
+      ]
+    },
+    {
+      "file": "G:\\Arthur\\数字微课\\阶段合成_v32\\.build\\第一段_封面字级概念修订.mp4",
+      "seconds": 56.57,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 632 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 103 kb/s (default)"
+      ]
+    },
+    {
+      "file": "G:\\Arthur\\数字微课\\主体课程\\横梁起卷_双手下拉_v14\\交付\\海洋发烧了_第二分钟_双手卷板_v14.mp4",
+      "seconds": 65.12,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 508 kb/s, 24.02 fps, 24 tbr, 1000k tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 99 kb/s (default)"
+      ]
+    },
+    {
+      "file": "G:\\Arthur\\数字微课\\完整第三段_v31\\交付\\海洋发烧了_完整第三段_v31.mp4",
+      "seconds": 56.47,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 415 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 149 kb/s (default)"
+      ]
+    }
+  ],
+  "segment_start_seconds": [
+    0,
+    10.03,
+    66.6,
+    131.72
+  ],
+  "decode": "PASS",
+  "opening_count": 1,
+  "old_third_included": false,
+  "cover": "v27 blue-ocean photograph and gradient lettering",
+  "case_header": 63,
+  "case_caption": 52,
+  "definition_added_in_first_segment": "中东太平洋持续异常增暖，这就是厄尔尼诺现象。",
+  "new_voice_synthesis": false,
+  "definition_reused_from_v30_seconds": [
+    22.674999999999997,
+    26.962083333333332
+  ],
+  "sha256": "8cf5744ab5f6a94f105c4ec4b19fcbee6315aaa19072ab5ced1214830f7bfbf6",
+  "visual_review": "PASS：最终MP4解码抽帧已复核新版封面、案例大字、概念补充、第一/第二段与第二/第三段衔接，以及卷轴展开后v30图解。",
+  "scope": "已完成开场与前三段，尚未完成整课"
+}

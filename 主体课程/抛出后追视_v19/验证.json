@@ -1,0 +1,8 @@
+{
+  "decode": "PASS",
+  "seconds": 7.211416666666665,
+  "release_second": 0.95,
+  "grip_and_scroll_shared_joint": true,
+  "look_after_release": "up-left, head only, body and arm unchanged",
+  "full_segment_rendered": false
+}

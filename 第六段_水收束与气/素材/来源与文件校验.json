@@ -1,0 +1,27 @@
+[
+  {
+    "file": "中国气候公报2024.pdf",
+    "bytes": 25659798,
+    "sha256": "54f8ce23ceee231ee5a8f2d8a1022a8185a81201e6feffab065e24bbded4f60c"
+  },
+  {
+    "file": "公报雨带_页33_图0_Im0.png",
+    "bytes": 447865,
+    "sha256": "066c7246b080f351d76d8fdaec84979c04243eae348a3cead475135ca08bdf90"
+  },
+  {
+    "file": "ESO_阿塔卡马花海.jpg",
+    "bytes": 4301375,
+    "sha256": "69e67668685031241313176c2f8965e22b9a7bf932ddaed8866fade3f550c720"
+  },
+  {
+    "file": "HadCRUT_annual.csv",
+    "bytes": 7048,
+    "sha256": "16633b8d7c4fe6026d53549f509355964ab56ca689a6f007f27d4a5fa87d6ec6"
+  },
+  {
+    "file": "绘图数据_1980至2024.json",
+    "bytes": 4633,
+    "sha256": "5e842fb7dad55c49c9b5099f490d67f04ed700387f8629636429a2344df8a9d7"
+  }
+]

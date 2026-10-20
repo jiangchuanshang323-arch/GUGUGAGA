@@ -1,0 +1,63 @@
+{
+  "text": "相隔上万公里，它们可能有什么联系？今天，我们当一回地球医生，完成一次全球会诊。医生看病，先测体温。",
+  "rate": "+5%",
+  "source": "Microsoft Edge TTS",
+  "voices": [
+    {
+      "name": "zh-HK-HiuGaaiNeural",
+      "gender": "Female"
+    },
+    {
+      "name": "zh-HK-HiuMaanNeural",
+      "gender": "Female"
+    },
+    {
+      "name": "zh-HK-WanLungNeural",
+      "gender": "Male"
+    },
+    {
+      "name": "zh-CN-XiaoxiaoNeural",
+      "gender": "Female"
+    },
+    {
+      "name": "zh-CN-XiaoyiNeural",
+      "gender": "Female"
+    },
+    {
+      "name": "zh-CN-YunjianNeural",
+      "gender": "Male"
+    },
+    {
+      "name": "zh-CN-YunxiNeural",
+      "gender": "Male"
+    },
+    {
+      "name": "zh-CN-YunxiaNeural",
+      "gender": "Male"
+    },
+    {
+      "name": "zh-CN-YunyangNeural",
+      "gender": "Male"
+    },
+    {
+      "name": "zh-CN-liaoning-XiaobeiNeural",
+      "gender": "Female"
+    },
+    {
+      "name": "zh-TW-HsiaoChenNeural",
+      "gender": "Female"
+    },
+    {
+      "name": "zh-TW-YunJheNeural",
+      "gender": "Male"
+    },
+    {
+      "name": "zh-TW-HsiaoYuNeural",
+      "gender": "Female"
+    },
+    {
+      "name": "zh-CN-shaanxi-XiaoniNeural",
+      "gender": "Female"
+    }
+  ]
+}

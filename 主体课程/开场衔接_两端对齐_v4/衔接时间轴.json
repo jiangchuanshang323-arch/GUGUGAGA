@@ -1,0 +1,12 @@
+{
+  "bridge_duration": 5.996,
+  "total_duration": 49.424,
+  "walk_duration": 1.9,
+  "bridge_speech": [
+    {
+      "start": 1.9,
+      "end": 5.996,
+      "text": "咕咕嘎嘎！欢迎来到水下课堂。"
+    }
+  ]
+}

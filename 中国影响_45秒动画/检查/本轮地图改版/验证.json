@@ -1,0 +1,78 @@
+{
+  "seconds": 12.5,
+  "sha256": "1149de5237bac3734b1a2ee320ea21bf87351a8ad464b7775329efebac1c50eb",
+  "bytes": 11030398,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "frames": 300,
+  "decode": "PASS",
+  "northwest_track": "PASS",
+  "max_map_scale": 2,
+  "map_projection": "equirectangular, standard parallel 35N",
+  "main_country_bounds": [
+    186.3020095367308,
+    18.516688749999958,
+    1510.727119327359,
+    952.0018558749999
+  ],
+  "shore_clip": {
+    "render_end": [
+      121.36810032765291,
+      31.54773502389404
+    ],
+    "removed_next_point": [
+      121.400409,
+      31.5148746
+    ],
+    "reason": "first intersection with displayed mainland coastline"
+  },
+  "no_offshore_yangtze_tail": "PASS",
+  "right_period_font_sizes": [
+    60
+  ],
+  "weather_poses": [
+    "rain",
+    "fan",
+    "cold"
+  ],
+  "penguin_screen_scale_unchanged": 0.52,
+  "subtitles_only": true,
+  "province_source": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+  "rivers_source": [
+    "https://www.openstreetmap.org/relation/9392345",
+    "https://github.com/nvkelso/natural-earth-vector"
+  ],
+  "river_line_count": 70,
+  "source_windows": [
+    [
+      6,
+      8.75
+    ],
+    [
+      14.35,
+      17.35
+    ],
+    [
+      26.5,
+      29
+    ],
+    [
+      32,
+      34
+    ],
+    [
+      36.25,
+      38.5
+    ]
+  ],
+  "original45_unchanged_sha256": "596d7c26c1880ca7c5b02459549f5229184c3a70c2fbee1a7db3153b7a054b13",
+  "no_japan_label": "PASS on all 300 frames",
+  "text_bounds": "PASS on all 300 frames",
+  "southern_sea_dashes": 9,
+  "inset_caption_size": 34,
+  "legend_size": 44,
+  "main_map_scale": 1.05,
+  "main_country_not_cropped": "PASS",
+  "trajectory_halo": "PASS, >=6px ink plus 4px paper outline",
+  "visual_review": "PASS: actual encoded montage and full-size typhoon/cold frames plus 3x inset crop; not frame-by-frame manual review"
+}

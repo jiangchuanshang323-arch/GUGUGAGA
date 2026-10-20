@@ -1,0 +1,17 @@
+{
+  "decode": "PASS",
+  "body_seconds": 52.282333333333334,
+  "voice": "reused v7 Xiaoyi audio; no new synthesis",
+  "new_pose": "19 generated right-side left-facing teaching pose; original hairclip side preserved",
+  "pointer_anchor": "ruler tip aligns with official Niño3.4 east boundary at 120W",
+  "map_original_dimensions": [
+    685,
+    244
+  ],
+  "map_origin": "NOAA PSL official GIF converted to PNG; no redraw; 8% focused zoom",
+  "caption": "simple figure labels only; production notes and evidence/source explanations kept in external documentation",
+  "inactive_photos": "grayscale and darkened",
+  "active_photo": "pulsing warm light bulbs",
+  "walk": "exit left, enter from right; bubble hidden immediately when movement begins and reappears only after arrival",
+  "output": "G:\\Arthur\\数字微课\\主体课程\\出入场_无制作提示_v9\\交付\\海洋发烧了_最新批注落实_出入场_v9.mp4"
+}

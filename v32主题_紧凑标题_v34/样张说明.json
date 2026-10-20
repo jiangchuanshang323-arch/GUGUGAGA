@@ -1,0 +1,38 @@
+{
+  "output": "G:\\Arthur\\数字微课\\v32主题_紧凑标题_v34\\交付\\v32主题_新版标题_风格样张_v34.png",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "base": "v32第一段场景",
+  "only_changed": "章节标题形状、宽度、细线装饰与轻投影",
+  "original_title_width": 690,
+  "new_title_width": 440,
+  "fonts_unchanged": "得意黑63/31",
+  "title_text_bounds": [
+    {
+      "text": "海洋“发烧”了",
+      "rect": [
+        43,
+        19,
+        341.0,
+        82.0
+      ],
+      "font": "得意黑",
+      "size": 63
+    },
+    {
+      "text": "厄尔尼诺 · 从三地情境开始",
+      "rect": [
+        29,
+        91,
+        324.5,
+        122.5
+      ],
+      "font": "得意黑",
+      "size": 31
+    }
+  ],
+  "video_exported": false,
+  "master_v32_changed": false
+}

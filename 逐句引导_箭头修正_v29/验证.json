@@ -1,0 +1,11 @@
+{
+  "decode": "PASS",
+  "seconds": 37.693583333333336,
+  "shaft_trimmed_before_tip": true,
+  "surface_label": "西 ← 东",
+  "progressive_reveal": true,
+  "circle_and_camera_zoom": true,
+  "perspective": "2D zoom, no 3D conversion",
+  "cached_audio_only": true,
+  "no_concat": true
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "action": "开伞",
+    "times": [
+      3.8,
+      4.4
+    ],
+    "mean_pixel_difference": 10.082585714285715
+  },
+  {
+    "action": "扇风",
+    "times": [
+      32.1,
+      32.2
+    ],
+    "mean_pixel_difference": 10.548099415204678
+  },
+  {
+    "action": "发抖",
+    "times": [
+      37.7,
+      37.8
+    ],
+    "mean_pixel_difference": 9.617128245476003
+  }
+]

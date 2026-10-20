@@ -1,0 +1,94 @@
+{
+  "segments": [
+    {
+      "original_seconds": 4.176,
+      "trimmed_seconds": 3.265,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.911,
+      "segment": 1,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 3.288,
+      "trimmed_seconds": 2.385,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.903,
+      "segment": 2,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 3.528,
+      "trimmed_seconds": 2.605,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.923,
+      "segment": 3,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 3.456,
+      "trimmed_seconds": 2.535,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.921,
+      "segment": 4,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 3.744,
+      "trimmed_seconds": 2.825,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.919,
+      "segment": 5,
+      "added_pause": 0.22
+    },
+    {
+      "original_seconds": 4.944,
+      "trimmed_seconds": 4.035,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.909,
+      "segment": 6,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 4.8,
+      "trimmed_seconds": 3.875,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.925,
+      "segment": 7,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 4.344,
+      "trimmed_seconds": 3.445,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.899,
+      "segment": 8,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 2.712,
+      "trimmed_seconds": 1.795,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.917,
+      "segment": 9,
+      "added_pause": 0.14
+    },
+    {
+      "original_seconds": 5.016,
+      "trimmed_seconds": 4.135,
+      "internal_silences_shortened": 0,
+      "boundary_seconds_removed": 0.881,
+      "segment": 10,
+      "added_pause": 0.14
+    }
+  ],
+  "bridge": {
+    "original_seconds": 3.816,
+    "trimmed_seconds": 2.495,
+    "internal_silences_shortened": 1,
+    "boundary_seconds_removed": 0.881
+  },
+  "question_added_pause_seconds": 0.22,
+  "body_seconds": 32.38,
+  "bridge_seconds": 4.515,
+  "middle_seconds": 36.895
+}

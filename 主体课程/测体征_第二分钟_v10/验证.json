@@ -1,0 +1,22 @@
+{
+  "decode": "PASS",
+  "seconds": 62.721833333333336,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "monthly": [
+    2.09,
+    2.59,
+    2.94
+  ],
+  "mean": 2.54,
+  "forecast": [
+    3.2,
+    3.5
+  ],
+  "bubble_hidden_during_walk": true,
+  "output": "G:\\Arthur\\数字微课\\主体课程\\测体征_第二分钟_v10\\交付\\海洋发烧了_第二分钟_测体征_v10.mp4",
+  "joined": "G:\\Arthur\\数字微课\\主体课程\\测体征_第二分钟_v10\\交付\\海洋发烧了_开场与前两段_v10.mp4"
+}

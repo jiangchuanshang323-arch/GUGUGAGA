@@ -1,0 +1,62 @@
+{
+  "outputs": [
+    {
+      "name": "四步会诊路线_5秒",
+      "path": "G:\\Arthur\\数字微课\\demooo\\预览\\三个画面5秒样片\\四步会诊路线_5秒.mp4",
+      "seconds": 5,
+      "frames": 120,
+      "resolution": "1920x1080",
+      "fps": 24,
+      "decode": "PASS",
+      "sha256": "8c03925c4201dc7a08f47b4a44eb6c59fa2243f88cb20baaa89498f3d7defcf1",
+      "bytes": 4921485,
+      "character_height_range": [
+        369,
+        369
+      ],
+      "reference_height": 368.671875,
+      "voice": "none during route walk"
+    },
+    {
+      "name": "概念辨析_拳套轻碰_5秒",
+      "path": "G:\\Arthur\\数字微课\\demooo\\预览\\三个画面5秒样片\\概念辨析_拳套轻碰_5秒.mp4",
+      "seconds": 5,
+      "frames": 120,
+      "resolution": "1920x1080",
+      "fps": 24,
+      "decode": "PASS",
+      "sha256": "fc2001975c6ec6b276727126caab00068f747a809f7b3b80569c37d5b17f0cef",
+      "bytes": 2202919,
+      "character_height_range": [
+        369,
+        369
+      ],
+      "reference_height": 368.671875,
+      "voice": "existing Xiaoyi audio, not newly generated"
+    },
+    {
+      "name": "适应处方单_5秒",
+      "path": "G:\\Arthur\\数字微课\\demooo\\预览\\三个画面5秒样片\\适应处方单_5秒.mp4",
+      "seconds": 5,
+      "frames": 120,
+      "resolution": "1920x1080",
+      "fps": 24,
+      "decode": "PASS",
+      "sha256": "394e007e2be146c031740bd9538c524373b78e81e494f386c2780827aef210d6",
+      "bytes": 4426879,
+      "character_height_range": [
+        368,
+        368
+      ],
+      "reference_height": 368.671875,
+      "voice": "existing Xiaoyi audio, not newly generated"
+    }
+  ],
+  "gloves_contact_times": [
+    1.0833333333333333,
+    2.3333333333333335
+  ],
+  "character_sizing": "original 390px sprite canvas; alpha>=128 body height normalized to 368.67px",
+  "visual_review": "PASS: actual encoded montage and full-resolution prescription frame inspected; character scale strip compared; mouth patch and punctuation reflow corrected",
+  "existing_videos_modified": false
+}

@@ -1,0 +1,20 @@
+{
+  "output": "G:\\Arthur\\数字微课\\视频交付\\独立片段\\06_水收束与气\\demooooo.mp4",
+  "seconds": 63.46,
+  "frames": 1523,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "decode": "PASS",
+  "new_segment_only": true,
+  "previous_full_video_unchanged": true,
+  "character_present": false,
+  "visual_review": "PASS: 12个实际编码节点及末段标签修正复核；渲染文字边界和完整解码通过，非逐帧人工观看。",
+  "temperature_source": "Met Office HadCRUT.5.1.0.0，1980—2024；1961—1990基准",
+  "sha256": "57ac0887bad1ac22569745e75f2d7c0dbf5eb137dc775a3fe25bd600e9e0c700",
+  "chart_annotation_avoids_data": true,
+  "previous_full_video_sha256": "44d9fbd2dd9f0ab639b490699e517c5d3fb056eff3f8066b55641141d3f6dd19",
+  "superseded_scope": "本文件原检查针对串讲改版前基片；当前交付以多米诺转场_企鹅串讲/验证.json为准"
+}

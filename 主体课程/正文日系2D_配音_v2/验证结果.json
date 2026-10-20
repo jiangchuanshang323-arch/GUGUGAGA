@@ -1,0 +1,12 @@
+{
+  "duration": 39.012,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "audio": "AAC Chinese TTS zh-CN-XiaoxiaoNeural +12%",
+  "subtitle_text_unchanged": true,
+  "decode": "PASS",
+  "bytes": 3706657
+}

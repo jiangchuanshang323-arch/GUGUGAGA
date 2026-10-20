@@ -1,0 +1,25 @@
+[
+  {
+    "file": "秘鲁渔港_20191017.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Puerto%20de%20Paracas%2C%20Per%C3%BA%2C%202019-10-17.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Puerto_de_Paracas%2C_Per%C3%BA%2C_2019-10-17.jpg",
+    "sha256": "ee1c8166faea27e3cd23e65615e16c8517e2d271721ec2000d803d2f39a96ca8"
+  },
+  {
+    "file": "铜陵大通洪水_20200714.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flooded%20Datong%20Town%2C%20Tongling%20%282020%29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Flooded_Datong_Town%2C_Tongling_%282020%29.jpg",
+    "sha256": "a2049999e11fcc88053767b1e87dc149084118984f4ab862691bd5e716be5d82"
+  },
+  {
+    "file": "印尼烟霾_NASA_20150924.jpg",
+    "page": "https://science.nasa.gov/earth/earth-observatory/smoke-blankets-indonesia-86681/",
+    "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/86000/86681/borneo_2015267_lrg.jpg",
+    "sha256": "1cc60df6427e4e4e8eed09dfda396f8fcc5b60c00872f7cf845dc9f2fc01bd02"
+  },
+  {
+    "file": "LXGWWenKai-Regular.ttf",
+    "url": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKai-Regular.ttf",
+    "sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009"
+  }
+]

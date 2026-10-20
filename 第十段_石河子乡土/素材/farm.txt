@@ -1,0 +1,683 @@
+
+<html>
+  <!DOCTYPE html>
+  <html lang="zh-cn">
+    <head>
+                <meta name="SiteName" content="新疆生产建设兵团">
+                <meta name="SiteDomain" content="www.xjbt.gov.cn">
+                <meta name="SiteIDCode" content="BT00000020">
+                <meta name="ColumnName" content="综合动态">
+                <meta name="ColumnType" content="综合动态">
+                <meta name="ArticleTitle" content="看兵团农业生产如何用好每一滴水">
+                <meta name="PubDate" content="2024-07-18/10∶07">
+                <meta name="ContentSource" content="兵团日报">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge, IE=9, IE=8,IE=10,chrome=1">
+      <title>新疆生产建设兵团--综合动态--看兵团农业生产如何用好每一滴水</title>
+      <meta name="renderer" content="webkit" />
+      <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1" />
+      
+<script>
+  window.localsForMebmer={
+    SiteID:122,
+    SiteLink:"http://www.xjbt.gov.cn/",
+    FrontAppContext:"http://www.xjbt.gov.cn/zcms/",
+    frontAppContext :"http://www.xjbt.gov.cn/zcms/"
+  };
+</script>
+<link rel="stylesheet" href="/v3/css/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/font-awesome.min.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/v3-framework.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/v3-common.css" type="text/css" />
+<link rel="stylesheet" href="/v3/css/v3-site.css" type="text/css" />
+<script src="/js/frontend.js" contextpath="http://www.xjbt.gov.cn/zcms/"></script>
+<script src="/js/common.min.js" contextpath="http://www.xjbt.gov.cn/zcms/"></script>
+<script type="text/javascript" src="/v3/js/jquery-2.1.1.min.js"></script>
+<script>
+  var frontAppContext = 'http://www.xjbt.gov.cn/zcms/';
+  var siteID = "122";
+</script>
+
+<!--分享CSS样式调用代码 BEGIN（此代码必须部署在</head>闭合标记之前）-->
+<script type="text/javascript">
+  var gwdshare = gwdshare || { version: "1.0", udata: "type=tools&amp;uid=GWD-800222", pageFilter: "", jsLoaded: false };
+  (function () {
+    function async_load() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//static.gridsumdissector.com/zheng_fen_xiang/scripts/gwdshareasync.min.js';
+      var x = document.getElementsByTagName('script'), y = x[x.length - 1];
+      y.parentNode.appendChild(s);
+    }
+    if (!gwdshare.jsLoaded) {
+      if (window.attachEvent) window.attachEvent('onload', async_load);
+      else window.addEventListener('load', async_load, false);
+      gwdshare.jsLoaded = true;
+    }
+  })();
+</script>
+<!--分享CSS样式调用代码 END-->
+<script>
+  if (isIE && ieVersion < 9 || isIE8) {
+    importJS('../v3/js/ie/html5shiv.js')
+    if (!isIE6 && !isIE7) {
+      importJS('../v3/js/ie/respond.min.js')
+    }
+    importJS('../v3/js/ie/excanvas.js')
+  }
+  if (/MSIE (6|7)\.0/.test(navigator.userAgent)) {
+    importCSS('../v3/css/bootstrap-ie6.css')
+    importJS('../v3/js/ie/bootstrap-ie6.js')
+  }
+  if (isIE && ieVersion < 9 || isIE8) {
+    importCSS('../v3/css/v3-site-ie.css')
+  }
+  if (inTouch) {
+    importJS('../v3/js/hammer.min.js')
+  }
+  importJS('../v3/js/responsiveslides.js')
+</script>
+    </head>
+    <body>
+      <!--start 页头-->
+      <!-- <cms:include file='${prefix('template/header.template.html')}'>{ZCMS:文件包含}</cms:include> -->
+      
+
+
+<style>
+  .search .input-group-btn .sea_but{background:none;border:none;margin-top: -4px;}
+
+  /* 350换成图片高度*/
+  .headBot .navMove{margin-top:160px;}
+.headBot .navMove li{float:left;background:url(/imgs/zl_bj8.gif) no-repeat left bottom;height:39px;padding-left:3px;line-height:39px;margin-left:2px;}
+.headBot .navMove li span{display:inline-block;background:url(/imgs/zl_bj9.gif) no-repeat right bottom;height:39px;padding:0 16px;}
+.headBot .navMove li a{color:#fff;font-weight:bold;font-size:16px;}
+.headBot .navMove li.current{background:url(/imgs/zl_bj10.gif) no-repeat left bottom;}
+.headBot .navMove li.current span{background:url(/imgs/zl_bj11.gif) no-repeat right bottom;}
+.headBot .navMove li.current a{color:#c13b07;}
+.headBot .navMove li.first i{margin-top:8px;}
+</style>
+<!--start 页头-->
+<div class="header" >
+  <div class="head">
+    <div class="container">
+      <div class="headtop">
+        <div class="head_wel">
+          <span class="head_web"><a href="http://www.gov.cn/" >中央政府门户网站</a></span>
+           <span class="hidden-xs hidden-sm"><a target='_self' href="javascript:void(0);" id="btn-accessbility" >无障碍浏览 </a>
+          </span>
+ 
+          
+          <script>
+	document.getElementById("btn-accessbility").onclick = function(){
+		var url = "/accessibilityTools.html?url="+location.pathname;
+		if(location.search != ""){
+      			url += "&search=" + encodeURIComponent(location.search)
+		}
+		if(top){
+	               top.window.location.href = url
+	         }else{
+	               window.location.href = url
+		}
+	}
+</script>
+        </div>
+        <div class="head_sea hidden-xs hidden-sm">
+          <div class="form">
+            
+            
+            
+              <div class="search input-group">
+                <input type="text" class="sea_text search-query" placeholder="请输入关键词……" name="Query" suggest="true" suggestsource="Search.suggest" id="QueryPC"/>
+                <span class="input-group-btn">
+                  <a class="btn btn-default sea_but" href="javascript:void(0)" onclick="searchKey()" > 
+                    <span class=""></span>&nbsp;
+                  </a>
+                </span>                 
+              </div>
+            
+           
+          </div>
+          <div class="hotwordWrap">
+            <div class="hotwordtop"></div>
+            <div class="hotword">
+              热门关键词：
+              
+                
+                  <a href="#;" id="915156">承销</a>
+                  <a href="#;" id="120916021">承销团</a>
+                  <a href="#;" id="1238">政府</a>
+                  <a href="#;" id="462">项目</a>
+                  <a href="#;" id="384">预算</a>
+                  <a href="#;" id="310">行政</a>
+                  <a href="#;" id="278">建设</a>
+                  <a href="#;" id="855">报告</a>
+                  <a href="#;" id="120">经济</a>
+                  <a href="#;" id="207">发展</a>
+                  <a href="#;" id="166">规划</a>
+                  <a href="#;" id="339">公开</a>
+                  <a href="#;" id="1508">创新</a>
+                  <a href="#;" id="128">兵团</a>
+                  <a href="#;" id="151">公示</a>
+                  <a href="#;" id="277">环境</a>
+                  <a href="#;" id="1125">安全</a>
+                  <a href="#;" id="150">公告</a>
+                  <a href="#;" id="241">部门</a>
+                  <a href="#;" id="571">信息</a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="headBot clearfix">
+        <div class="row m-t-md" style="margin-top:0;">
+          <div class="col-lg-5 col-md-4 col-xs-9" >
+          <!--  <a class="logo" href="http://www.xjbt.gov.cn/" target="_blank"><img class=" m-b-md" src="${prefix('imgs/z_bj70.png')}" ></a> -->
+              <a class="logo" href="http://www.xjbt.gov.cn/" target="_blank"><img class=" m-b-md" src="/imgs/z_bj70tes.png" ></a>
+          </div>
+          <div class="col-xs-3 hidden-md hidden-lg ">
+            <div class="burger">
+              <div class="x"></div>
+              <div class="y" style="display: block;"></div>
+              <div class="z"></div>
+            </div>
+          </div>
+          <!-- nav换成navMove 切换时不取消xs sm属性-->
+          <ul class="navMove col-lg-7 col-md-8  pull-right hidden-xs hidden-sm" style="margin-top:70px;">
+            <li class="first "><span style="height:36px"><a href="/"><i class="fa fa-home font24"></i></a></span></li>            
+            
+              <li id="008395"><span><a href="/dt/">动态</a></span></li>
+            
+            
+              <li id="008396"><span><a href="/xxgk/">公开</a></span></li>
+            
+            
+              <li id="001300"><span><a href="https://zwfw.xjbt.gov.cn">服务</a></span></li>
+            
+            
+              <li id="008398"><span><a href="/hd/">互动</a></span></li>
+            
+            
+              <li id="008399"><span><a href="/tszx/">资讯</a></span></li>
+            
+            
+              <li id="008400"><span><a href="/sszt/">专题</a></span></li>
+            
+          </ul>
+          
+          <!-- 移动端 导航-->
+           <ul class="nav col-lg-7 col-md-8  pull-right hidden-md hidden-lg hidden-sm hidden-xs" >
+            <li class="first "><span><a href="/"><i class="fa fa-home font24"></i></a></span></li>            
+            
+              <li id="008395"><span><a href="/dt/">动态</a></span></li>
+            
+            
+              <li id="008396"><span><a href="/xxgk/">公开</a></span></li>
+            
+            
+              <li id="001300"><span><a href="https://zwfw.xjbt.gov.cn">服务</a></span></li>
+            
+            
+              <li id="008398"><span><a href="/hd/">互动</a></span></li>
+            
+            
+              <li id="008399"><span><a href="/tszx/">资讯</a></span></li>
+            
+            
+              <li id="008400"><span><a href="/sszt/">专题</a></span></li>
+            
+          </ul>
+         <!-- 移动端 导航结束-->
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container" style="background:url(../../imgs/z_bj1.jpg)">
+    
+     
+       <div class="search-head-xs hidden-md hidden-lg m-t-md">
+              <div class="search input-group">
+                <input type="text" class="form-control search-query" placeholder="请输入关键词……" name="Query" suggest="true" suggestsource="Search.suggest" id="QueryM"/>
+               
+                 <span class="input-group-btn" style="background: #1b4775">
+                   <a class="btn btn-default sea_but" href="javascript:void(0)" onclick="searchKey1()" > 
+                     <span class="fa fa-search" ></span>&nbsp;搜索</a></span>
+              </div>
+               </div>
+            
+
+  </div>
+</div>
+  <script>
+function searchKey(){
+window.open("/search/search.html?SiteID=122&pageIndex=0&type=search_all&query="+$("#QueryPC").val());
+}
+    function searchKey1(){
+window.open("/search/search.html?SiteID=122&pageIndex=0&type=search_all&query="+$("#QueryM").val());
+}
+</script>
+<!--end页头-->
+     
+      <!--end页头-->
+      
+      <!--start 主体-->
+      <div class="main">
+        <div class="container">
+          <div class="position">
+            <div class="bread" id="breads" style="display:none;"><a href='/'>首页</a><span style='color:#ccc;padding:0 5px;'>/</span><a href='/dt/'>工作动态</a><span style='color:#ccc;padding:0 5px;'>/</span><a href='/dt/btyw/'>要闻</a><span style='color:#ccc;padding:0 5px;'>/</span><a href='/dt/btyw/zhdt/'>综合动态</a></div>
+        <div class="bread" id="breadnew"></div>
+          </div>
+          <div class="detail" id="detail">
+            <div class="detail-tit text-center">
+                      
+                <div class="listnews" style="text-align:center;font-size:20px;color:#6D7F91;">从大田漫灌到精准滴灌，从“引进来”到“走出去”</div>
+              
+             
+              <h2 class="h2">看兵团农业生产如何用好每一滴水</h2>
+              
+              <div class="title_info text-center">
+                <span class="m-l-md">发布时间：2024年07月18日</span>
+                <span class="m-l-md">信息来源：兵团日报</span>
+                <span class="m-l-md">编辑：兰君</span>
+              </div>
+              <div style="color:#333333;" id="printWrap">
+                【字体：<span id="big" size="18">大</span>
+                <span id="middle" class="current" size="16">中</span>
+                <span id="small" size="14">小</span>】
+                <span class="y_print" onClick="printcon('detail',['printWrap','shareBox','relateNews'])">打印本页</span>
+              </div>
+            </div>
+            <div class="detail-con clearfix" id="detail-con">
+              <div class="author">作者：赵优</div>
+              <div class="content" style="overflow-x: auto;">
+                <p style="text-indent: 2em; text-align: left;">炎炎夏日，一片片棉海在微风中起伏，展示着石河子垦区丰收的希望，更彰显着现代农业的魅力。</p><p style="text-indent: 2em; text-align: left;">“以前给棉田浇水时，一家人拿着铁锹踩着泥，连续几天几夜在地里忙碌。”八师一五〇团十二连职工吴仁平说，自从有了智能化节水滴灌泵房，供水效率、节水效率都提高了，自家棉田亩均籽棉产量也提高到590多公斤。</p><p style="text-indent: 2em; text-align: left;">水是农业的命脉。兵团组建初期，本着不与民争利的原则，大多团场分布在沙漠边缘及边境一线。军垦战士们在荒漠戈壁上挖渠引水、开荒种地，将戈壁荒滩变成了“希望的田野”，但水资源匮乏等因素一直制约着兵团农业的发展。</p><p style="text-indent: 2em; text-align: left;">如何在有限水资源条件下，实现农业可持续、高质量发展？以建设节水型农业为突破口，兵团加快实施节水技术改造，持续探索田间高效节水新技术、新模式。</p><p style="text-indent: 2em; text-align: left;">“上世纪90年代，在国家的重视和支持下，兵团从以色列引进了滴灌设备。这些滴灌设备节水效果明显，但高昂的价格让人望而却步。为此，兵团组织多学科专家对滴灌技术和设备进行联合攻关。”新疆农垦科学院农田水利与土壤肥料研究所研究员周建伟告诉记者。</p><p style="text-indent: 2em; text-align: left;">通过科研院所、本土企业的研究和探索，兵团不断推进节水灌溉条件下作物栽培技术研究、产品开发、系统集成，完善配套技术体系，农业灌溉方式逐步由大田漫灌、喷灌、涌泉灌、自压微水头软管灌发展为智能膜下滴灌。</p><p style="text-indent: 2em; text-align: left;">走进新疆天业节水灌溉股份有限公司（以下简称“天业节水”）展示区，各种类型的滴灌带产品整齐排列，从单翼迷宫式滴灌带到锯齿形高抗堵滴灌带，从纳米高强内镶式滴灌带到管上式压力补偿式滴灌带，让人不禁感叹滴灌产品的丰富多样。</p><p style="text-indent: 2em; text-align: left;">“这种纳米高强内镶式滴灌带的价格从此前的每米1元降到如今的0.1元，职工群众都能用得起。”天业节水石河子分公司综合办公室主任马忠向记者介绍。</p><p style="text-indent: 2em; text-align: left;">在科技创新引领下，适应不同环境、不同作物、不同土壤条件的各类节水产品应运而生：高抗堵滴灌带降低了流态指数，提高了灌水均匀性；排盐用PVC/PE单壁打孔波纹管耐老化性能优异，可满足机械开沟、铺管、覆土一体化施工要求……</p><p style="text-indent: 2em; text-align: left;">目前，兵团已建成全国最大的节水灌溉示范基地，以膜下滴灌和水肥一体化技术为主的高效节水灌溉面积达2061万亩，占总灌溉面积的83%，覆盖40多种大田作物，在全国每年应用面积超过1亿亩。</p><p style="text-indent: 2em; text-align: left;">2023年，对于天业节水研发管理中心项目主管杨开文来说是极具意义的一年，他向乌兹别克斯坦锡尔河州农场主阿卜杜拉·贝克马托夫许下的承诺兑现了——将籽棉平均亩产提高到400公斤，这是兵团膜下滴灌技术在国外创造的又一个奇迹。</p><p style="text-indent: 2em; text-align: left;">随着共建“一带一路”朋友圈不断扩大，近年来，以天业节水为代表的兵团企业持续加快“走出去”步伐，把兵团的高效节水灌溉和水肥一体化等现代化农业技术、装备产品以及培训服务整合成套，推广到世界各地。截至目前，兵团膜下滴灌技术已成功输出到18个国家，广泛应用于棉花、玉米、番茄等多种作物，累计推广面积达16万亩。</p><p style="text-indent: 2em; text-align: left;">兵团人对“一滴水”的价值探索没有止步。</p><p style="text-indent: 2em; text-align: left;">“田间节水技术还有发展的空间！”中国工程院院士、新疆农垦科学院研究员尹飞虎表示，要继续在提高技术到位率上下功夫，实现精准灌溉、精准施肥，从而达到节水、增产、增效的目标。</p><p style="text-indent: 2em; text-align: left;">“乘着共建‘一带一路’的东风，天业节水将为更多发展中国家带去节水农业的‘兵团方案’，让更多农户用上经济实惠的滴灌产品。”天业节水总经理杨万森说。</p><p style="text-indent: 2em; text-align: left;"></p>
+                
+                <!--div class="y_shareBox" id="y_shareBox">
+<!-- GWD SHARE BEGIN 底部横条分享代码
+<div class="mainShareDiv_24">
+<a href="//share.gwd.gov.cn/" target="_blank"><div id="shareLeftLink"></div></a>
+<div id="gwdShare_con_1">
+<div class="gwdshare_t gwds_tools_24 get-codes-gwdshare">
+<a class="gwds_people gwds_bottom_leftbutton"></a>
+<a class="gwds_tsina gwds_bottom_centerbutton"></a>
+<a class="gwds_tqq gwds_bottom_centerbutton"></a>
+<span class="gwds_more gwds_bottom_more"></span>
+</div>
+</div>
+</div>
+<!-- GWD SHARE END >
+
+</div>-->
+                <!-- JiaThis Button BEGIN 分享-->
+                <!--<div class="jiathis_style_32x32 m-t-lg m-b-lg shareBox">
+                   
+                  <cms:share code="bdshare"></cms:share>
+                </div>
+                <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+               
+                <div class="p-sm"></div>-->
+ <!-- JiaThis Button END -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--end主体-->
+      
+      <!--start 页脚-->
+      
+<!--start 页脚-->
+<div class="footer" >
+	<div class="container">
+		<div class="footTop">
+			<ul class="list-unstyled text-center">
+				<li class="link-item1">
+					<a href="http://www.gov.cn/" target="_blank"><span style="background: #e1effc;">中央政府门户网站</span></a>
+				</li>
+				<li class="link-item2">
+					<span>各省市政府</span>
+					<div class="link_list clearself hide">
+						<ul class="row list-unstyled">
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.beijing.gov.cn/" id="ci33028" target="_blank">北京</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.tj.gov.cn/" id="ci33027" target="_blank">天津</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.hebei.gov.cn/" id="ci33026" target="_blank">河北</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.shanxi.gov.cn" id="ci33025" target="_blank">山西</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.nmg.gov.cn/" id="ci33024" target="_blank">内蒙古</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.ln.gov.cn" id="ci33023" target="_blank">辽宁</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.jl.gov.cn" id="ci33022" target="_blank">吉林</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.hlj.gov.cn" id="ci33021" target="_blank">黑龙江</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.shanghai.gov.cn/" id="ci33020" target="_blank">上海</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.jiangsu.gov.cn/" id="ci33019" target="_blank">江苏</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.zj.gov.cn" id="ci33018" target="_blank">浙江</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.ah.gov.cn/" id="ci33017" target="_blank">安徽</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.fujian.gov.cn" id="ci33016" target="_blank">福建</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.jiangxi.gov.cn" id="ci33015" target="_blank">江西</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.shandong.gov.cn/" id="ci33014" target="_blank">山东</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.henan.gov.cn/" id="ci33013" target="_blank">河南</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.hubei.gov.cn/" id="ci33012" target="_blank">湖北</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.hunan.gov.cn/" id="ci33011" target="_blank">湖南</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.gd.gov.cn/" id="ci33010" target="_blank">广东</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.gxzf.gov.cn/" id="ci33009" target="_blank">广西</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.hainan.gov.cn/" id="ci33008" target="_blank">海南</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.cq.gov.cn/" id="ci33007" target="_blank">重庆</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.sc.gov.cn" id="ci33006" target="_blank">四川</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.guizhou.gov.cn/" id="ci33005" target="_blank">贵州</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.yn.gov.cn/" id="ci33004" target="_blank">云南</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.xizang.gov.cn/" id="ci33003" target="_blank">西藏</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.shaanxi.gov.cn/" id="ci33002" target="_blank">陕西</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.gansu.gov.cn/" id="ci33001" target="_blank">甘肃</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.qinghai.gov.cn/" id="ci33000" target="_blank">青海</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.nx.gov.cn/" id="ci32999" target="_blank">宁夏</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.xinjiang.gov.cn/" id="ci32998" target="_blank">新疆</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.gov.hk/" id="ci32997" target="_blank">香港</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.gov.mo/" id="ci32996" target="_blank">澳门</a></li>
+							<li class="col-md-3 col-sm-4 col-xs-12"> 台湾 </li>
+						</ul>
+					</div>
+				</li>
+				<li class="link-item3">
+					<span>兵团政务</span>
+					<div class="link_list clearself hide">
+						 
+						<div class="p-sm"></div>
+						<ul class="row list-unstyled">
+							<li class="col-md-3 col-sm-4 col-xs-12 bold">机关各部门</li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://kjj.xjbt.gov.cn/" target="_blank">科学技术局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://nyj.xjbt.gov.cn" target="_blank">农业农村局（畜牧兽医局）</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12">机要局</li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btjw.xjbt.gov.cn" target="_blank">纪委监委</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btgxj.xjbt.gov.cn" target="_blank">工业和信息化局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://swj.xjbt.gov.cn/" target="_blank">商务局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12">老干局</li>
+<li class="col-md-3 col-sm-4 col-xs-12">巡视办</li>
+                          <!-- http://btgaj.xjbt.gov.cn/   /gaj/-->
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btgaj.xjbt.gov.cn" target="_blank">公安局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://wtgl.xjbt.gov.cn/" target="_blank">文广局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12">网信办</li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.xjbt.gov.cn" target="_blank">兵团党委办公厅、兵团办公厅</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12">安全局</li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://wsj.xjbt.gov.cn" target="_blank">兵团卫生健康委</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btybj.xjbt.gov.cn/" target="_blank">兵团医疗保障局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12">组织部</li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://mzj.xjbt.gov.cn/" target="_blank">民政局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><!--<a href="http://www.xjbt.gov.cn/sjj/" target="_blank">-->退役军人事务局<!--</a>--></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://shujj.xjbt.gov.cn/" target="_blank">数据局</a></li> 
+<!-- <li class="col-md-3 col-sm-4 col-xs-12"><a href="http://xcb.xjbt.gov.cn" target="_blank">党委宣传部</a></li> -->
+<li class="col-md-3 col-sm-4 col-xs-12">党委宣传部</li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://sfj.xjbt.gov.cn/" target="_blank">司法局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12">审计局</li>
+<li class="col-md-3 col-sm-4 col-xs-12">信访局</li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://bttzb.xjbt.gov.cn" target="_blank">党委统一战线工作部</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://cwj.xjbt.gov.cn/" target="_blank">财政局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://sjj.xjbt.gov.cn/" target="_blank">市场监督管理局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><!--<a href="http://www.xjbt.gov.cn/glj/" target="_blank">-->机关事务管理局<!--</a>--></li>                          
+<li class="col-md-3 col-sm-4 col-xs-12">党委社会工作部</li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://rsj.xjbt.gov.cn/" target="_blank">人力资源和社会保障局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btwql.xjbt.gov.cn/" target="_blank">外事办公室</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btftu.xjbt.gov.cn/" target="_blank">工会</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://zfw.xjbt.gov.cn" target="_blank">兵团政法委员会</a></li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://zrzy.xjbt.gov.cn/" target="_blank">自然资源局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://yjglj.xjbt.gov.cn" target="_blank">兵团应急管理局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://tw.xjbt.gov.cn/" target="_blank">团委</a></li> 
+<li class="col-md-3 col-sm-4 col-xs-12">政策研究室</li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://sthjj.xjbt.gov.cn" target="_blank">生态环境局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12">乡村振兴局</li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://fl.xjbt.gov.cn" target="_blank">妇女联合会</a></li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://bwb.xjbt.gov.cn" target="_blank">兵团党委编办</a></li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://jshbj.xjbt.gov.cn/" target="_blank">住房和城乡建设局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://jrjdglj.xjbt.gov.cn/" target="_blank">兵团党委金融办</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btwl.xjbt.gov.cn/" target="_blank">文联</a></li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><!--<a href="http://www.xjbt.gov.cn/zdgb/bzdgw/" target="_blank">-->兵团党委直属机关工作委员会<!--</a>--></li>    
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://jtj.xjbt.gov.cn/" target="_blank">交通运输局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://jygl.xjbt.gov.cn" target="_blank">兵团监狱管理局</a></li>  
+<li class="col-md-3 col-sm-4 col-xs-12">残疾人联合会</li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://gyzc.xjbt.gov.cn/" target="_blank">国有资产监督管理委员会</a></li>                          
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btslj.xjbt.gov.cn/" target="_blank">水利局</a></li> 
+<li class="col-md-3 col-sm-4 col-xs-12">保密局</li>
+<li class="col-md-3 col-sm-4 col-xs-12">工商业联合会</li>   
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btfgw.xjbt.gov.cn/" target="_blank">发展和改革委员会（兵团粮食和物资储备局）</a></li>                             
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://btjyj.xjbt.gov.cn/" target="_blank">教育局</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://dczd.xjbt.gov.cn/" target="_blank">兵团调查总队</a></li> 
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://fy.xjbt.gov.cn/" target="_blank">法院</a></li>                           
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://dwdx.xjbt.gov.cn/" target="_blank">兵团党委党校(行政学院)</a></li>                        
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://jcy.xjbt.gov.cn/" target="_blank">兵团检察院</a></li>
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://hszh.xjbt.gov.cn/" target="_blank">兵团红十字会</a></li>
+<!--li class="col-md-3 col-sm-4 col-xs-12"><a href="http://kjj.xjbt.gov.cn/" target="_blank">科协</a></li-->
+<li class="col-md-3 col-sm-4 col-xs-12"><a href="http://tjj.xjbt.gov.cn/" target="_blank">统计局</a></li>                          
+
+						</ul>
+					</div>
+				</li>
+ 
+  <!-- pc端师市-->               
+<li class="link-item4 hidden-xs hidden-sm">
+					<span>师市政务</span>	 
+					<div class="link_list clearself hide">
+						<ul class="row list-unstyled" style="width:1010px;">
+						<!--	<li class="col-md-3 col-sm-4 col-xs-12 bold">各师市</li> -->
+                               <li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.ale.gov.cn/" target="_blank">第一师阿拉尔市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href="https://www.tmg.gov.cn/" target="_blank">第二师铁门关市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.xjbtnss.gov.cn/ " target="_blank">第三师图木舒克市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.cocodala.gov.cn/ " target="_blank">第四师可克达拉市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.xjshs.gov.cn/ " target="_blank">第五师双河市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.wjq.gov.cn/ " target="_blank">第六师五家渠市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.nqs.gov.cn/ " target="_blank">第七师胡杨河市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.shz.gov.cn/ " target="_blank">第八师石河子市</a></li>                        
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.btdjs.gov.cn/ " target="_blank">第九师白杨市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.bts.gov.cn/ " target="_blank">第十师北屯市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.btdsys.gov.cn/ " target="_blank">第十一师</a></li>                                        
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.12s.gov.cn/ " target="_blank">第十二师</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.btnsss.gov.cn/ " target="_blank">第十三师新星市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.btdsss.gov.cn/ " target="_blank">第十四师昆玉市</a></li> 
+						</ul>
+					</div>
+				</li>  
+     <!-- pc端师市-->           
+ <!-- 移动端师市-->             
+<li class="link-item4 hidden-lg hidden-md">
+					<span>师市政务</span>	 
+					<div class="link_list clearself hide">
+						<ul class="row list-unstyled">
+						<!--	<li class="col-md-3 col-sm-4 col-xs-12 bold">各师市</li> -->
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href="http://www.ale.gov.cn/" target="_blank">第一师阿拉尔市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href="https://www.tmg.gov.cn/" target="_blank">第二师铁门关市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.xjbtnss.gov.cn/ " target="_blank">第三师图木舒克市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.cocodala.gov.cn/ " target="_blank">第四师可克达拉市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.xjshs.gov.cn/ " target="_blank">第五师双河市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.wjq.gov.cn/ " target="_blank">第六师五家渠市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.nqs.gov.cn/ " target="_blank">第七师胡杨河市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.shz.gov.cn/ " target="_blank">第八师石河子市</a></li>                        
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.btdjs.gov.cn/#/ " target="_blank">第九师白杨市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.bts.gov.cn/ " target="_blank">第十师北屯市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.btdsys.gov.cn/ " target="_blank">第十一师</a></li>                                        
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.12s.gov.cn/ " target="_blank">第十二师</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" http://www.btnsss.gov.cn/ " target="_blank">第十三师新星市</a></li>
+                                <li class="col-md-3 col-sm-4 col-xs-12"><a href=" https://www.btdsss.gov.cn/ " target="_blank">第十四师昆玉市</a></li> 
+						</ul>
+					</div>
+				</li>                
+               <!-- 移动端师市--> 
+              
+			</ul>
+		</div>
+		<div class="footLink">
+			<div class="row">
+				<div class="col-md-2 p-t-sm   ideConac">
+					<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript  src='http://dcs.conac.cn/js/32/000/0000/55015067/CA320000000550150670004.js' type='text/javascript'%3E%3C/script%3E"));</script>
+					<!---<a class=" hidden-sm hidden-md hidden-lg" href="https://pucha.kaipuyun.cn/exposure/jiucuo.html?site_code=BT00000020&url=http%3A%2F%2Fwww.xjbt.gov.cn%2F" target="_blank"><img src="${prefix('images/jiucuo.png')}" style="    border: none;"></a>-->
+				</div>
+              <!--<div class="col-md-2 p-t-sm text-right ideConac hidden-sm hidden-md hidden-lg">
+                <img src="${prefix('imgs/daducha_new.jpg')}" width="98" height="98"/>
+              </div>-->                
+                <div class="col-md-10 text-center">
+					<div class="text-white m-t-sm">                      
+						<a class="text-white m-r-xs m-l-xs" target="_blank"style="color:#fff;" href="/c/2014-11-30/505838.shtml">关于网站</a>|
+						<a class="text-white m-r-xs m-l-xs" target="_blank" style="color:#fff;" onclick="shoucang(document.title,window.location)">收藏本站</a>|
+						 <a class="text-white m-r-xs m-l-xs" target="_blank"style="color:#fff;" href="/gywm/zddt/">站点地图</a>
+					<a class="pull-right hidden-xs m-t"  ><script id="_jiucuo_" sitecode='BT00000020' src='https://zfwzgl.www.gov.cn/exposure/jiucuo.js'></script></a>
+					</div>
+					 
+                  <div class="text-white m-t-sm">主 办：新疆生产建设兵团 承办：兵团办公厅<a target="_blank" href="https://beian.miit.gov.cn/#/Integrated/index" style="color:white;">新ICP备10002232号-6</a>
+						<a class="text-white m-r-xs m-l-xs" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=66010002000103" style="color: #fff;text-decoration: none;/* display:inline-block; */"><img src="/images/footer_beianIcon.png" style="">公网安备 66010002000103</a>
+					</div>
+				</div>
+			</div>
+			<div class="text-white m-t-sm  juzhong" style="text-align:center;">网站标识码：BT00000020  网站访问统计：
+             <span id="_zving_totalhitcount">
+<span id=_zving_totalhitcount />
+<script src="http://www.xjbt.gov.cn/zcms/front/site/122/counter?Type=Total&SiteID=122&DomID=_zving_totalhitcount&VarName=_zving_totalhitcount" type="text/javascript"></script>
+</span>
+              </div>
+          <!-- 建议使用1024×768分辨率 IE8.0以上版本浏览器   -->
+		</div>
+	</div>
+</div>
+<!-- 快捷方式开始 -->
+<div class="rightMenu hidden-xs" style="top:20%;">
+	<ul class="menuList list-unstyled">
+		<li><a target="_blank" href="/"><img src="/imgs/zl_img12.gif"/></a></li>
+	</ul>
+	<!-- 侧边浮动层结束 -->
+	<script type="text/javascript">
+	function zhankai(){
+		document.all.zhankai.style.display="";
+	document.all.shousuo.style.display="none";
+	}
+	function shousuo(){
+	document.all.shousuo.style.display="";
+	document.all.zhankai.style.display="none";
+	}
+	</script>
+	<div id="zhankai">
+       <div  style="background: #dcdcdc;">
+			<img src="/imgs/daducha_new.jpg" width="98" height="98"/>
+			<h3 class="font14 h3 text-center">互联网+督查</h3>
+		</div>
+		<div  style="background: #dcdcdc;    width: 98px;">
+			<img src="/imgs/zamyjjxs.jpg" width="98" height="98"/>
+			<h3 class="font14 h3 text-center"　style="  width: 98px;">阻碍民营经济发展壮大问题线索</h3>
+		</div>
+		<ul class="shareList list-unstyled" id="shareList">
+		
+			<li><a href="#" class="list_top">回到顶部</a></li>
+			<li> <a class="list_upp" onclick="shousuo()">收缩</a></li>
+		</ul>
+	</div>
+	<div id="shousuo" style="display:none;">
+		<ul class="shareList list-unstyled" id="shareList">
+			<li><a class="list_down" onclick="zhankai()">展开</a></li>
+		</ul>
+	</div>
+</div>
+<div class="rightMenu hidden-xs" style="left:0px;width:100px;">
+	
+
+	<div id="zhankaiL" style="margin-top:100px;">
+       	<div  style="background: #dcdcdc;">
+			<img src="/imgs/weixin.jpg" width="98" height="98"/>
+			<h3 class="font14 h3 text-center">兵团公众号</h3>
+		</div>
+      <div  style="background: #dcdcdc;">
+			<img src="/imgs/app_android_xz.png" width="98" height="98"/>
+			<h3 class="font14 h3 text-center">"兵政通"APP</h3>
+		</div>
+      <div  style="background: #dcdcdc;">
+			<img src="/imgs/xcx.png" width="98" height="98"/>
+			<h3 class="font14 h3 text-center">"兵政通"小程序</h3>
+		</div>
+     <!-- <div  style="background: #dcdcdc;">
+			<img src="${prefix('imgs/mzpy.jpg')}" width="98" height="98"/>
+			<h3 class="font14 h4 text-center">作风基层评!</h3>
+		</div>-->
+      <ul class="shareList list-unstyled" id="shareList">
+		
+			<li><a href="#" class="list_top">回到顶部</a></li>
+			<li> <a class="list_upp" onclick="shousuoL()">收缩</a></li>
+		</ul>
+	</div>
+	<div id="shousuoL" style="display:none;">
+		<ul class="shareList list-unstyled" id="shareList">
+			<li><a class="list_down" onclick="zhankaiL()">展开</a></li>
+		</ul>
+	</div>
+	</div>
+	
+</div>
+  	<!-- 侧边浮动层结束 -->
+	<script type="text/javascript">
+	function zhankaiL(){
+	 document.all.zhankaiL.style.display="";
+	document.all.shousuoL.style.display="none";
+	}
+	function shousuoL(){
+	document.all.shousuoL.style.display="";
+	document.all.zhankaiL.style.display="none";
+	}
+	</script>
+<!---**** 快捷方式结束 ***--->
+<!--end页脚-->
+<!--end页脚-->
+<link rel="stylesheet" href="/v3/css/slick.css" type="text/css" />
+<script type="text/javascript" src="/v3/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="/v3/js/bootstrap.min.js"></script>
+<script src="/v3/js/hammer.min.js"></script>
+<script type="text/javascript" src="/v3/js/v3_common.js"></script>
+<script type="text/javascript" src="/v3/js/v3_site.js"></script>
+<!--收藏网站-->
+<script>
+			// 加入收藏 兼容360和IE6 
+function shoucang(sTitle,sURL) { 
+try { 
+window.external.addFavorite(sURL, sTitle); 
+} catch (e) { 
+try  { 
+window.sidebar.addPanel(sTitle, sURL, ""); 
+} catch (e) { 
+alert("加入收藏失败，请使用Ctrl+D进行添加"); 
+} 
+} 
+} 
+
+</script>
+      <!--end页脚-->
+      <script>
+              $(function(){
+	  var bread_name = $("#breads");
+  		new_name = bread_name.text().replace("/内容编辑区","");
+  		$("#breadnew").text(new_name);
+  });
+        var curCatalogInnerCode = "008395000002000002";//获取当前页面所在栏目的InnerCode，这句不能够写在外部js文件里
+        for ( var i = 1, len = curCatalogInnerCode.length; i < len / 6 + 1; i++) {
+          var innerCode = curCatalogInnerCode.substring(0, i * 6);
+          var catalogElement = document.getElementById(innerCode);
+          if (catalogElement) {
+            catalogElement.className += "current";
+          }
+        }
+      </script>
+      
+      <script type="text/javascript">
+        $(function(){
+          // 新闻轮播
+          $('.news-imgPlay').slick({
+            dots: true
+          });
+        })
+      </script>
+      
+    
+<script src="http://www.xjbt.gov.cn/zcms/stat/front/stat.js" type="text/javascript"></script>
+<script>
+if(window._zcms_stat)_zcms_stat("SiteID=122&CatalogInnerCode=008395000002000002&Type=Article&LeafID=8347950&Dest=http://www.xjbt.gov.cn/zcms/front/stat/dealer");
+</script>
+<!-- App=ZCMS(ZCMS内容管理系统) 3.2.7,CostTime=2,PublishDate=2026-09-01 12:41:07 -->
+
+<script src="http://www.xjbt.gov.cn/zcms/recommend/js/fingerprint.js" type="text/javascript"></script>
+
+<script src="http://www.xjbt.gov.cn/zcms/recommend/js/recommendstat.js" type="text/javascript"></script>
+<script>
+if(window._zcms_recommendstat)_zcms_recommendstat("SiteID=122&ContentID=8347950&RecommendType=Content&Dest=http://www.xjbt.gov.cn/zcms/front/recommends/dealer");
+</script>
+</body>
+  </html>

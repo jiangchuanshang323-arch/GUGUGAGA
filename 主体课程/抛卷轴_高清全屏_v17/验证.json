@@ -1,0 +1,20 @@
+{
+  "demo_decode": "PASS",
+  "demo_seconds": 7.211416666666665,
+  "native_image": [
+    1860,
+    1239
+  ],
+  "prior_image": [
+    620,
+    413
+  ],
+  "linear_resolution_gain": 3,
+  "ai_redraw": false,
+  "animation": "pouch retrieve -> wrist flick -> parabolic airborne spin -> horizontal unroll -> continuous camera push-in",
+  "no_presenter_in_explanation": true,
+  "subtitles": "bottom 46px",
+  "voice": "cached v16, no new synthesis",
+  "full_segment_rendered": false,
+  "output": "G:\\Arthur\\数字微课\\主体课程\\抛卷轴_高清全屏_v17\\交付\\轻抖抛卷轴_高清全屏_demo_v17.mp4"
+}

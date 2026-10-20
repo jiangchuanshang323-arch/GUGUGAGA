@@ -1,0 +1,46 @@
+{
+  "video": "G:\\Arthur\\数字微课\\固定剖面_局部强调_v30\\交付\\厄尔尼诺_固定剖面逐句讲解_v30.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames_checked": 905,
+  "decoded_frames": 904,
+  "old_decoded_frames": 904,
+  "old_video_duration": 37.69,
+  "new_video_duration": 37.69,
+  "audio_duration": 37.693583333333336,
+  "source_audio_sha256": "0f2b1f5de2aae45fc4e1f23b79e18685d59d85fc660ccd9ed252335345135120",
+  "audio_reused": true,
+  "subtitles_equal_v29": true,
+  "camera_fixed": true,
+  "circles": 0,
+  "max_primary_emphasis": 1,
+  "decode": "PASS",
+  "geometry_failures": [],
+  "checks": [
+    "每帧标签安全区与文字内边距",
+    "每帧标签相互避让",
+    "每帧标签与箭头云朵及温跃层边界避让",
+    "每帧字幕安全区",
+    "每帧对象边界",
+    "每帧连续参数位移",
+    "每帧固定镜头及单主强调",
+    "输出解码帧数及新旧视频时长"
+  ],
+  "visual_review": "PASS：复核12–16、19–25、28–35秒联系表与全片关键节点；另检查最终MP4解码抽帧及总结文字字形。",
+  "limit": "几何检测使用对象包围盒，逐帧自动检查并不等于逐帧人工观看。科学水层是定性剖面，未使用真实深度比例。",
+  "subtitle_content_check": "PASS：全部帧字幕逐字对照v29原文",
+  "water_structure_check": "PASS：暖水东移时西侧变薄且东侧增厚；随后东部继续加深，异常态温跃层趋平。",
+  "max_geometry_step_per_frame": {
+    "cloud_x": 21.72691918309272,
+    "wind_tip": 31.001495171497368,
+    "thermocline_west": 2.629399854159743,
+    "thermocline_east": 2.675408457481666,
+    "upwell_tip": 6.039151627991146
+  },
+  "output_sha256": "5ee3f80d1ec6ab687e2e6b92e04b1f18b6927b73af7e6d4d2b9228956a7e8fc7",
+  "mux_frame_note": "生成及检查905帧；最短音视频封装保留904帧，与v29输出帧数及37.69秒总时长一致。",
+  "timeline_sha256": "ac08d4623dae7df30d5f40c7aa28ffc436bcc26d778a1ddbbed37ad6da86f32d"
+}

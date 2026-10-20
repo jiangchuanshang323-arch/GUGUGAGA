@@ -1,0 +1,16 @@
+{
+  "output": "G:\\Arthur\\数字微课\\视频交付\\独立片段\\05_环境多米诺_水\\demooooo.mp4",
+  "seconds": 68.51829166666667,
+  "frames": 1645,
+  "decode": "PASS",
+  "font_scale": {
+    "教学内容": 1.5,
+    "章节封签": 1,
+    "气泡": 1,
+    "底部字幕": 1
+  },
+  "visual_review": "PASS: 实际编码节点抽帧复核，涵盖连续云雨、一秒停留、纸卷厚度、推板短翅膀、原完整教鞭姿势、地图局部强调、水循环逐步箭头；非逐帧人工观看。",
+  "character_uses_bubble": true,
+  "sha256": "744e6eb883fc9ac42af86c667bc30947bce54ef2d96cb5f73ff5c9fbf626859e",
+  "qa_contact": "G:\\Arthur\\数字微课\\卷图推板与五牌\\检查\\最终编码_修正复核.jpg"
+}

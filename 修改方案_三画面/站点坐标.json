@@ -1,0 +1,25 @@
+{
+  "canvas": [
+    1920,
+    1080
+  ],
+  "checkpoints": [
+    [
+      350,
+      793
+    ],
+    [
+      765,
+      532
+    ],
+    [
+      1223,
+      843
+    ],
+    [
+      1692,
+      531
+    ]
+  ],
+  "walking_layer": "separate character, not baked into the route image"
+}

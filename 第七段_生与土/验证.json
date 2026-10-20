@@ -1,0 +1,20 @@
+{
+  "output": "G:\\Arthur\\数字微课\\demooo\\独立片段\\07_生与土\\海洋发烧了_第七段_生与土.mp4",
+  "seconds": 54.750458333333334,
+  "frames": 1315,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "decode": "PASS",
+  "character_present": false,
+  "sha256": "f8933318fe89396d9ee68b21afb8c998990f94205f138bedcfcf8c3c9b694921",
+  "bytes": 5282487,
+  "encoded_frames_verified": 12,
+  "all_frame_text_bounds": "PASS",
+  "actual_fps": "24",
+  "visual_review": "PASS：12个实际编码节点人工复核；完整解码及1315渲染帧文字边界检查通过，非逐帧人工观看",
+  "previous_master_unchanged": true,
+  "superseded_scope": "本文件原检查针对串讲改版前基片；当前交付以多米诺转场_企鹅串讲/验证.json为准"
+}

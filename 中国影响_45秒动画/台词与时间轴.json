@@ -1,0 +1,115 @@
+{
+  "duration": 45,
+  "fps": 24,
+  "voice": "zh-CN-XiaoyiNeural +5%; limited local time fitting",
+  "lines": [
+    {
+      "mode": "引入",
+      "text": "厄尔尼诺，会怎样影响中国？",
+      "start": 0.25,
+      "speech_end": 2.397375,
+      "end": 2.72,
+      "natural_duration": 2.147375,
+      "tempo": 1
+    },
+    {
+      "mode": "降水",
+      "text": "先看降水。",
+      "start": 3.95,
+      "speech_end": 4.795041666666667,
+      "end": 5.3,
+      "natural_duration": 0.8450416666666667,
+      "tempo": 1
+    },
+    {
+      "mode": "南方",
+      "text": "部分厄尔尼诺事件的次年夏季，长江中下游更容易多雨。",
+      "start": 5.35,
+      "speech_end": 9.648708333333332,
+      "end": 9.65,
+      "natural_duration": 4.31475,
+      "tempo": 1.0034302325581395
+    },
+    {
+      "mode": "北方",
+      "text": "北方一些地区则可能偏旱。",
+      "start": 9.8,
+      "speech_end": 11.850000000000001,
+      "end": 11.85,
+      "natural_duration": 2.1020416666666666,
+      "tempo": 1.025386178861789
+    },
+    {
+      "mode": "洪水风险",
+      "text": "雨下得多、持续得久，洪水风险也会增加。",
+      "start": 11.95,
+      "speech_end": 15.512291666666666,
+      "end": 15.55,
+      "natural_duration": 3.562291666666667,
+      "tempo": 1
+    },
+    {
+      "mode": "案例",
+      "text": "1998年长江大洪水背后，就有厄尔尼诺的影响。",
+      "start": 15.7,
+      "speech_end": 19.575,
+      "end": 19.85,
+      "natural_duration": 3.875,
+      "tempo": 1
+    },
+    {
+      "mode": "台风",
+      "text": "再看台风。发展期，生成区往往偏东、偏南，",
+      "start": 20.3,
+      "speech_end": 24.72,
+      "end": 24.72,
+      "natural_duration": 4.515541666666667,
+      "tempo": 1.0216157616892916
+    },
+    {
+      "mode": "增强",
+      "text": "部分台风有更长时间增强。",
+      "start": 24.9,
+      "speech_end": 26.958416666666665,
+      "end": 27.45,
+      "natural_duration": 2.0584166666666666,
+      "tempo": 1
+    },
+    {
+      "mode": "风险",
+      "text": "但强度和登陆地点，还要看具体环境。",
+      "start": 27.63,
+      "speech_end": 30.5,
+      "end": 30.5,
+      "natural_duration": 2.914833333333333,
+      "tempo": 1.0156213704994188
+    },
+    {
+      "mode": "暖冬",
+      "text": "冬季，我国大部常接近常年到偏暖，地区差异明显。",
+      "start": 31.3,
+      "speech_end": 35.4,
+      "end": 35.4,
+      "natural_duration": 4.431,
+      "tempo": 1.0807317073170737
+    },
+    {
+      "mode": "寒潮",
+      "text": "暖冬不等于一直暖。冷空气仍会南下，带来冷暖交替。",
+      "start": 35.62,
+      "speech_end": 40.27770833333333,
+      "end": 40.5,
+      "natural_duration": 4.657708333333333,
+      "tempo": 1
+    },
+    {
+      "mode": "收束",
+      "text": "这是气候倾向，具体天气还要看预报。",
+      "start": 41.2,
+      "speech_end": 44.16454166666667,
+      "end": 44.65,
+      "natural_duration": 2.964541666666667,
+      "tempo": 1
+    }
+  ]
+}

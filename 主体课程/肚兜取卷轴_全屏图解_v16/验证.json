@@ -1,0 +1,12 @@
+{
+  "demo_decode": "PASS",
+  "demo_seconds": 7.211416666666665,
+  "full_segment_rendered": false,
+  "transition_seconds": 2.8,
+  "source": "same NOAA original; camera crop and enlarged independent Chinese labels",
+  "diagram_width_px": 1750,
+  "subtitles": "bottom band; 46px",
+  "no_presenter_after_transition": true,
+  "no_concat": true,
+  "output": "G:\\Arthur\\数字微课\\主体课程\\肚兜取卷轴_全屏图解_v16\\交付\\肚兜取卷轴_全屏图解_demo_v16.mp4"
+}

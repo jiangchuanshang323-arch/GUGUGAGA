@@ -1,0 +1,38 @@
+{
+  "segments": {
+    "05_环境多米诺_水": {
+      "seconds": 73.84,
+      "sha256": "685372f813e5b099afb42815ff230890e9344c911057f0a3e98d5ed96e72b5c6",
+      "bytes": 7486961
+    },
+    "06_水收束与气": {
+      "seconds": 64.8,
+      "sha256": "25f82726303b5a3dfc75e6eee18c211f086afd23ec95a76fd2b9e2093693ddef",
+      "bytes": 11990107
+    },
+    "07_生与土": {
+      "seconds": 57.73,
+      "sha256": "d934ce2e4561eab24caad5e6a425f2b4c6f20618bd2e4da45cbb30f4c1ebb0c0",
+      "bytes": 6638758
+    },
+    "08_地形与配对": {
+      "seconds": 56.73,
+      "sha256": "2d736afeac6204762e728ff1e3a8f4200373756c49641ba386e87eacdd49d937",
+      "bytes": 5722751
+    }
+  },
+  "preview": {
+    "seconds": 14.54,
+    "sha256": "d443355ee04f281fbb3a3ce848a260214778316de9826f2f47e23327efcd68cd",
+    "bytes": 2169948
+  },
+  "decode": "PASS",
+  "source_narration_retained": true,
+  "source_science_frames_retained_outside_transitions": true,
+  "geomorphology_pause": 1.1,
+  "character_has_bubble": true,
+  "domino_title_static": true,
+  "visual_review": "PASS：12个实际编码转场节点及8个正式交付节点复核，1046帧对象记录与679个气泡帧安全边界核对；非逐帧人工观看",
+  "canonical_frames_checked": 8,
+  "total_segment_seconds": 516.49
+}

@@ -1,0 +1,27 @@
+{
+  "source": "https://www.openstreetmap.org/relation/9392345",
+  "main_stream_ways": 65,
+  "endpoint_count": 2,
+  "endpoint_coordinates": [
+    [
+      104.6338044,
+      28.7707878
+    ],
+    [
+      122.3684686,
+      30.9935035
+    ]
+  ],
+  "topology": "continuous endpoint chain, no dangling internal endpoint",
+  "main_map_scale_vs_previous": 1.12,
+  "photo_native": [
+    1024,
+    666
+  ],
+  "photo_display": [
+    880,
+    572
+  ],
+  "penguin_screen_scale": 0.52,
+  "generated_cold_asset": "企鹅_围巾怕冷表情.png"
+}

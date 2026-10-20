@@ -1,0 +1,33 @@
+[
+  {
+    "file": "NOAA_冬季全球影响_原图.png",
+    "url": "https://www.climate.gov/sites/default/files/2025-04/el-nino-la-nina-winter-global-impacts-stacked-1800px.png",
+    "page": "https://www.climate.gov/news-features/featured-images/global-impacts-el-ni%C3%B1o-and-la-ni%C3%B1a",
+    "use": "厄尔尼诺12月至次年2月典型影响，仅截原图上半部；地形、色区和比例未改；完整八类图例中文对应置于图外。",
+    "size": [
+      1800,
+      1800
+    ],
+    "sha256": "cee72466a3fb8f2f842ed8b20b9262d022d3d442b4c1f80396c87e9497f2841a"
+  },
+  {
+    "file": "NASA_1997海温与降水.png",
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/40000/40887/ENSO_sst_rainfall_anomalies_199712.png",
+    "use": "候选未使用：仅720像素，不放大充当高清地图。",
+    "size": [
+      720,
+      342
+    ],
+    "sha256": "5bea7aacfc50eb6b4223f6d6a0767fc43c161f1c11568d5b4b5ec7ba9fa8c494"
+  },
+  {
+    "file": "NASA_2015印尼烟霾.jpg",
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/87000/87204/borneo_2015267_lrg.jpg",
+    "use": "候选留给后续土/火灾章节，本段不提前展开。",
+    "size": [
+      7200,
+      4800
+    ],
+    "sha256": "153f826f098a84de0f3901029cde371f5cf10b6f3c511b62bd4d357564dc32e9"
+  }
+]

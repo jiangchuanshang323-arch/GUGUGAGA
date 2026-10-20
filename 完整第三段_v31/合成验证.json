@@ -1,0 +1,37 @@
+{
+  "output": {
+    "file": "G:\\Arthur\\数字微课\\完整第三段_v31\\交付\\海洋发烧了_完整第三段_v31.mp4",
+    "seconds": 56.47,
+    "streams": [
+      "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 415 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 149 kb/s (default)"
+    ]
+  },
+  "decode": "PASS",
+  "new_voice_synthesis": false,
+  "old_diagram_replaced_not_repeated": true,
+  "scroll_contains_v30_art": true,
+  "energy_prefix_end": 15.916666666666666,
+  "bridge_seconds": 2.8333333333333335,
+  "v30_start": 18.75,
+  "sha256": "9165e036ab0c2c799fad1e859f61bd9d6af8845ed589615bae016ac5d2690ff6",
+  "inputs": [
+    {
+      "file": "G:\\Arthur\\数字微课\\合成成片_20261013_v23\\海洋发烧了_第三段_普通姿势卷轴_v23.mp4",
+      "seconds": 54.76,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 330 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 151 kb/s (default)"
+      ]
+    },
+    {
+      "file": "G:\\Arthur\\数字微课\\固定剖面_局部强调_v30\\交付\\厄尔尼诺_固定剖面逐句讲解_v30.mp4",
+      "seconds": 37.69,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 311 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, mono, fltp, 106 kb/s (default)"
+      ]
+    }
+  ],
+  "visual_review": "PASS：已检查取物、起跳上抛、正面普通姿势、卷轴新剖面展开以及正文衔接的MP4解码抽帧"
+}

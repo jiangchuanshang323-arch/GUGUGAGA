@@ -1,0 +1,404 @@
+{
+  "policy": "分段、合成版本、预览均以内容本名命名；每项保持一个固定交付路径，修改时覆盖。demooo仅为总文件夹名称。",
+  "segments": {
+    "00_开场": {
+      "path": "独立片段\\00_开场\\海洋发烧了_开场.mp4",
+      "seconds": 10.04,
+      "sha256": "afabbedcf83634afc04b84c209c5e3da5477a4d081c08f8b539f84d353b2f360",
+      "bytes": 8138894,
+      "source_frame_range": [
+        0,
+        241
+      ]
+    },
+    "01_三地情境": {
+      "path": "独立片段\\01_三地情境\\海洋发烧了_第一段_三地情境.mp4",
+      "seconds": 62.57,
+      "sha256": "bbfee0d543571b127f401e21a415c9fcaef029ef663021dad8c9dca6583f797e",
+      "bytes": 7191061,
+      "source_frame_range": [
+        241,
+        1598
+      ],
+      "chapter_title_entrance": "中央放大展示约1秒，再约1秒归位；原字号与内容保留"
+    },
+    "02_测体征": {
+      "path": "独立片段\\02_测体征\\海洋发烧了_第二段_测体征.mp4",
+      "seconds": 65.13,
+      "sha256": "b59ec362060f4cb8eec3c4e01aa84907392176258d8aed7f5c677dd42f158a2d",
+      "bytes": 6129582,
+      "source_frame_range": [
+        1598,
+        3161
+      ],
+      "chapter_title_entrance": "中央放大展示约1秒，再约1秒归位；原字号与内容保留"
+    },
+    "03_查病因": {
+      "path": "独立片段\\03_查病因\\海洋发烧了_第三段_查病因.mp4",
+      "seconds": 60.54,
+      "sha256": "c759b39e01250d8ddbc3015966553164cf42672c52d47b3ef8c8442a370b04c8",
+      "bytes": 5471224,
+      "source_frame_range": [
+        3161,
+        4515
+      ],
+      "chapter_title_entrance": "中央放大展示约1秒，再约1秒归位；原字号与内容保留"
+    },
+    "04_对照与预测": {
+      "path": "独立片段\\04_对照与预测\\海洋发烧了_第四段_对照与预测.mp4",
+      "seconds": 65.11,
+      "sha256": "cf6fdb5d1da98127c27c20882a16cc284eba329016f03aeac7fc22da4ec2a472",
+      "bytes": 3500183,
+      "chapter_title_entrance": "中央放大展示约1秒，再约1秒归位；原字号与内容保留"
+    },
+    "05_环境多米诺_水": {
+      "path": "独立片段\\05_环境多米诺_水\\海洋发烧了_第五段_环境多米诺_水.mp4",
+      "seconds": 70.25,
+      "sha256": "ffad53ebe1817e0dcd1f81f10d232c3d75fa54adfe4529a0b64ab9f0049b5cac",
+      "bytes": 7185580,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线"
+    },
+    "06_水收束与气": {
+      "path": "独立片段\\06_水收束与气\\海洋发烧了_第六段_水收束与气.mp4",
+      "seconds": 61.91,
+      "sha256": "7eaf8f50804e5f171443a9c893e280fdbc183d195c8c9e1e7f35daebcede86cd",
+      "bytes": 11923433,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线",
+      "word_shots": [
+        15,
+        16
+      ]
+    },
+    "07_生与土": {
+      "path": "独立片段\\07_生与土\\海洋发烧了_第七段_生与土.mp4",
+      "seconds": 51.53,
+      "sha256": "1425b06de98c659f0ce446da1da1d0a519f8c8b49c816c33f2756635f53a9f91",
+      "bytes": 6785849,
+      "decode": "PASS",
+      "word_shots": [
+        17,
+        18
+      ],
+      "new_segment_only": true,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线"
+    },
+    "08_地形与配对": {
+      "path": "独立片段\\08_地形与配对\\海洋发烧了_第八段_地形与配对.mp4",
+      "seconds": 53.3,
+      "sha256": "9ecb09d1e9cce7de04b6adf87a589e781ed5053e4df7a25aa383c77d6dc43177",
+      "bytes": 5453982,
+      "decode": "PASS",
+      "word_shots": [
+        19,
+        20
+      ],
+      "new_segment_only": true,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线"
+    },
+    "09_辨析与滞后": {
+      "path": "独立片段\\09_辨析与滞后\\海洋发烧了_第九段_辨析与滞后.mp4",
+      "seconds": 51.58,
+      "sha256": "20eebacf9afd95281f648f04d9341d0d2f1e2cd82842b0e570f632c304f3f466",
+      "bytes": 4217892,
+      "decode": "PASS",
+      "removed_lead_in": "接下来，把视线移向中国，再落到石河子。"
+    },
+    "11_适应与减缓": {
+      "path": "独立片段\\11_适应与减缓\\海洋发烧了_第十一段_适应与减缓.mp4",
+      "seconds": 48.95,
+      "sha256": "60eaa09b15b7e857ffa477323b9d85fe7b78ce1b64b087219047243558f4fc5f",
+      "bytes": 4193894,
+      "decode": "PASS",
+      "word_shots": [
+        24,
+        25
+      ],
+      "comment_ids": [
+        20
+      ]
+    },
+    "12_总结与检测": {
+      "path": "独立片段\\12_总结与检测\\海洋发烧了_第十二段_总结与检测.mp4",
+      "seconds": 63.54,
+      "sha256": "0261362c406e104b7ea5008c749dfe3ae58011e5e438128e4592afef0d839fcc",
+      "bytes": 4881520,
+      "decode": "PASS",
+      "word_shots": [
+        26,
+        27
+      ]
+    },
+    "10_中国影响": {
+      "path": "独立片段\\10_中国影响\\海洋发烧了_第十段_中国影响.mp4",
+      "seconds": 45.0,
+      "sha256": "90006f77332e9cd4bbeb9231c28b530be1a9006f9808a15ea0259fc69d266b8b",
+      "bytes": 37670105,
+      "decode": "PASS",
+      "generator": "中国影响_45秒动画/build_video.py",
+      "replaces": "10_石河子乡土",
+      "source_preview": "中国影响全屏动画"
+    }
+  },
+  "merges": {
+    "开场及前三段": {
+      "path": "合成版本\\开场及前三段\\海洋发烧了_开场及前三段.mp4",
+      "segments": [
+        "00_开场",
+        "01_三地情境",
+        "02_测体征",
+        "03_查病因"
+      ],
+      "seconds": 198.29,
+      "sha256": "4960e4b462ba1d892a6b98d47a1425bda35cc7f29b929ab45c5b15e4f9095d9f",
+      "bytes": 27449877
+    },
+    "第四段与第五段": {
+      "path": "合成版本\\第四段与第五段\\海洋发烧了_第四段与第五段.mp4",
+      "segments": [
+        "04_对照与预测",
+        "05_环境多米诺_水"
+      ],
+      "seconds": 135.36,
+      "sha256": "f475e4b98adb9b0e3e7cd58c354b9379237bcaf266c17794c5a67faef8dac4a5",
+      "bytes": 11034064
+    },
+    "目前完整成片": {
+      "path": "合成版本\\目前完整成片\\海洋发烧了_目前完整成片.mp4",
+      "segments": [
+        "00_开场",
+        "01_三地情境",
+        "02_测体征",
+        "03_查病因",
+        "04_对照与预测",
+        "05_环境多米诺_水",
+        "06_水收束与气",
+        "07_生与土",
+        "08_地形与配对",
+        "09_辨析与滞后",
+        "10_中国影响",
+        "11_适应与减缓",
+        "12_总结与检测"
+      ],
+      "seconds": 709.5,
+      "sha256": "9fbf054f8d79c58e81fc67633049fd787911f00d664fe46683041bee56d31a77",
+      "bytes": 303431014,
+      "scope": "完整课程：原第十段中国影响与石河子案例替换为新版45秒中国影响；保留适应与减缓、总结与检测",
+      "opening_count": 1,
+      "decode": "PASS",
+      "word_duration_limit_seconds": 600,
+      "meets_duration_limit": false,
+      "shihezi_case_included": false,
+      "shihezi_quiz_retained": true
+    },
+    "环境多米诺_水气生土地形": {
+      "path": "合成版本\\环境多米诺_水气生土地形\\海洋发烧了_环境多米诺完整段.mp4",
+      "segments": [
+        "05_环境多米诺_水",
+        "06_水收束与气",
+        "07_生与土",
+        "08_地形与配对"
+      ],
+      "trim_start_seconds": 31.043541666666673,
+      "scope": "第一张水牌起至地形后的配对互动，不含前面的预测和推板",
+      "seconds": 205.97,
+      "sha256": "d1dac2d2dbfe111411ab5bfe82116efe8761eda25047f8fb6da5badae2e8ff88",
+      "bytes": 27096918
+    }
+  },
+  "decode": "PASS",
+  "old_handoff_files_removed": [
+    {
+      "path": "G:\\Arthur\\数字微课\\统一章节标题_阶段成片_v35\\交付\\海洋发烧了_统一章节标题_v35.mp4",
+      "sha256": "04b00879a3161cb80f8e085895308a0db1a8f10adf956b9ad6b8556c0d32fc7b",
+      "replaced_by": "G:\\Arthur\\数字微课\\demooo\\合成版本\\开场及前三段\\海洋发烧了_开场及前三段.mp4",
+      "reason": "已迁移至固定同名交付文件，字节哈希一致"
+    },
+    {
+      "path": "G:\\Arthur\\数字微课\\正常异常对照_区域预测_v36\\交付\\海洋发烧了_第四段_对照与区域预测_v36.mp4",
+      "sha256": "d11e76c8bb57d3ca075d794b444c643e8ba7614a67e0d7d1f70005c246bbed74",
+      "replaced_by": "G:\\Arthur\\数字微课\\demooo\\独立片段\\04_对照与预测\\海洋发烧了_第四段_对照与预测.mp4",
+      "reason": "已迁移至固定同名交付文件，字节哈希一致"
+    },
+    {
+      "path": "G:\\Arthur\\数字微课\\环境多米诺_云雨动态完整段_v39\\交付\\海洋发烧了_第五段_云雨动态版_v39.mp4",
+      "sha256": "6bd1faa0e4aed63d5595c68edc41c0640f78eb42afb6639542113a1cdd6c7f4c",
+      "replaced_by": "G:\\Arthur\\数字微课\\demooo\\独立片段\\05_环境多米诺_水\\海洋发烧了_第五段_环境多米诺_水.mp4",
+      "reason": "已迁移至固定同名交付文件，字节哈希一致"
+    },
+    {
+      "path": "G:\\Arthur\\数字微课\\太平洋云雨动效_v38\\交付\\太平洋地图_云雨东移动效_demo_v38.mp4",
+      "sha256": "3c2d3b7ce539e52919e6378f64de690955deb66b2b2bb127b3cfbf690b7e92ee",
+      "replaced_by": "G:\\Arthur\\数字微课\\demooo\\预览\\太平洋云雨\\海洋发烧了_太平洋云雨.mp4",
+      "reason": "已迁移至固定同名交付文件，字节哈希一致"
+    },
+    {
+      "path": "G:\\Arthur\\数字微课\\环境多米诺_水_v37\\交付\\海洋发烧了_第五段_环境多米诺水_v37.mp4",
+      "sha256": "9a1caf98639cdd5ba98108570df6aef7537c7f45211137d4ce9487212f347db9",
+      "replaced_by": "G:\\Arthur\\数字微课\\demooo\\独立片段\\05_环境多米诺_水\\海洋发烧了_第五段_环境多米诺_水.mp4",
+      "reason": "无云雨动效旧版，已被用户认可的动态版替换"
+    }
+  ],
+  "previews": {
+    "太平洋云雨": {
+      "path": "预览\\太平洋云雨\\海洋发烧了_太平洋云雨.mp4",
+      "seconds": 23.03,
+      "sha256": "ac5a077fac0ef53f95a31020dcff16d46b1dcdadac74a6d420b5ef316f8c4c14",
+      "bytes": 1970988,
+      "description": "前段结尾+地图定位+连续场景重做：信风减弱、云团生长消散、水层变平和河道宽度变化；完整段尚未替换。"
+    },
+    "局部修正": {
+      "path": "预览\\局部修正\\海洋发烧了_局部修正.mp4",
+      "source_ranges": [
+        [
+          8.711958333,
+          23.154541667
+        ],
+        [
+          39.057208333,
+          44.398416667
+        ],
+        [
+          49.601916667,
+          56.315875
+        ]
+      ],
+      "seconds": 26.5,
+      "sha256": "1daae60acd3ac130088c1926b437af11cb4f5e2e6bcadec5b1116d0399a4b279",
+      "bytes": 2550312,
+      "decode": "PASS"
+    },
+    "章节标题入场": {
+      "path": "预览\\章节标题入场\\海洋发烧了_章节标题入场.mp4",
+      "seconds": 8,
+      "title_hold_seconds": 1,
+      "title_dock_seconds": 1,
+      "title_lands_before_speech": true,
+      "existing_animation_unchanged": true,
+      "full_video_unchanged": true,
+      "decode": "PASS",
+      "sha256": "086a24f51dfa280f17d866f217eafb03ef7df2563783628b9f6d5f2c230c7e63"
+    },
+    "单张多米诺牌": {
+      "path": "预览\\单张多米诺牌\\单张多米诺牌_水.mp4",
+      "seconds": 5.72,
+      "sha256": "21c5952f215daad471a7a6f1febf266151579ec4d9f8275fa8b3b7dbaa998f47",
+      "bytes": 1289958,
+      "description": "单牌局部样片；气泡公共基线与前镜角色规则已应用于正式独立小段及环境多米诺完整段"
+    },
+    "单张多米诺牌_气": {
+      "path": "预览\\单张多米诺牌\\单张多米诺牌_气.mp4",
+      "seconds": 6.25,
+      "sha256": "4d7f1a93687a0957d253d083ab1f3d4d196becf71b7cc54e3fd8af25d94f0120",
+      "bytes": 976650,
+      "description": "单牌局部样片；气泡公共基线与前镜角色规则已应用于正式独立小段及环境多米诺完整段"
+    },
+    "中国影响全屏动画": {
+      "path": "预览\\中国影响全屏动画\\海洋发烧了_中国影响全屏动画小样.mp4",
+      "seconds": 45.0,
+      "sha256": "90006f77332e9cd4bbeb9231c28b530be1a9006f9808a15ea0259fc69d266b8b",
+      "bytes": 37670105,
+      "decode": "PASS"
+    },
+    "后六分钟合成": {
+      "path": "合成版本\\后六分钟\\海洋发烧了_后六分钟.mp4",
+      "seconds": 360.0,
+      "sha256": "7a11bf1f1557bcb97235651d05be24ae076d4b0698cb2b612eb22595329375cc",
+      "bytes": 152920476,
+      "decode": "PASS",
+      "generator": "merge_last_six.py",
+      "scope": "最后6:00；第六段中途至结尾；原石河子位置替换为最新45秒中国影响",
+      "trim_first_segment_seconds": 19.5,
+      "source_records": [
+        {
+          "segment_key": "06_水收束与气",
+          "content": "06_水收束与气",
+          "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\06_水收束与气\\海洋发烧了_第六段_水收束与气.mp4",
+          "frames": 1486,
+          "source_frames": 1484,
+          "seconds": 61.916666666666664,
+          "sha256": "7eaf8f50804e5f171443a9c893e280fdbc183d195c8c9e1e7f35daebcede86cd"
+        },
+        {
+          "segment_key": "07_生与土",
+          "content": "07_生与土",
+          "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\07_生与土\\海洋发烧了_第七段_生与土.mp4",
+          "frames": 1237,
+          "source_frames": 1235,
+          "seconds": 51.541666666666664,
+          "sha256": "1425b06de98c659f0ce446da1da1d0a519f8c8b49c816c33f2756635f53a9f91"
+        },
+        {
+          "segment_key": "08_地形与配对",
+          "content": "08_地形与配对",
+          "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\08_地形与配对\\海洋发烧了_第八段_地形与配对.mp4",
+          "frames": 1279,
+          "source_frames": 1278,
+          "seconds": 53.291666666666664,
+          "sha256": "9ecb09d1e9cce7de04b6adf87a589e781ed5053e4df7a25aa383c77d6dc43177"
+        },
+        {
+          "segment_key": "09_辨析与滞后",
+          "content": "09_辨析与滞后",
+          "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\09_辨析与滞后\\海洋发烧了_第九段_辨析与滞后.mp4",
+          "frames": 1326,
+          "source_frames": 1326,
+          "seconds": 55.25,
+          "sha256": "bdc41167495da4d129892b20128469dba26454cd1ccf8addd64c59d5bcc60058"
+        },
+        {
+          "segment_key": "10_石河子乡土",
+          "content": "中国影响",
+          "path": "G:\\Arthur\\数字微课\\demooo\\预览\\中国影响全屏动画\\海洋发烧了_中国影响全屏动画小样.mp4",
+          "frames": 1080,
+          "source_frames": 1080,
+          "seconds": 45.0,
+          "sha256": "4ed3b892d627bd2e70c472343329e87583328f5e7ea3a0dd30d8364c439f500b"
+        },
+        {
+          "segment_key": "11_适应与减缓",
+          "content": "11_适应与减缓",
+          "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\11_适应与减缓\\海洋发烧了_第十一段_适应与减缓.mp4",
+          "frames": 1175,
+          "source_frames": 1174,
+          "seconds": 48.958333333333336,
+          "sha256": "60eaa09b15b7e857ffa477323b9d85fe7b78ce1b64b087219047243558f4fc5f"
+        },
+        {
+          "segment_key": "12_总结与检测",
+          "content": "12_总结与检测",
+          "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\12_总结与检测\\海洋发烧了_第十二段_总结与检测.mp4",
+          "frames": 1525,
+          "source_frames": 1524,
+          "seconds": 63.541666666666664,
+          "sha256": "0261362c406e104b7ea5008c749dfe3ae58011e5e438128e4592afef0d839fcc"
+        }
+      ]
+    },
+    "中国影响地图与情境动作修改示例": {
+      "path": "预览\\中国影响全屏动画\\中国影响_地图与情境动作修改示例.mp4",
+      "seconds": 12.5,
+      "sha256": "1149de5237bac3734b1a2ee320ea21bf87351a8ad464b7775329efebac1c50eb",
+      "bytes": 11030398,
+      "decode": "PASS"
+    }
+  },
+  "visual_review": "单牌正式改版：详见多米诺转场_企鹅串讲/单牌整段_验证.json。旧版标题与五牌总览预览不作为当前交付。",
+  "folder_name": "demooo",
+  "domino_transition_engine": "G:\\Arthur\\数字微课\\多米诺转场_企鹅串讲\\build_transitions.py",
+  "single_card_full_engine": "G:\\Arthur\\数字微课\\多米诺转场_企鹅串讲\\apply_single_cards.py",
+  "retired_previews": [
+    {
+      "path": "预览\\多米诺转场与企鹅回场\\多米诺转场与企鹅回场.mp4",
+      "sha256": "d443355ee04f281fbb3a3ce848a260214778316de9826f2f47e23327efcd68cd",
+      "reason": "五牌总览转场已被用户否定，改为当前单张牌"
+    }
+  ],
+  "documents": {
+    "03_结尾情境评价": {
+      "path": "独立片段\\12_总结与检测\\03_评价附件_结尾情境题.docx",
+      "sha256": "950f389f8618ae270637506be2bf96d3764cd2069eb4286f250bf14834ae5155",
+      "pages": 2,
+      "visual_review": "Word PDF导出后两页PNG目视检查"
+    }
+  }
+}

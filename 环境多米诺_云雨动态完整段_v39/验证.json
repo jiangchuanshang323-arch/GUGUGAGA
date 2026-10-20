@@ -1,0 +1,32 @@
+{
+  "output": "G:\\Arthur\\数字微课\\环境多米诺_云雨动态完整段_v39\\交付\\海洋发烧了_第五段_云雨动态版_v39.mp4",
+  "seconds": 63.01829166666667,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames_checked": 1513,
+  "decode": "PASS",
+  "visual_review": "PASS：复核实际MP4 12、15.3、36、52秒帧及全部内容节点，云雨位于标签安全区，章节叠化接续正常。",
+  "source_word": "G:\\Arthur\\数字微课\\00_原始资料\\《海洋“发烧”了》批注版.docx",
+  "word_shots": [
+    13,
+    14,
+    15
+  ],
+  "categories": [
+    "水",
+    "气",
+    "生",
+    "土",
+    "地形"
+  ],
+  "standalone": true,
+  "sha256": "6bd1faa0e4aed63d5595c68edc41c0640f78eb42afb6639542113a1cdd6c7f4c",
+  "approved_animation": "v38太平洋云雨动效",
+  "audio": "完整复用v37晓伊与时间轴，无新语音请求",
+  "original_v37_unchanged": true,
+  "audio_source_hash_match": true,
+  "review_scope": "1513帧文字边界及云雨安全区自动检查、完整解码和关键帧视觉抽查，非逐帧人工观看。"
+}

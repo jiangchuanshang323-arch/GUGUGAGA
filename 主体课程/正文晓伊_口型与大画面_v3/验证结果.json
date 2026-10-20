@@ -1,0 +1,20 @@
+{
+  "duration": 43.428,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "audio": "AAC Chinese TTS zh-CN-XiaoyiNeural +5%",
+  "subtitle_text_unchanged": true,
+  "mouth_state_counts": {
+    "0": 422,
+    "1": 189,
+    "2": 339,
+    "3": 93
+  },
+  "mouth_state_changes": 353,
+  "board_area_increase_percent": 39.5,
+  "decode": "PASS",
+  "bytes": 3882373
+}

@@ -1,0 +1,572 @@
+[
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "build_demo.py",
+    "SHA256": "B57F5440350BFD6EC296A5B3B5FE943E2AC3123852EC558145CDEBC9110E55F5",
+    "Bytes": 8114
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "check_05.png",
+    "SHA256": "D0831667510A7CD863C078F4F43AEBD291A6AD1F1EC49A3982E8E1239B2BBE04",
+    "Bytes": 98373
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "check_17.png",
+    "SHA256": "C849ECB0A830BD1CB4A452C3634F445EE790C9BCE3F2804098D3D40E3A04BCF7",
+    "Bytes": 98112
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "check_27.png",
+    "SHA256": "9CCDA02D0B6CD7E1704F67E290E5A642551A7F11A385AAFD032DBFC1FD3A2B85",
+    "Bytes": 97467
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "check_38.png",
+    "SHA256": "8214E2DC7276470A9088424F18052D421CF88CB068C566536F6FD4106C6994BB",
+    "Bytes": 97360
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "encode.log",
+    "SHA256": "77EF98614BFAFAFAC71323B2450486CCBAA386DA373C957186AD37E6BA6C67BE",
+    "Bytes": 8760
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "海洋发烧了_机制动画样片.mp4",
+    "SHA256": "E5760A6418AD22E55CF423AF8712A4512F7351A0F84381B5179BF75514C6E168",
+    "Bytes": 1103727
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "预览.png",
+    "SHA256": "9CCDA02D0B6CD7E1704F67E290E5A642551A7F11A385AAFD032DBFC1FD3A2B85",
+    "Bytes": 97467
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\__init__.py",
+    "SHA256": "41AFC231DFECA422C692F9A219B51778B7560C5C4DFFA097BF92F80872D1FD8A",
+    "Bytes": 227
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\_definitions.py",
+    "SHA256": "5206F96CB45BC27C4E314D39C03E4D3B45DF17DEAFF3D6881E9F45702D169E32",
+    "Bytes": 2041
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\_io.py",
+    "SHA256": "1A006DD17E5C54FFC66A2B40B6DB5586E76E598E1CA15F301E3B70C86B43DFE9",
+    "Bytes": 27048
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\_parsing.py",
+    "SHA256": "514B583F26F3BFDBD0E2C28FC189514F268FFE4F64A0A5DF97ECC8E919B8429A",
+    "Bytes": 6840
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\_utils.py",
+    "SHA256": "7951789F2F733F78CF7DE608C25E957D5F53D6FDF84BAC944560BF462194345F",
+    "Bytes": 3833
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\binaries\\__init__.py",
+    "SHA256": "CE39D166833A6D050160E237D07A73229E1C934EDB3B2E28C5707E6F0377356F",
+    "Bytes": 45
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe",
+    "SHA256": "2CE797A0F88D7F067180338FB227F7B1928EA727BD9A4D7A1D022F7C52AF71A3",
+    "Bytes": 87638016
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\binaries\\README.md",
+    "SHA256": "B0D36DFB1BA1EA5CA873A6F6DBCC2295B7A7944AEA875071D91A6AAD1870E77D",
+    "Bytes": 45
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\binaries\\__pycache__\\__init__.cpython-312.pyc",
+    "SHA256": "D3F9C140FF127D3702FC9413811A3074344CA4BA430F1E82473A8A438ECD5D92",
+    "Bytes": 197
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\__pycache__\\__init__.cpython-312.pyc",
+    "SHA256": "581A43AF91C991685C1D6043C8AF125BC402C8C781218544E63588F91F1C2678",
+    "Bytes": 481
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\__pycache__\\_definitions.cpython-312.pyc",
+    "SHA256": "97B1856B07B76204AD48A73CF16687F29E104C32392B87F27BF407A16B476249",
+    "Bytes": 2057
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\__pycache__\\_io.cpython-312.pyc",
+    "SHA256": "CCCEDB6A5F72BA40F48A90AE7588E285CEA3B8488BB32547AF3B0DDFAEC96BF6",
+    "Bytes": 27164
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\__pycache__\\_parsing.cpython-312.pyc",
+    "SHA256": "25609756D137C082804F9FF82D9FBE87C14E41BA29AC06FB95A137093E53F826",
+    "Bytes": 9334
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg\\__pycache__\\_utils.cpython-312.pyc",
+    "SHA256": "C881DBE649B4C9907185D81EA3D7B150D0A529CCC194E18690BF75E703FCE529",
+    "Bytes": 5400
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg-0.6.0.dist-info\\INSTALLER",
+    "SHA256": "CEEBAE7B8927A3227E5303CF5E0F1F7B34BB542AD7250AC03FBCDE36EC2F1508",
+    "Bytes": 4
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg-0.6.0.dist-info\\LICENSE",
+    "SHA256": "ECA73421D0C905A92E952A553D4D58919C5A507C2C2C76E3C0CF9BA408C299E4",
+    "Bytes": 1317
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg-0.6.0.dist-info\\METADATA",
+    "SHA256": "C9697B379419A64049D99E2248C4CBA963E03B5CAD1DC65E10A887D1DA7651EE",
+    "Bytes": 1528
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg-0.6.0.dist-info\\RECORD",
+    "SHA256": "DD017B4A6285ACB6F00ADE542AEC52646FE418A08FAE11261AA033F91E85A15B",
+    "Bytes": 1661
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg-0.6.0.dist-info\\REQUESTED",
+    "SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "Bytes": 0
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg-0.6.0.dist-info\\top_level.txt",
+    "SHA256": "38341851861BB63F48D528C0484318EE1F10F2168BAE630D5114829F4144075F",
+    "Bytes": 15
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "runtime\\imageio_ffmpeg-0.6.0.dist-info\\WHEEL",
+    "SHA256": "6FAFBF711B1164D3388325C31053F775BB03D78AE7EB932A662AA6D9B551BA14",
+    "Bytes": 96
+  },
+  {
+    "Folder": "ocean_animation_demo_20261011",
+    "RelativePath": "__pycache__\\build_demo.cpython-312.pyc",
+    "SHA256": "3F2F87C389FB1CF8EE874012BF4BAD95ED7D33D68507D6F88C755930B304308B",
+    "Bytes": 15664
+  },
+  {
+    "Folder": "ocean_anime_storyboard_20261011",
+    "RelativePath": "四幕动漫分镜样张.png",
+    "SHA256": "1DB5399DD7082A0DCA69D1A06323C45217D1BC35D60938DA0E788D4AC114B497",
+    "Bytes": 2848042
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "build_lesson_v2.py",
+    "SHA256": "CCB20482F6612375CB66F3DC8868F9B773647FF45A2819DEDCA160FF2EF22094",
+    "Bytes": 3354
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "build_lesson_v3.py",
+    "SHA256": "CDB739F48E677D6683CD878A4E560EB0490DD744966CBEDB73003CC7407D5D5D",
+    "Bytes": 7006
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "build_lesson.py",
+    "SHA256": "C6CA1246C0D35321927C77947ED6B2C942C58DEEFF356B982F2496A2666D752C",
+    "Bytes": 6918
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "check_05.png",
+    "SHA256": "152AD615BD8B8739BB6D12CC21E84B3CE1C26BB3E9A6D911116373A49D1F9288",
+    "Bytes": 246634
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "check_14.png",
+    "SHA256": "2ADF886B50C7BC5142D32479D76C4B113019C5C0A1954E45B16C5B88EA93BB86",
+    "Bytes": 186801
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "check_24.png",
+    "SHA256": "7126C25A93A0A1F3ED70430D190D9FDD8BB2BA2E4139A07F2B2B8B4CB1ECD3F5",
+    "Bytes": 139960
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "check_43.png",
+    "SHA256": "CF1A46A96F18BFB6A3E8ED9410689730B6C5D58EE708E71E89B242B285229FFB",
+    "Bytes": 138865
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "check_64.png",
+    "SHA256": "CB3B34E55FE97931CC48AC3F6C17BC672A280CE910787E1F92D005C70F8ECA1F",
+    "Bytes": 221295
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "check_67.png",
+    "SHA256": "A158940A0D116F10E9112F107646C8EFB27319AC290B6F111F3DC33A72B08398",
+    "Bytes": 229365
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "encode_v2.log",
+    "SHA256": "854F7DE0F1D75E2472C5B82061E0D3A64F4D0FD29C769C5A074E79FE598B5146",
+    "Bytes": 11037
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "encode_v3.log",
+    "SHA256": "B3F4FD2837F8B9023907A59F49B77D7E4716C4CA8DBD0659726AD9F420C05DE7",
+    "Bytes": 16669
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "encode.log",
+    "SHA256": "7CF210E52225D1722E6C84242CFB1BB4E2218A660BF5C1B14C47C69971430560",
+    "Bytes": 11148
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v2_check_01.png",
+    "SHA256": "38C5E1A306E4EF54192701899EE5D44A47BA3EA06AE9EE83B58A5155916A1748",
+    "Bytes": 242705
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v2_check_06.png",
+    "SHA256": "8CD12445C819121F59C12B61D5DDD4500FA4E2ED614B7F8E24AB1FEACF1D7F7D",
+    "Bytes": 245726
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v2_check_09.png",
+    "SHA256": "B26AC7B8AE1A3DF291B2C946F4DA538914C63BE4410C8825CCDC4228CB0F7FDF",
+    "Bytes": 240033
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v2_check_29.png",
+    "SHA256": "C9642530E2F8DFF8602F8DEC4714476EABEF6B0048F4BF520571AA39451A6777",
+    "Bytes": 140392
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v2_check_50.png",
+    "SHA256": "054F51988784DBFAC0344D558C7B434483263F63D5F7681ADE78ACA2B101AE15",
+    "Bytes": 139104
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v2_check_61.png",
+    "SHA256": "53B5203CABF1BF9FBCACAD49F3FB6CFDDCC2F4FD1D8B2FBFE11795B62262B2CA",
+    "Bytes": 209173
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v2_check_66.png",
+    "SHA256": "81D460DF46445DCD220559F802D30113E2761A3FBFA7BB554157A5D246E35987",
+    "Bytes": 228059
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_02.png",
+    "SHA256": "CDC34882E2859BBABC18D323C44E9D15C5F43C6C737FB8341FE2250AEFA4D907",
+    "Bytes": 199955
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_06.png",
+    "SHA256": "BB3E9811D01B4104F9EEC1609DF1CC8ACA66885F56C0E414991E22C89AE65A19",
+    "Bytes": 198907
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_14.png",
+    "SHA256": "86CA67DD436C314112768C2306B866A00A116B7F1708C0C8687A70A878CC292E",
+    "Bytes": 189150
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_24.png",
+    "SHA256": "D7335024CD2041B99C4132B9078D593C5305CA51E14445B8F61F1705864FE797",
+    "Bytes": 198722
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_44.png",
+    "SHA256": "013A8CEF0215BD7450E2A603C436DC91B3BBC5F06786110EC5D6BBF8718DBC78",
+    "Bytes": 197399
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_55.png",
+    "SHA256": "786E44A45F1861FCE5C72EDED85CCE054BACDFED827AC49E29E1D499868CCD0E",
+    "Bytes": 196379
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_61.png",
+    "SHA256": "3986342576505123082F35E5D4D9FEE7FE867ED3930A657A69F82213DF79267C",
+    "Bytes": 177301
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "v3_check_66.png",
+    "SHA256": "7534AE91B4B325E96554DB732BA7049575CC3FFADDC433C3BC097F5DB21BB13B",
+    "Bytes": 186598
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "企鹅主角_动作升级版_v2.mp4",
+    "SHA256": "4C2CE98E6E977E55216FA5450998E537F3C1FB1B7C4F575926BA56CD8901FB42",
+    "Bytes": 3465843
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "企鹅主角_气泡字幕版_v3.mp4",
+    "SHA256": "4EC2D7B0F88984787C8CF079BA44DA94DE9456ED03B6953DC4F9D2AF5CBAA0D2",
+    "Bytes": 3934767
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "企鹅主角_海洋发烧了_无配音样片.mp4",
+    "SHA256": "670043F7B9782C9FA52BB02A288DB2A8DC45FAB2FA1B8ABDEBEF556D9AA9A412",
+    "Bytes": 3774393
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "制作说明.txt",
+    "SHA256": "085522ECAC01D1A497CEBC78C57D3BAD6E6C0E0AF74510A357F9E63D084FA011",
+    "Bytes": 411
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "动作升级版说明.txt",
+    "SHA256": "20F346E6D6F55FA4553834833B8138C05E0264CC960676C3A9B0C02DCEE620B9",
+    "Bytes": 384
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "动作升级版预览.png",
+    "SHA256": "8CD12445C819121F59C12B61D5DDD4500FA4E2ED614B7F8E24AB1FEACF1D7F7D",
+    "Bytes": 245726
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "封面预览.png",
+    "SHA256": "152AD615BD8B8739BB6D12CC21E84B3CE1C26BB3E9A6D911116373A49D1F9288",
+    "Bytes": 246634
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "气泡字幕版预览.png",
+    "SHA256": "D7335024CD2041B99C4132B9078D593C5305CA51E14445B8F61F1705864FE797",
+    "Bytes": 198722
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "角色动作图集_v2.png",
+    "SHA256": "4942166B62DE5BF1543CABEC6DA08DF55B59CFFBC31C943810FFCFD04001D432",
+    "Bytes": 1975790
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "角色透明素材.png",
+    "SHA256": "76911C6B0833DC71CFF7A6397F463076809E9B0A0FCA3B2FD4ABEE628D9C2C1E",
+    "Bytes": 1156170
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "__pycache__\\build_lesson_v2.cpython-312.pyc",
+    "SHA256": "C92605943F41C6452AA1ABAA6417C352DE8FE9D34A06ACB43047D07DE37E9B13",
+    "Bytes": 6676
+  },
+  {
+    "Folder": "ocean_penguin_lesson_20261011",
+    "RelativePath": "__pycache__\\build_lesson.cpython-312.pyc",
+    "SHA256": "19EF0A86F128922F3D60E4343D700068EDB559D3C6E513E7DB87BBB460C3231B",
+    "Bytes": 14900
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "A_问好与讲解.png",
+    "SHA256": "467BD183A52B4EFFEB00EDAC6691E58381411D9E748888F80EF0DBF25C98D2A8",
+    "Bytes": 1936180
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "B_推导与互动.png",
+    "SHA256": "5138E48DE399F4EA817ADB74CA4818E05C2B95D1D315CDEB3BC87B714FFB0D40",
+    "Bytes": 2011176
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "C_走位与收尾.png",
+    "SHA256": "53319D4B68BAF748E9FCE4A70BCB9B4E3C3A4F13A09E32ECA57FB1FAEA8264F9",
+    "Bytes": 1996117
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "企鹅小老师_18动作素材包.zip",
+    "SHA256": "A19288489B20B8184C7FB148C679FAEE69422C04FB14D2F77AE1820EC40636A9",
+    "Bytes": 11802636
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "动作使用说明.md",
+    "SHA256": "FF37DD275913EB5F582888BF17229CF26BAAF4ED39F951633097355F209C901D",
+    "Bytes": 3317
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "生成提示词.md",
+    "SHA256": "A6B7EC974753B3570BD4570E2E36D866DF9F6FC41FB01004A542DF2C75260430",
+    "Bytes": 6417
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "素材检查.json",
+    "SHA256": "E631C51A73E0CAD5E3ADC230F07525774D5481DAFBA4CA2E000EC8FE839F57E4",
+    "Bytes": 3017
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\01_挥手问好.png",
+    "SHA256": "37155605415DB20A4B337880418275F918BADAF247D119C64AA7BD18D90F43DD",
+    "Bytes": 315477
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\02_常态待机.png",
+    "SHA256": "79270ABF813FDB95BD06CC37328C7FEA340E51739D49314F65E311D9B11083DE",
+    "Bytes": 319481
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\03_常态解说.png",
+    "SHA256": "CC7800981BD246D95BDC216420B87A1C53881B1E36C65D7806B55ADB4B370AEE",
+    "Bytes": 316669
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\04_常态眨眼.png",
+    "SHA256": "AD67928B105A1415899E454E962F93C9A228BDACABA14B713DB3A0EC6985B892",
+    "Bytes": 315531
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\05_教尺预备.png",
+    "SHA256": "887E318F46A2B1116F08061E7BC1BF686E7D5081134C66AE644C1681D03B89DF",
+    "Bytes": 325023
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\06_教尺指向.png",
+    "SHA256": "7F2826FEFFE9A2FB425553219263752685E5B4E758E5A649A3434F03EE790EED",
+    "Bytes": 328049
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\07_敲击板书.png",
+    "SHA256": "3AA97D69CFFBC5C13C2FEE81C07087CC2CEE78C35138FBECE8CB5BD694DF3A68",
+    "Bytes": 339189
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\08_推眼镜泛光.png",
+    "SHA256": "3149CFD5A4C09D87D9931E0E670262348BBBEB80CA7F4574EAF5174FF13365C6",
+    "Bytes": 328877
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\09_托腮思考.png",
+    "SHA256": "393726A8C899364B8DE2FED048D8C039EC4C56DA6CCE2D16F86EBB31230D274F",
+    "Bytes": 327197
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\10_叉腰提醒.png",
+    "SHA256": "A59F574E8C193BAEFAC0C382B69ABCF81E23DE0B5FF12A3255834A0D04188DD3",
+    "Bytes": 329977
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\11_握拳鼓励.png",
+    "SHA256": "9A5E21EF8693158A664CDE30C0954585CF025E45431AD7215B4670E59382B694",
+    "Bytes": 331339
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\12_点赞反馈.png",
+    "SHA256": "9C85F8526C55BD51A788E74752F2BE203F5100EA901BB146AF3B7875A73370E9",
+    "Bytes": 336558
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\13_迈步A.png",
+    "SHA256": "D5CC60160A112BA03A1945C7A8081ACA6D8FCFB1D730B0C075211DC1EA8FE6A1",
+    "Bytes": 334429
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\14_迈步B.png",
+    "SHA256": "8654460181D16BA9CF03E6E81A82EEEC7813BC8C3017629C25C6C8D74A0EF8C2",
+    "Bytes": 335154
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\15_走位后站稳.png",
+    "SHA256": "A22EC32F93F7FA5B88A176EC87710F7BFCA73344399FFFF7AA6731E6FFB25ABD",
+    "Bytes": 328952
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\16_下课鞠躬.png",
+    "SHA256": "55C841281B7156E74954F48DF80FE2C088050BE613CBAFEEA17F28DF0A0E6241",
+    "Bytes": 320668
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\17_鞠躬起身.png",
+    "SHA256": "F253307F97A478F657148CD499FF25073E0FCA01616CCD4F372E94E60F3126BB",
+    "Bytes": 330095
+  },
+  {
+    "Folder": "企鹅小老师_教学动作素材_20261012",
+    "RelativePath": "独立动作PNG\\18_挥手告别.png",
+    "SHA256": "1FD55CDC021021992FC58A6C30422A143B5B2CD18517F831D0103F91A67CED3F",
+    "Bytes": 323264
+  }
+]

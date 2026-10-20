@@ -1,0 +1,15 @@
+{
+  "decode": "PASS",
+  "seconds": 37.693583333333336,
+  "own_drawn_diagram": true,
+  "surface_wind_direction": "east to west / decreasing x",
+  "high_return_direction": "west to east / increasing x",
+  "labels_separate": true,
+  "word_source": "G:\\Arthur\\数字微课\\00_原始资料\\《海洋“发烧”了》全片章节与画面动作规划_最新批注版_20261012.docx",
+  "word_sha256": "6c609eaeed5ee61352817393df99f90b3151fcae587c141164c93a3ba1157d82",
+  "voice": "zh-CN-XiaoyiNeural +5%",
+  "no_catchphrase": true,
+  "no_concat": true,
+  "scope": "diagram demo only, not next whole lesson segment",
+  "output": "G:\\Arthur\\数字微课\\精绘厄尔尼诺_讲解演示_v28\\交付\\厄尔尼诺_精绘自制图_晓伊讲解_demo_v28.mp4"
+}

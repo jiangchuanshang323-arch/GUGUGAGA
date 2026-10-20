@@ -1,0 +1,57 @@
+{
+  "output": "G:\\Arthur\\数字微课\\demooo\\合成版本\\环境多米诺_水气生土地形\\海洋发烧了_环境多米诺完整段.mp4",
+  "seconds": 205.97,
+  "sha256": "d1dac2d2dbfe111411ab5bfe82116efe8761eda25047f8fb6da5badae2e8ff88",
+  "bytes": 27096918,
+  "segments": {
+    "05_环境多米诺_水": {
+      "path": "独立片段\\05_环境多米诺_水\\海洋发烧了_第五段_环境多米诺_水.mp4",
+      "seconds": 70.25,
+      "sha256": "ffad53ebe1817e0dcd1f81f10d232c3d75fa54adfe4529a0b64ab9f0049b5cac",
+      "bytes": 7185580,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线"
+    },
+    "06_水收束与气": {
+      "path": "独立片段\\06_水收束与气\\海洋发烧了_第六段_水收束与气.mp4",
+      "seconds": 61.91,
+      "sha256": "7eaf8f50804e5f171443a9c893e280fdbc183d195c8c9e1e7f35daebcede86cd",
+      "bytes": 11923433,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线",
+      "word_shots": [
+        15,
+        16
+      ]
+    },
+    "07_生与土": {
+      "path": "独立片段\\07_生与土\\海洋发烧了_第七段_生与土.mp4",
+      "seconds": 51.53,
+      "sha256": "1425b06de98c659f0ce446da1da1d0a519f8c8b49c816c33f2756635f53a9f91",
+      "bytes": 6785849,
+      "decode": "PASS",
+      "word_shots": [
+        17,
+        18
+      ],
+      "new_segment_only": true,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线"
+    },
+    "08_地形与配对": {
+      "path": "独立片段\\08_地形与配对\\海洋发烧了_第八段_地形与配对.mp4",
+      "seconds": 53.3,
+      "sha256": "9ecb09d1e9cce7de04b6adf87a589e781ed5053e4df7a25aa383c77d6dc43177",
+      "bytes": 5453982,
+      "decode": "PASS",
+      "word_shots": [
+        19,
+        20
+      ],
+      "new_segment_only": true,
+      "chapter_title_entrance": "固定左上；当前单牌讲解开始后淡去；沿用前镜人物状态；气泡公共基线"
+    }
+  },
+  "source_narration_retained": true,
+  "decode": "PASS",
+  "new_voice": false,
+  "visual_review": "PASS：五种单牌15个实际编码节点及整段12节点复核；逐帧对象记录确认最多一张牌、无强制人物和气泡公共基线；非逐帧人工观看",
+  "actual_encoded_nodes": 27
+}

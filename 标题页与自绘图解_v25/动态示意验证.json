@@ -1,0 +1,30 @@
+{
+  "state_math_and_controls": "PASS",
+  "states": [
+    {
+      "seconds": 0,
+      "wind": "M1390 468L485 468",
+      "warm": "M170 510H1630V567C1240 596 800 695 170 745Z",
+      "cloud": "translate(430 315)",
+      "caption": "正常状态：西侧暖水较厚，东侧冷水上涌，沃克环流较强。"
+    },
+    {
+      "seconds": 6,
+      "wind": "M1390 468L1050 468",
+      "warm": "M170 510H1630V668.4814814814815C1240 671.5555555555555 800 675.7407407407408 170 680.5555555555555Z",
+      "cloud": "translate(430 315)",
+      "caption": "暖水向东扩展，东部温跃层加深，冷水上升流受到抑制。"
+    },
+    {
+      "seconds": 15,
+      "wind": "M1390 468L1050 468",
+      "warm": "M170 510H1630V704C1240 698 800 669 170 658Z",
+      "cloud": "translate(1020 315)",
+      "caption": "海温差缩小又削弱信风：海洋与大气形成正反馈。"
+    }
+  ],
+  "rendered_static_svg_png": true,
+  "browser_visual_test": "Not completed: sandbox prevented headless browser launch",
+  "own_vector_diagram": true,
+  "video_exported": false
+}

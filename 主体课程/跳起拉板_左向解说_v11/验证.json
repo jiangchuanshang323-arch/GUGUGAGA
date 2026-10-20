@@ -1,0 +1,17 @@
+{
+  "full_decode": "PASS",
+  "seconds": 65.12183333333333,
+  "transition_seconds": 2.4,
+  "voice": "v10 cached Xiaoyi; no synthesis",
+  "new_sprites": [
+    "G:\\Arthur\\数字微课\\主体课程\\跳起拉板_左向解说_v11\\素材\\20_朝左介绍.png",
+    "G:\\Arthur\\数字微课\\主体课程\\跳起拉板_左向解说_v11\\素材\\21_抬臂抓环.png"
+  ],
+  "mouth_anchor": [
+    590,
+    542
+  ],
+  "bubble_during_transition": false,
+  "joined": "G:\\Arthur\\数字微课\\主体课程\\跳起拉板_左向解说_v11\\交付\\海洋发烧了_开场与前两段_拉板_v11.mp4",
+  "clip": "G:\\Arthur\\数字微课\\主体课程\\跳起拉板_左向解说_v11\\交付\\跳起拉板_转场预览_v11.mp4"
+}

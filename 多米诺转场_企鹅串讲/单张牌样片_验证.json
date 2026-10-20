@@ -1,0 +1,15 @@
+{
+  "output": "G:\\Arthur\\数字微课\\demooo\\预览\\单张多米诺牌\\单张多米诺牌_水.mp4",
+  "seconds": 5.72,
+  "sha256": "70ad6794dd9c0989e71a67441b81a94a75e0a1e11bc593251500204694d9e905",
+  "bytes": 1290426,
+  "fade_start": 3.240425,
+  "fade_end": 3.990425,
+  "single_card_count": 1,
+  "narration": "先翻开第一张，水。环流改变，让降水重新分配。",
+  "new_voice": false,
+  "title_static": true,
+  "formal_segments_unchanged": true,
+  "decode": "PASS",
+  "visual_review": "PASS：6个实际编码节点复核；全138渲染帧最多一张牌，开始讲解后3.24秒才淡出，3.99秒消失"
+}

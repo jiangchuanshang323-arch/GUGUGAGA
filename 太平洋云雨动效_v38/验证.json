@@ -1,0 +1,25 @@
+{
+  "output": "G:\\Arthur\\数字微课\\太平洋云雨动效_v38\\交付\\太平洋地图_云雨东移动效_demo_v38.mp4",
+  "seconds": 11.231625000000001,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames_checked": 270,
+  "decode": "PASS",
+  "visual_review": "PASS：6个连续节点与实际MP4 8.5秒抽帧复核；云雨层避开标题、地名、答案及字幕。",
+  "audio": "复用v37两句晓伊，无新语音请求",
+  "source_times": [
+    3.7668333333333335,
+    14.998458333333334
+  ],
+  "original_v37_unchanged": true,
+  "camera_fixed": true,
+  "cloud_safe_vertical_range": [
+    515,
+    728
+  ],
+  "sha256": "3c2d3b7ce539e52919e6378f64de690955deb66b2b2bb127b3cfbf690b7e92ee",
+  "review_scope": "270帧文字边界与云雨安全区自动检查、完整解码及视觉抽查，非逐帧人工观看。"
+}

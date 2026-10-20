@@ -1,0 +1,17 @@
+{
+  "output": "G:\\Arthur\\数字微课\\demooo\\预览\\单张多米诺牌\\单张多米诺牌_气.mp4",
+  "seconds": 6.25,
+  "sha256": "4d7f1a93687a0957d253d083ab1f3d4d196becf71b7cc54e3fd8af25d94f0120",
+  "bytes": 976650,
+  "fade_start": 3.5624000000000002,
+  "fade_end": 4.3124,
+  "single_card_count": 1,
+  "character_present": false,
+  "bubble_baseline": "shared ls anchor",
+  "narration": "第二张，气。海洋不只输送水汽，也在储存和传递热量。",
+  "new_voice": false,
+  "title_static": true,
+  "formal_segments_unchanged": true,
+  "decode": "PASS",
+  "visual_review": "PASS：6节点实际编码画面复核，气泡共用基线；角色状态与前镜一致"
+}

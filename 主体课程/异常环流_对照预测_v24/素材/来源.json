@@ -1,0 +1,12 @@
+{
+  "publisher": "NOAA Climate.gov",
+  "media": "https://content-drupal.climate.gov/media/13534",
+  "image": "https://content-drupal.climate.gov/sites/default/files/2021-10/ENSO_blog_Bjerknes-feedback-ElNino_large.jpg",
+  "size": [
+    1860,
+    1239
+  ],
+  "sha256": "6d2b943365acc77d048f77489301dfc08fb751c3e067643716d8738e752b5c63",
+  "science": "https://content-drupal.climate.gov/news-features/blogs/enso/rise-el-ni%C3%B1o-and-la-ni%C3%B1a",
+  "AI_redraw": false
+}

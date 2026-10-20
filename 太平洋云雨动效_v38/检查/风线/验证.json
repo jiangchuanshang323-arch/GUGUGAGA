@@ -1,0 +1,16 @@
+{
+  "output": "G:\\Arthur\\数字微课\\视频交付\\预览\\太平洋云雨\\demooooo.mp4",
+  "seconds": 11.231625000000001,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames_checked": 270,
+  "decode": "PASS",
+  "visual_review": "PASS：4个连续节点及实际编码8.5秒帧已复核，风线、云雨与地名字幕无重叠；270帧边界检查及完整解码通过。",
+  "wind_direction": "东→西，路径渐短、流速渐缓",
+  "full_segment_unchanged": true,
+  "audio": "复用原11秒晓伊，无新语音请求",
+  "sha256": "acd3d4fa65744ffaea2025bb6d8b088852b05d9e1ac2ae87600aec44afe87aa8"
+}

@@ -1,0 +1,137 @@
+{
+  "seconds": 360.0,
+  "sha256": "7a11bf1f1557bcb97235651d05be24ae076d4b0698cb2b612eb22595329375cc",
+  "bytes": 152920476,
+  "decode": "PASS",
+  "resolution": "1920x1080",
+  "fps": 24,
+  "frames": 8640,
+  "source_segments": [
+    {
+      "segment_key": "06_水收束与气",
+      "content": "06_水收束与气",
+      "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\06_水收束与气\\海洋发烧了_第六段_水收束与气.mp4",
+      "frames": 1486,
+      "source_frames": 1484,
+      "seconds": 61.916666666666664,
+      "sha256": "7eaf8f50804e5f171443a9c893e280fdbc183d195c8c9e1e7f35daebcede86cd"
+    },
+    {
+      "segment_key": "07_生与土",
+      "content": "07_生与土",
+      "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\07_生与土\\海洋发烧了_第七段_生与土.mp4",
+      "frames": 1237,
+      "source_frames": 1235,
+      "seconds": 51.541666666666664,
+      "sha256": "1425b06de98c659f0ce446da1da1d0a519f8c8b49c816c33f2756635f53a9f91"
+    },
+    {
+      "segment_key": "08_地形与配对",
+      "content": "08_地形与配对",
+      "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\08_地形与配对\\海洋发烧了_第八段_地形与配对.mp4",
+      "frames": 1279,
+      "source_frames": 1278,
+      "seconds": 53.291666666666664,
+      "sha256": "9ecb09d1e9cce7de04b6adf87a589e781ed5053e4df7a25aa383c77d6dc43177"
+    },
+    {
+      "segment_key": "09_辨析与滞后",
+      "content": "09_辨析与滞后",
+      "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\09_辨析与滞后\\海洋发烧了_第九段_辨析与滞后.mp4",
+      "frames": 1326,
+      "source_frames": 1326,
+      "seconds": 55.25,
+      "sha256": "bdc41167495da4d129892b20128469dba26454cd1ccf8addd64c59d5bcc60058"
+    },
+    {
+      "segment_key": "10_石河子乡土",
+      "content": "中国影响",
+      "path": "G:\\Arthur\\数字微课\\demooo\\预览\\中国影响全屏动画\\海洋发烧了_中国影响全屏动画小样.mp4",
+      "frames": 1080,
+      "source_frames": 1080,
+      "seconds": 45.0,
+      "sha256": "4ed3b892d627bd2e70c472343329e87583328f5e7ea3a0dd30d8364c439f500b"
+    },
+    {
+      "segment_key": "11_适应与减缓",
+      "content": "11_适应与减缓",
+      "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\11_适应与减缓\\海洋发烧了_第十一段_适应与减缓.mp4",
+      "frames": 1175,
+      "source_frames": 1174,
+      "seconds": 48.958333333333336,
+      "sha256": "60eaa09b15b7e857ffa477323b9d85fe7b78ce1b64b087219047243558f4fc5f"
+    },
+    {
+      "segment_key": "12_总结与检测",
+      "content": "12_总结与检测",
+      "path": "G:\\Arthur\\数字微课\\demooo\\独立片段\\12_总结与检测\\海洋发烧了_第十二段_总结与检测.mp4",
+      "frames": 1525,
+      "source_frames": 1524,
+      "seconds": 63.541666666666664,
+      "sha256": "0261362c406e104b7ea5008c749dfe3ae58011e5e438128e4592afef0d839fcc"
+    }
+  ],
+  "boundaries": [
+    {
+      "content": "06_水收束与气",
+      "start": -19.5,
+      "end": 42.416666666666664
+    },
+    {
+      "content": "07_生与土",
+      "start": 42.416666666666664,
+      "end": 93.95833333333333
+    },
+    {
+      "content": "08_地形与配对",
+      "start": 93.95833333333333,
+      "end": 147.25
+    },
+    {
+      "content": "09_辨析与滞后",
+      "start": 147.25,
+      "end": 202.5
+    },
+    {
+      "content": "中国影响",
+      "start": 202.5,
+      "end": 247.5
+    },
+    {
+      "content": "11_适应与减缓",
+      "start": 247.5,
+      "end": 296.4583333333333
+    },
+    {
+      "content": "12_总结与检测",
+      "start": 296.4583333333333,
+      "end": 360.0
+    }
+  ],
+  "trim_first_segment_seconds": 19.5,
+  "shihezi_included": false,
+  "china_replacement_sha256": "4ed3b892d627bd2e70c472343329e87583328f5e7ea3a0dd30d8364c439f500b",
+  "full_course_sha256_unchanged": "7d01d5612bb28659e8cfeab01217c0860ba58c77553bc246434e1995dca8fed7",
+  "sources_unchanged": true,
+  "review_times": [
+    0.2,
+    4.0,
+    42.236666666666665,
+    42.596666666666664,
+    93.77833333333332,
+    94.13833333333334,
+    147.07,
+    147.43,
+    202.32,
+    202.68,
+    210.3,
+    220.0,
+    225.5,
+    240.3,
+    247.32,
+    247.68,
+    296.2783333333333,
+    296.6383333333333,
+    359.5
+  ]
+}

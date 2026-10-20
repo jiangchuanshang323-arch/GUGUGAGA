@@ -1,0 +1,11 @@
+环境多米诺完整段：素材来源与署名
+
+NOAA：厄尔尼诺冬季典型全球影响图，原始机构图像裁切；海岸线、投影及色区保留。原项目素材及来源清单：环境多米诺_水_v37/素材/来源.json。
+中国气象局：《2024年中国气候公报》图2.11。https://www.cma.gov.cn/zfxxgk/gknr/qxbg/202503/W020250302606211127018.pdf 。原图与夏季雨带局部展示。
+阿塔卡马开花照片：ESO，图像poposo-flor_9742。https://www.eso.org/public/images/poposo-flor_9742/ 。仅作开花现象，不作为某次厄尔尼诺归因证明；图像裁切。ESO使用条款：https://www.eso.org/public/outreach/copyright/ 。
+温度数据：Met Office HadCRUT.5.1.0.0，1980—2024年全球年平均温度距平，1961—1990参照期及原数据95%不确定性范围。https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.1.0.0/download.html 。使用原始数据绘图，按机构Open Government Licence说明。
+珊瑚照片：NOAA Fisheries，Jarvis Island bleached coral。https://www.fisheries.noaa.gov/feature-story/coral-recovery-after-bleaching-event-central-pacific 。照片裁切；未拼作同地前后对照。
+印尼2015烟霾影像：NASA Earth Observatory。https://science.nasa.gov/earth/earth-observatory/el-nino-brought-drought-and-fire-to-indonesia-87204/ 。原项目保存7200×4800图像borneo_2015267_lrg.jpg，裁切用于讲解。
+图七原图作者：Emanuel Guzman、Carmela Ramos、Ali Dastgheib，2020。Influence of the El Niño Phenomenon on Shoreline Evolution. Case Study: Callao Bay, Perú. Journal of Marine Science and Engineering 8(2),90. https://doi.org/10.3390/jmse8020090 。原作CC BY 4.0：https://creativecommons.org/licenses/by/4.0/ 。本视频对图7进行同范围裁切、等比缩放并添加中文日期及动态定性标注；未改变岸线或原图比例尺。公开馆藏PDF：https://app.ingemmet.gob.pe/biblioteca/pdf/Amb-257.pdf 。
+
+漫滩动画据Aalto等，Nature 425,493–497(2003)，https://doi.org/10.1038/nature02002 的过程结论自绘，不复制其图版。

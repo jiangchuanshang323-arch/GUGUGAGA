@@ -1,0 +1,75 @@
+{
+  "source": "https://www.openstreetmap.org/relation/9392345",
+  "main_stream_ways": 65,
+  "endpoint_count": 2,
+  "endpoint_coordinates": [
+    [
+      104.6338044,
+      28.7707878
+    ],
+    [
+      122.3684686,
+      30.9935035
+    ]
+  ],
+  "topology": "continuous endpoint chain, no dangling internal endpoint",
+  "main_map_scale_vs_previous": 1.12,
+  "photo_native": [
+    1024,
+    666
+  ],
+  "photo_display": [
+    880,
+    572
+  ],
+  "penguin_screen_scale": 0.52,
+  "generated_cold_asset": "企鹅_围巾怕冷表情.png",
+  "mouth_screen_land_mask": 0,
+  "mouth_screen_xy": [
+    1017.2108661584352,
+    598.7437231062379
+  ],
+  "demo": {
+    "seconds": 22.25,
+    "sha256": "b2b69e729e65626360a408217d21f5523220e143135423b581d6321d6a7163bf",
+    "bytes": 11134677,
+    "resolution": "1920x1080",
+    "fps": 24,
+    "frames": 534,
+    "decode": "PASS",
+    "northwest_track": "PASS",
+    "max_map_scale": 2,
+    "base_map_enlargement": 1.12,
+    "weather_poses": [
+      "rain",
+      "fan",
+      "cold"
+    ],
+    "penguin_screen_scale_unchanged": 0.52,
+    "subtitles_only": true,
+    "province_source": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+    "rivers_source": [
+      "https://www.openstreetmap.org/relation/9392345",
+      "https://github.com/nvkelso/natural-earth-vector"
+    ],
+    "river_line_count": 71,
+    "source_windows": [
+      [
+        11.75,
+        20
+      ],
+      [
+        20,
+        24.75
+      ],
+      [
+        31.25,
+        40.5
+      ]
+    ],
+    "original45_unchanged_sha256": "d1168c2dbcc2dd3c278f90d967c7ed83868d04fd5ed2742566f2ae9bb74206a7"
+  },
+  "audio_peak": 20830,
+  "new_risk_tempo": 1,
+  "cold_expression_asset_sha256": "31f789341e4bd65763c9828b9c6c8991f230b21dc27569dea95172fa75ffabd5"
+}

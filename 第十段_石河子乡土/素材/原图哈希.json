@@ -1,0 +1,18 @@
+{
+  "farm.jpg": {
+    "bytes": 305451,
+    "sha256": "9bfb6b0875fa04b01349440d48349181b34e27d8508eea9805d417a06cc9f0ae"
+  },
+  "中国标准图.jpg": {
+    "bytes": 8487286,
+    "sha256": "bddee5487ab15591f9f3b4c83dd35bc6fde077390dcb9b6ca8aeec7807c1ef74"
+  },
+  "新疆标准图.jpg": {
+    "bytes": 3042037,
+    "sha256": "4d82fc460a210d321fb9b20a83e701fd68c6b74e8c39ce9727d85044797f4a26"
+  },
+  "石河子标准图.jpg": {
+    "bytes": 5673213,
+    "sha256": "b16656825065e782a95da9bb3a883d94a00538524006cef118efff2448167621"
+  }
+}

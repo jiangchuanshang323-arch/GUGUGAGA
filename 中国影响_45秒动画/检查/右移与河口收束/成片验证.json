@@ -1,0 +1,61 @@
+{
+  "seconds": 18.5,
+  "sha256": "20d325d65b1a4708313a4cbedf7d9ce34fa5b2e57d4258e223bd095974361098",
+  "bytes": 8040621,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "frames": 444,
+  "decode": "PASS",
+  "northwest_track": "PASS",
+  "max_map_scale": 2,
+  "map_projection": "equirectangular, standard parallel 35N",
+  "main_country_bounds": [
+    220.2876281302198,
+    68.41827500000005,
+    1481.6448755498657,
+    957.4517675
+  ],
+  "shore_clip": {
+    "render_end": [
+      121.36810032765291,
+      31.54773502389404
+    ],
+    "removed_next_point": [
+      121.400409,
+      31.5148746
+    ],
+    "reason": "first intersection with displayed mainland coastline"
+  },
+  "no_offshore_yangtze_tail": "PASS",
+  "right_period_font_sizes": [
+    60
+  ],
+  "weather_poses": [
+    "rain",
+    "fan",
+    "cold"
+  ],
+  "penguin_screen_scale_unchanged": 0.52,
+  "subtitles_only": true,
+  "province_source": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+  "rivers_source": [
+    "https://www.openstreetmap.org/relation/9392345",
+    "https://github.com/nvkelso/natural-earth-vector"
+  ],
+  "river_line_count": 70,
+  "source_windows": [
+    [
+      5.25,
+      9.75
+    ],
+    [
+      20,
+      24.75
+    ],
+    [
+      31.25,
+      40.5
+    ]
+  ],
+  "original45_unchanged_sha256": "d1168c2dbcc2dd3c278f90d967c7ed83868d04fd5ed2742566f2ae9bb74206a7"
+}

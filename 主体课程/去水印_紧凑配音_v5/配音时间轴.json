@@ -1,0 +1,102 @@
+[
+  {
+    "start": 0,
+    "end": 3.405,
+    "bubble": "先观察三幅画面：\n它们发生在不同的地方。",
+    "pose": 3,
+    "source": "镜3：三组画面并置",
+    "original_start": 0,
+    "original_end": 5,
+    "spoken": "先观察三幅画面：它们发生在不同的地方。"
+  },
+  {
+    "start": 3.405,
+    "end": 5.93,
+    "bubble": "秘鲁渔港：\n渔船空舱而归。",
+    "pose": 6,
+    "source": "镜3：秘鲁渔港",
+    "original_start": 5,
+    "original_end": 11,
+    "spoken": "秘鲁渔港：渔船空舱而归。"
+  },
+  {
+    "start": 5.93,
+    "end": 8.675,
+    "bubble": "印度尼西亚：\n干旱与山火警报。",
+    "pose": 6,
+    "source": "镜3：烟霾与山火",
+    "original_start": 11,
+    "original_end": 17,
+    "spoken": "印度尼西亚：干旱与山火警报。"
+  },
+  {
+    "start": 8.675,
+    "end": 11.350000000000001,
+    "bubble": "中国江南：\n暴雨与城市积水。",
+    "pose": 6,
+    "source": "镜3：江南暴雨",
+    "original_start": 17,
+    "original_end": 23,
+    "spoken": "中国江南：暴雨与城市积水。"
+  },
+  {
+    "start": 11.350000000000001,
+    "end": 14.395000000000001,
+    "bubble": "相隔上万公里，\n它们可能有什么联系？",
+    "pose": 9,
+    "source": "镜4：跨区域问题",
+    "original_start": 23,
+    "original_end": 30,
+    "spoken": "相隔上万公里，它们可能有什么联系？"
+  },
+  {
+    "start": 14.395000000000001,
+    "end": 18.57,
+    "bubble": "追踪一条共同线索：\n赤道中东太平洋\n异常增暖。",
+    "pose": 6,
+    "source": "镜4：海洋发烧",
+    "original_start": 30,
+    "original_end": 38,
+    "spoken": "追踪一条共同线索：赤道中东太平洋异常增暖。"
+  },
+  {
+    "start": 18.57,
+    "end": 22.585,
+    "bubble": "今天，我们当一回\n“地球医生”，\n完成一次全球会诊。",
+    "pose": 3,
+    "source": "镜4：会诊叙事",
+    "original_start": 38,
+    "original_end": 44,
+    "spoken": "今天，我们当一回“地球医生”，完成一次全球会诊。"
+  },
+  {
+    "start": 22.585,
+    "end": 26.17,
+    "bubble": "测体征，查病因，\n追并发症，开处方。",
+    "pose": 8,
+    "source": "00总体设计：四步会诊",
+    "original_start": 44,
+    "original_end": 50,
+    "spoken": "测体征，查病因，追并发症，开处方。"
+  },
+  {
+    "start": 26.17,
+    "end": 28.105,
+    "bubble": "医生看病，\n先测体温。",
+    "pose": 5,
+    "source": "镜5：测体征",
+    "original_start": 50,
+    "original_end": 55,
+    "spoken": "医生看病，先测体温。"
+  },
+  {
+    "start": 28.105,
+    "end": 32.38,
+    "bubble": "气候学家的“体温计”，\n是赤道太平洋的\nNiño3.4区。",
+    "pose": 6,
+    "source": "镜5：区域定位",
+    "original_start": 55,
+    "original_end": 60,
+    "spoken": "气候学家的“体温计”，是赤道太平洋的尼诺三点四区。"
+  }
+]

@@ -1,0 +1,1877 @@
+// 自然专题的布局样式及图片地址
+// 自然专题的分组 可修改
+window.home_pretty_nature_group = {
+  mlzr: [[
+    {
+      name: '百里画廊',
+      class: 'col-span-2 row-span-2',
+    },
+    {
+      name: '独库公路',
+      class: 'col-span-2 row-span-1',
+    },
+    {
+      name: '那拉提',
+      class: 'col-span-1 row-span-1',
+    },
+    {
+      name: '赛里木湖',
+      class: 'col-span-1 row-span-1',
+    },
+    {
+      name: '南山牧场',
+      class: 'col-span-1 row-span-1',
+    },
+	{
+      name: '禾木',
+      class: 'col-span-1 row-span-1',
+    },
+  ]],
+  mhsh: ["国际大巴扎","喀什古城","喀赞其民俗旅游区","库车龟兹小巷"]
+}
+// 自然资源专题的code，用来获取该目录下的所有资源
+window.home_pretty_nature_code = "1977547252482203649"; // 可修改，没有code不显示自然资源模块
+// 自然资源模块的标题
+window.home_pretty_nature_name = ["美丽自然", '美好生活'] // 可修改
+// 自然资源专题跳转地址
+window.home_pretty_nature_url = "https://xinjiang.tianditu.gov.cn/zhuanti/"; // 可修改，没有跳转地址点击无效
+// 自然资源专题获取资源接口
+window.home_pretty_nature_resource = "https://xinjiang.tianditu.gov.cn/zyml";
+window.online_over_time = 15 * 60 * 1000;
+window.deployEnvType = "publicNetwork"; // governmentNetWork  或者 publicNetwork
+//平台运维基础url_政务网
+// window.platform_base_url_government = "http://192.168.0.12:8087/platformmaintenance";
+//平台运维基础url_公众网，在单点登录的情况下，该ip需要为域名ip，否则单点登录验证不通过
+window.platform_base_url_public = "https://xinjiang.tianditu.gov.cn/platformmaintenance";
+//本地测试用，
+// window.platform_base_url_public = "http://192.168.0.12:8087/platformmaintenance";
+// window.platform_base_url_public = "http://192.168.0.100:8087/platformmaintenance";
+// window.platform_base_url_public = "http://192.168.0.5:8087/platformmaintenance";
+// window.platform_base_url_public = "http://192.168.0.108:8087/platformmaintenance";
+window.platform_base_url_public = "https://xinjiang.tianditu.gov.cn/platformmaintenance";
+
+// window.platform_base_url_public = "http://223.71.70.150:8022/platformmaintenance-v1.0";
+
+//现场186测试用
+// window.platform_base_url_public = "http://192.168.0.186:8087/platformmaintenance";
+
+//window.user_base_url_public = "http://gansu.tianditu.gov.cn/EzManager6/";
+// window.user_base_url_public = "https://gansu.tianditu.gov.cn/fmuser/token";
+window.user_base_url_public = "/fmanager";
+
+window.user_base_url_government = "http://139.198.12.200:8040";
+
+window.tdtsso_base_url = "https://www.tianditu.gov.cn/";
+//服务管理系统--旧地址
+// window.serviceManagerSystem_base_url = "http://gansu.tianditu.gov.cn/servicem/";
+//服务管理系统--新地址
+// window.serviceManagerSystem_base_url = "https://gansu.tianditu.gov.cn/fwglnew_m/";
+// 省市互通地址
+window.kelamayi_portal_url = "http://xinjiang.tianditu.gov.cn/kelamayi/";
+// window.baiyin_portal_url="http://gansu.tianditu.gov.cn/baiyin";
+// window.qingyang_portal_url="http://gansu.tianditu.gov.cn/qingyang";
+// window.pingliang_portal_url="http://gansu.tianditu.gov.cn/pingliang";
+// window.gannan_portal_url="http://gansu.tianditu.gov.cn/gannan";
+// window.dingxi_portal_url="http://gansu.tianditu.gov.cn/dingxi";
+// window.jinchang_portal_url="http://gansu.tianditu.gov.cn/jinchang";
+// window.jiayuguan_portal_url ="http://gansu.tianditu.gov.cn/jiayuguan";
+// window.jiuquan_portal_url="http://gansu.tianditu.gov.cn/jiuquan";
+// window.linxia_portal_url="http://gansu.tianditu.gov.cn/linxia";
+// window.longnan_portal_url="http://gansu.tianditu.gov.cn/longnan";
+// window.zhangye_portal_url="http://gansu.tianditu.gov.cn/zhangye";
+// window.tianshui_portal_url="http://gansu.tianditu.gov.cn/tianshui";
+// window.wuwei_portal_url="http://gansu.tianditu.gov.cn/wuwei";
+
+//测试用
+// window.serviceManagerSystem_base_url="http://127.0.0.1:8085/service_m/";
+
+// >17级时影像底图 配置文件
+window.fmserver_img_c_url = "https://gansu.tianditu.gov.cn/fmserver/service/img_c_2020tdtlz/wmts";
+window.fmserver_layer_img_c = "img_c_2020tdtlz";
+window.fmserver_matrixSet_img_c = "default028mm";
+window.format_fmserver_tiles = "image/jpeg";
+
+window.tdt_public_base_url = "https://t{0-7}.tianditu.gov.cn";
+window.tdt_public_vec_url = window.tdt_public_base_url + "/vec_c/wmts";
+window.tdt_public_cva_url = window.tdt_public_base_url + "/cva_c/wmts";
+window.tdt_public_img_url = window.tdt_public_base_url + "/img_c/wmts";
+window.tdt_public_cia_url = window.tdt_public_base_url + "/cia_c/wmts";
+window.tdt_public_ter_url = window.tdt_public_base_url + "/ter_c/wmts";
+window.tdt_public_cta_url = window.tdt_public_base_url + "/cta_c/wmts";
+
+window.tdt_government_base_url = "http://10.162.10.73:8089/fmserver";
+window.tdt_government_vec_url = window.tdt_government_base_url + "/service/mongo_vec_c/wmts";
+window.tdt_government_cva_url = window.tdt_government_base_url + "/service/mongo_cva_c/wmts";
+window.tdt_government_img_url = window.tdt_government_base_url + "/service/mongo_img_c/wmts";
+window.tdt_government_cia_url = window.tdt_government_base_url + "/service/mongo_cia_c/wmts";
+window.tdt_government_ter_url = window.tdt_government_base_url + "/service/mongo_vec_c/wmts";
+window.tdt_government_cta_url = window.tdt_government_base_url + "/service/mongo_cva_c/wmts";
+
+window.tdt_service_public_base_url = "https://api.tianditu.gov.cn";
+window.tdt_service_public_busTransfer_url = window.tdt_service_public_base_url + "/transit";
+window.tdt_service_public_district_url = window.tdt_service_public_base_url + "/administrative";
+window.tdt_service_public_drive_url = window.tdt_service_public_base_url + "/drive";
+window.tdt_service_public_query_url = window.tdt_service_public_base_url + "/search";
+
+window.tdt_service_government_busTransfer_url = "http://api.tianditu.gov.cn/transit";
+window.tdt_service_government_district_url = "http://api.tianditu.gov.cn/administrative";
+window.tdt_service_government_drive_url = "http://api.tianditu.gov.cn/drive";
+window.tdt_service_government_query_url = "http://api.tianditu.gov.cn/search";
+
+//服务引擎配置页面地址
+// window.platform_href_serviceEngine_config_public = "https://gansu.tianditu.gov.cn/fmserverhtml/";
+
+// window.platform_href_serviceEngine_config_government = "https://gansu.tianditu.gov.cn/fmserverhtml/";
+
+//链接-在线地图-public外网
+// window.platform_href_onlineMap_public = "http://127.0.0.1:8010/map/index.html";
+window.platform_href_onlineMap_public = "https://xinjiang.tianditu.gov.cn/map/";
+//   window.platform_href_onlineMap_public = "http://223.71.70.150:8175/map/index.html";
+//链接-在线地图-public外网
+window.platform_href_onlineMap_img_public = window.platform_href_onlineMap_public + "?mode=1";
+//链接-专题图层-public外网
+window.platform_href_thematicLayer_public = "https://xinjiang.tianditu.gov.cn/subjectlayer/#/oneMap";
+
+//链接-专题图层-government政务内网
+window.platform_href_thematicLayer_government = "http://10.162.10.74:8080/subjectlayer/map.html";
+
+//专题图层配置页面-session中取登录信息 取到免登录 取不到重新登录
+// window.platform_href_thematicLayer_config_public = "https://gansu.tianditu.gov.cn/subject/configSuper.html";
+
+// window.platform_href_thematicLayer_config_government = "https://gansu.tianditu.gov.cn/subject/configSuper.html";
+
+// 红色地图地址外网地址
+// window.platform_href_redmap_public = "https://gansu.tianditu.gov.cn/redmap/index.html";
+//链接-资源中心-public外网
+// window.platform_href_resourceCenter_public = "http://gansu.tianditu.gov.cn/fwzy/";
+
+window.platform_href_resourceCenter_public = "./serviceresource";
+window.platform_href_resourceDown_public = "./downloadResource";
+
+//链接=资源中心-登录页面-public外网
+// window.platform_href_resourceCenter_login_public = "https://gansu.tianditu.gov.cn/fwzy/login";
+
+// window.platform_href_resourceCenter_login_government = "https://gansu.tianditu.gov.cn/fwzy/login";
+
+//链接-用户管理系统-public外网
+// window.platform_href_fmmanager_config_public = "https://gansu.tianditu.gov.cn/fmmanager";
+//链接-服务监控系统-public外网
+// window.platform_href_fwjknew_config_public = " https://gansu.tianditu.gov.cn/fwjk/login.html";
+
+//链接-开发中心-public外网
+// window.platform_href_development_center_public = "https://gansu.tianditu.gov.cn/developmentcenter/index.html";
+
+//链接-在线制图-public外网
+// window.platform_href_online_mapping_public = "";
+
+//链接-资源下载
+window.platform_href_download_resource_public = "./download";
+
+//链接-标准地图
+window.platform_href_standard_map_public = "https://xinjiang.tianditu.gov.cn/bzdt_code/bzdt.html";
+
+//链接-成果目录
+window.platform_href_achievement_catalog_public = "https://mulu.tianditu.gov.cn/catalog?source=156650000";
+
+//链接-专题地图
+//window.platform_href_subject_map_public = "http://www.gsmap.cn/mapview/index.htm";
+// window.platform_href_subject_map_public = "https://gansu.tianditu.gov.cn/mapview/";
+// 卫星资源
+// window.platform_href_satelliteResource_public = "http://gansu.sasclouds.com/web/home";
+
+//链接-应急服务
+window.platform_href_emergency_service_public = "https://www.tianditu.gov.cn/yjfw/#/homePage";
+
+//链接-图说兰州新区
+//window.platform_href_lanzhou_new_region_public = "http://biaozhu.gsmap.cn/lzxq/index.html";
+//window.platform_href_lanzhou_new_region_public = "http://gansu.tianditu.gov.cn/lzxqImg-debug/lzxqImg.html";
+// window.platform_href_lanzhou_new_region_public = "http://gansu.tianditu.gov.cn/portal/thematic?id=bff2dbb8af4cd0747f09aa7b2e0bde40";
+
+//链接-测绘成果展览-测绘资质管理
+// window.platform_href_cehui_achievement_exhibition_public = "http://61.178.68.99/flash/gszlg.html";
+// window.platform_href_cehui_achievement_exhibition_public = "http://www.cehuifuwu.cn/";
+window.platform_href_cehui_achievement_exhibition_public = "http://cehuifuwu.cn/GS";
+
+//链接-兰州新区环境保护地理信息系统
+// window.platform_href_lanzhou_env_protect_gis_sys_public = "http://gansu.tianditu.gov.cn/portal/thematic?id=c18b83bf11e00881686810dd23b02c3e";
+
+//链接-精准扶贫->企业自主标注-》甘肃省自然资源遥感影像服务系统
+// window.platform_href_poverty_public = "http://61.178.21.242:8081/myCorp01";
+// window.platform_href_poverty_public = "http://gansu.tianditu.gov.cn/myCorp01";
+// window.platform_href_poverty_public = "http://gansu.sasclouds.com/web/home/";
+
+// 卫星资源-影像查询
+// window.platform_href_imgSearch = 'http://gansu.sasclouds.com/web/normal/';
+
+//链接-岷县梅川暴洪泥石流
+window.platform_href_meixian_flood_debris_flow_public = "http://61.178.21.242:8081/lzxqImg-debug/m6_js.html";
+
+//公网安备号 的链接
+window.footerGGW_url = "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502030880";
+//陇ICP备06003148号-4 的链接
+window.footerLICP_url = "https://beian.miit.gov.cn/#/Integrated/index";
+
+//链接-城市建设变化监测
+//window.platform_href_city_build_change_monitor_public = "http://61.178.21.242:8081/lzxqImg-debug/gsImg.html";
+//window.platform_href_city_build_change_monitor_public = "http://gansu.tianditu.gov.cn/lzxqImg-debug/gsImg.html";
+// window.platform_href_city_build_change_monitor_public = "http://gansu.tianditu.gov.cn/portal/thematic?id=80529350a69675450ed7102e01183b4b";
+
+//链接-国家开发资源
+window.platform_href_national_development_resource_public = "http://lbs.tianditu.gov.cn/server/MapService.html";
+
+//链接-全景图
+window.platform_href_fullview_public = "http://biaozhu.gsmap.cn:8081/qjmap2018/bin-release/qjmap2018.html";
+
+//链接-2.5维地图
+window.platform_href_2_half_map_public = "http://biaozhu.gsmap.cn:8081/zy2d5/bin-release/zy2d5.html";
+
+//链接-在线更新
+window.platform_href_onlineUpdate_public = "https://vgimap.tianditu.gov.cn";
+window.platform_href_multidate_public = "https://image.tianditu.gov.cn/multidate"; //多时相影像
+
+window.platform_href_download_resource_preview_public = "./resourcepreview";
+
+window.platform_href_typical_app_public = "./thematicApp";
+
+
+// 链接-本地应用
+window.platform_href_local_resource_public = './localResource';
+window.platform_href_local_resource_government = './localResource';
+
+window.platform_href_typical_app_detail_public = "./thematic";
+
+window.platform_href_work_news_public = "./workDynamics";
+
+window.platform_href_work_news_detail_public = "./work";
+// 新卫星资源
+window.platform_href_satelliteResource_new_public = "./satelliteResource";
+// 月度报告详情
+window.platform_href_monthlyReport_detail_public = "./monthlyReportDetail";
+
+//链接-在线地图-government政务内网
+window.platform_href_onlineMap_government = "http://10.162.10.74:8080/website/map.html";
+window.platform_href_onlineMap_img_government = window.platform_href_onlineMap_government + "?mode=1";
+
+// 红色地图政务内网地址
+window.platform_href_redmap_government = ""; //
+
+// 丝绸之路
+// window.platform_href_sczl_public = "http://gansu.tianditu.gov.cn/portal/thematic?id=86a4f4679b22052b8ec4e33c03b8fda1";
+window.platform_href_sczl_government = "#";
+
+window.platform_href_resourceDown_government = "./downloadResource"; // 开发资源-资源下载
+
+//开发中心-government政务内网
+window.platform_href_development_center_government = "http://10.162.10.74:8080/developmentcenter/index.html";
+
+//在线制图-government政务内网
+window.platform_href_online_mapping_government = "http://10.162.10.74:8080/onlinemapping/drawMapIndex.html";
+
+//链接-用户管理系统-government政务内网
+// window.platform_href_fmmanager_config_government= "https://gansu.tianditu.gov.cn/fmmanager";
+
+//链接-标准地图--内网地址
+window.platform_href_standard_map_government = "https://xinjiang.tianditu.gov.cn/bzdt_code/bzdt.html";
+
+//链接-成果目录--内网地址
+window.platform_href_achievement_catalog_government = "#";
+
+//专题地图
+window.platform_href_subject_map_government = "#";
+
+// 卫星资源
+window.platform_href_satelliteResource_government = "#";
+
+window.platform_href_emergency_service_government = "#";
+window.platform_href_lanzhou_new_region_government = "#";
+window.platform_href_cehui_achievement_exhibition_government = "#";
+window.platform_href_lanzhou_env_protect_gis_sys_government = "#";
+window.platform_href_poverty_government = "#"; //甘肃省自然资源遥感影像服务系统
+window.platform_href_meixian_flood_debris_flow_government = "#";
+window.platform_href_city_build_change_monitor_government = "#"; // 甘肃省地理国情排查成果
+window.platform_href_national_development_resource_government = "#"; //开发资源-地图api
+window.platform_href_resourceCenter_government = "http://10.162.10.74:8086/"; //开发资源-本地资源
+// 以下开发资源链接下边菜单
+// 链接--开发资源--地图API
+window.platform_href_map_api_public = "http://lbs.tianditu.gov.cn/server/MapService.html";
+window.platform_href_map_api_government = "#";
+// 链接--开发资源--网页API
+window.platform_href_bs_api_public = "http://lbs.tianditu.gov.cn/home.html";
+window.platform_href_bs_api_government = "#";
+
+window.platform_href_bs_3_api_public = "http://lbs.tianditu.gov.cn/api/js3.0/guide.html";
+window.platform_href_bs_4_api_public = "http://lbs.tianditu.gov.cn/api/js4.0/guide.html";
+window.platform_href_bs_4_ex_api_public = "http://lbs.tianditu.gov.cn/api/js4.0/opensource/source.html";
+window.platform_href_bs_3_api_government = "#";
+window.platform_href_bs_4_api_government = "#";
+window.platform_href_bs_4_ex_api_government = "#";
+// 链接--开发资源--web服务API
+window.platform_href_webservice_api_public = "http://lbs.tianditu.gov.cn/server/guide.html";
+window.platform_href_webservice_api_government = "#";
+
+window.platform_href_webservice_search_api_public = "http://lbs.tianditu.gov.cn/server/search.html";
+window.platform_href_webservice_drive_api_public = "http://lbs.tianditu.gov.cn/server/drive.html";
+window.platform_href_webservice_bus_api_public = "http://lbs.tianditu.gov.cn/server/bus.html";
+window.platform_href_webservice_geocodinginterface_api_public =
+  "http://lbs.tianditu.gov.cn/server/geocodinginterface.html";
+window.platform_href_webservice_geocoding_api_public = "http://lbs.tianditu.gov.cn/server/geocoding.html";
+
+window.platform_href_webservice_search_api_government = "#";
+window.platform_href_webservice_drive_api_government = "#";
+window.platform_href_webservice_bus_api_government = "#";
+window.platform_href_webservice_geocodinginterface_api_government = "#";
+window.platform_href_webservice_geocoding_api_government = "#";
+// 链接--开发资源--数据API
+window.platform_href_data_api_public = "http://lbs.tianditu.gov.cn/data/dataapi.html";
+window.platform_href_data_api_government = "#";
+
+window.platform_href_data_trans_api_public = "http://lbs.tianditu.gov.cn/data/dataapi.html";
+window.platform_href_data_water_api_public = "http://lbs.tianditu.gov.cn/data/dataapi.html";
+window.platform_href_data_place_api_public = "http://lbs.tianditu.gov.cn/data/dataapi.html";
+window.platform_href_data_trans_api_government = "#";
+window.platform_href_data_water_api_government = "#";
+window.platform_href_data_place_api_government = "#";
+
+//以上
+
+window.platform_href_fullview_government = "#";
+window.platform_href_2_half_map_government = "#";
+window.platform_href_onlineUpdate_government = "#";
+
+window.platform_href_typical_app_government = "./thematicApp";
+
+window.platform_href_typical_app_detail_government = "./thematic";
+
+window.platform_href_work_news_government = "./workDynamics";
+
+window.platform_href_work_news_detail_government = "./work";
+
+//链接-资源下载
+window.platform_href_download_resource_government = "./download";
+
+window.platform_href_download_resource_preview_government = "./resourcepreview";
+// 新卫星资源
+window.platform_href_satelliteResource_new_government = "./satelliteResource";
+window.platform_href_monthlyReport_detail_government = "./monthlyReportDetail";
+
+//意见与建议中的保存
+window.platform_userSuggest_add = "/usersuggest/create";
+
+//ueditor图片上传
+window.platform_ueditor = "/ueditor/action";
+
+//工作动态
+window.platform_worknews_selectByFilter = "/worknews/selectbyfilter";
+window.platform_worknews_selectCountByFilter = "/worknews/selectcountbyfilter";
+window.platform_worknews_deleteMulti = "/worknews/deletemulti";
+window.platform_worknews_add = "/worknews/create";
+window.platform_worknews_update = "/worknews/update";
+
+//典型应用
+window.platform_typicalApp_selectByFilter = "/typicalapplication/selectbyfilter";
+window.platform_typicalApp_selectCountByFilter = "/typicalapplication/selectcountbyfilter";
+window.platform_typicalApp_deleteMulti = "/typicalapplication/deletemulti";
+window.platform_typicalApp_create = "/typicalapplication/create";
+window.platform_typicalApp_update = "/typicalapplication/update";
+window.platform_typicalApp_uploadphotos = "/typicalapplication/uploadphotos";
+
+// 底图配置
+window.platform_baseLayerConfig_selectByFilter = "/tdtserviceinfo/selectbyfilter";
+window.platform_baseLayerConfig_deleteMulti = "/tdtserviceinfo/deletemulti";
+window.platform_baseLayerConfig_create = "/tdtserviceinfo/create";
+window.platform_baseLayerConfig_update = "/tdtserviceinfo/update";
+window.platform_baseLayerConfig_changeSort = "/tdtserviceinfo/updatesort";
+window.platform_baseLayerConfig_getMaxSort = "/tdtserviceinfo/getmaxsort";
+// 月度报告
+window.platform_monthlyReport_selectByFilter = "/monthlyreport/selectbyfilter";
+window.platform_monthlyReport_deleteMulti = "/monthlyreport/deletemulti";
+window.platform_monthlyReport_create = "/monthlyreport/create";
+window.platform_monthlyReport_update = "/monthlyreport/update";
+window.platform_monthlyReport_uploadattachments = "/monthlyreport/uploadattachments";
+//多时期影像
+window.platform_multiphaseImaging_selectByFilter = "/imagemultitemporal/selectbyfilter";
+window.platform_multiphaseImaging_deleteMulti = "/imagemultitemporal/deletemulti";
+window.platform_multiphaseImaging_create = "/imagemultitemporal/create";
+window.platform_multiphaseImaging_update = "/imagemultitemporal/update"; //编辑
+window.platform_multiphaseImaging_changeSort = "/imagemultitemporal/updatesort";
+window.platform_multiphaseImaging_getMaxSort = "/imagemultitemporal/getmaxsort";
+
+//分组类型
+window.platform_classifyCatalog = "/modulecategory/getCategories";
+//前端 工作动态 和 专题应用左侧列表数据获取
+window.platform_getWorkNewsCategories = "/modulecategory/getWorkNewsCategories";
+window.platform_getTypicalAppCategories = "/modulecategory/getTypicalAppCategories";
+//下载资源分类
+window.platform_getDownloadResourceCategories = "/modulecategory/getDownloadResourceCategories";
+
+window.platform_moduleCategory_deleteMulti = "/modulecategory/deletemulti";
+window.platform_moduleCategory_create = "/modulecategory/create";
+window.platform_moduleCategory_update = "/modulecategory/update";
+
+//
+window.platform_downloadResource_create = "/downloadresource/create";
+window.platform_downloadResource_update = "/downloadresource/update";
+window.platform_downloadResource_deleteMulti = "/downloadresource/deletemulti";
+window.platform_downloadResource_uploadattachments = "/downloadresource/uploadattachments";
+window.platform_downloadResource_selectByFilter = "/downloadresource/selectbyfilter";
+window.platform_downloadResource_selectCountByFilter = "/downloadresource/selectcountbyfilter";
+
+window.platform_user_create = "/user/create";
+window.platform_user_update = "/user/update";
+window.platform_user_deleteMulti = "/user/deletemulti";
+window.platform_user_selectByFilter = "/user/selectbyfilter";
+window.platform_user_selectcountbyfilter = "/user/selectcountbyfilter";
+window.platform_user_verify = "/";
+
+// 事业单位图标外链
+window.institutions_outside = "https://bszs.conac.cn/sitename?method=show&id=BA92CD75D8FDCE49E05310291AACCF03";
+// 登录、退出、注册、个人中心---外链
+window.platform_tdtsso_fullLogin = "https://xinjiang.tianditu.gov.cn/platformmaintenance/tdtsso/login";
+window.platform_tdtsso_fullLogout = "https://xinjiang.tianditu.gov.cn/platformmaintenance/tdtsso/logout";
+window.platform_tdtsso_fullRegister = "https://passport.tianditu.gov.cn/register";
+window.platform_tdtsso_fullUserInfo = "https://cloudcenter.tianditu.gov.cn/center/personal/personalCenter";
+// 登录、退出、注册、个人中心---内链
+window.platform_tdtsso_login = "/tdtsso/login";
+window.platform_tdtsso_logout = "/tdtsso/logout";
+window.platform_tdtsso_register = "https://passport.tianditu.gov.cn/register"
+window.platform_tdtsso_getsession = "/tdtsso/getusersession";
+
+
+// 服务申请
+window.serviceApply_url = "https://xinjiang.tianditu.gov.cn/tk-app";
+
+
+//审图号配置
+window.mapdrawingApprovalNumber = "GS（2025）1508号";
+window.mapdrawingApprovalDescription = "甲测资字11110974";
+window.mapAttributes = window.mapdrawingApprovalNumber + " - " + window.mapdrawingApprovalDescription;
+
+//window.userManagerSytem_user_login = "/user/login";
+
+//问题举报
+window.complainSelectbyfilter = "/usersuggest/selectbyfilter";
+window.complainUpdate = "/usersuggest/updateStatus";
+
+//app版本管理
+window.appManagerUpload = "appManager/upload";
+window.appManagerSelectbyfilter = "appManager/selectbyfilter";
+// 登录
+window.userManagerSytem_user_login = "/nuserlogin/oUserLogin";
+window.userManagerSytem_user_logout = "/user/logout";
+window.userManagerSytem_user_getsession = "";
+
+window.tdtsso_userinfo = "/userInfo";
+
+//服务管理系统-查询服务类型--旧地址
+// window.serviceManagerSystem_queryServiceType = "/queryServiceType";
+// //查询服务列表
+// window.serviceManagerSystem_queryServicelist = "/queryServicelist";
+// //查询服务
+// window.serviceManagerSystem_queryService = "/queryService";
+//服务管理系统-查询服务类型--新地址
+window.serviceManagerSystem_queryServiceType = "/servicelist/list";
+//查询服务列表
+window.serviceManagerSystem_queryServicelist = "/servicelist/queryServicelist";
+//查询服务
+window.serviceManagerSystem_queryService = "/ser/serviceInfo/queryService";
+
+// 下载资源文件
+window.downloadresource_downloadFile = "/downloadresource/downloadFile";
+
+window.platform_href_mapDevelop = "http://xzgcl70.tianditu.gov.cn/";
+
+// 采集数据
+window.gatheringPlace_getGatheringPlaceList = "/gatheringPlace/getGatheringPlaceList";
+window.gatheringPlace_updGatheringPlace = "/gatheringPlace/updGatheringPlace";
+window.addressClassificationCode_getAddressClassificationCodes =
+  "/addressClassificationCode/getAddressClassificationCodes";
+window.gatheringPlace_dowShape = "/gatheringPlace/dowShape";
+
+//元数据表格配置
+(window.dataTableConfig = [
+  {
+    name: "地名地址点",
+    value: "PLACE",
+    geoType: "Point",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "address", aliasName: "地址", index: -1, type: null },
+      { name: "type2018", aliasName: "分类", index: -1, type: null },
+    ],
+    formFields: [
+      {
+        name: "elemid",
+        aliasName: "图元标识码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: true,
+        isEdit: true,
+      },
+      {
+        name: "nid",
+        aliasName: "国家级节点唯一标识码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "poi_id",
+        aliasName: "导航数据唯一标识码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "lon",
+        aliasName: "经度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "lat",
+        aliasName: "纬度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "classid",
+        aliasName: "地名地址分类",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "name",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "othername",
+        aliasName: "别名",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "oldname",
+        aliasName: "曾用名",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "ename",
+        aliasName: "英文名",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "address",
+        aliasName: "地址",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "telephon",
+        aliasName: "电话",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "zipcode",
+        aliasName: "邮编",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "fax",
+        aliasName: "传真",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "pac",
+        aliasName: "行政区划代码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "type2018",
+        aliasName: "类型编码",
+        value: null,
+        formType: "cascader",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "tag",
+        aliasName: "数据标签",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "url",
+        aliasName: "网址",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "email",
+        aliasName: "电子邮件",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "brand",
+        aliasName: "品牌词",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "abber",
+        aliasName: "简称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "importance",
+        aliasName: "重要度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "pa_poi_nid",
+        aliasName: "POI父节点NID",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        isEdit: true,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      {
+        name: "prodate",
+        aliasName: "处理日期",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+    ],
+  },
+  {
+    name: "道路",
+    value: "ROALN",
+    geoType: "Polyline",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "width", aliasName: "路宽", index: -1, type: null },
+    ],
+    formFields: [
+      {
+        name: "elemid",
+        aliasName: "图元标识码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: true,
+        isEdit: true,
+      },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: true,
+        isEdit: true,
+      },
+      {
+        name: "dispclasid",
+        aliasName: "道路显示分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: true,
+        isEdit: true,
+      },
+      { name: "name", aliasName: "道路简称", value: null, formType: "input", index: -1, require: true, isEdit: true },
+      {
+        name: "width",
+        aliasName: "路宽",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "name1",
+        aliasName: "道路基础设施名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "name2",
+        aliasName: "道路全称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "name3",
+        aliasName: "道路名称3",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "name4",
+        aliasName: "道路名称4",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "ename",
+        aliasName: "英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "ename1",
+        aliasName: "英文名称1",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "ename2",
+        aliasName: "英文名称2",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "othername",
+        aliasName: "别名",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "oldname",
+        aliasName: "曾用名",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "rteg",
+        aliasName: "公路技术等级",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "sdtf",
+        aliasName: "单双行线",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "length",
+        aliasName: "路线长度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "routenum",
+        aliasName: "道路编号",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "routenum1",
+        aliasName: "道路编号2",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "routenum2",
+        aliasName: "道路编号3",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "from",
+        aliasName: "道路形态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "funcclass",
+        aliasName: "功能等级",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "status",
+        aliasName: "图面显示状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+      {
+        name: "direction",
+        aliasName: "通行方向",
+        value: "0",
+        formType: "select",
+        index: -1,
+        require: false,
+        isEdit: true,
+        options: [
+          { name: "未调查", value: "0" },
+          { name: "双向", value: "1" },
+          { name: "顺方向", value: "2" },
+          { name: "逆方向", value: "3" },
+        ],
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: "0",
+        formType: "select",
+        index: -1,
+        require: false,
+        isEdit: true,
+        options: [
+          { name: "未修改", value: "0" },
+          { name: "增加", value: "1" },
+          { name: "修改", value: "2" },
+          { name: "删除", value: "3" },
+        ],
+      },
+      {
+        name: "prodate",
+        aliasName: "处理日期",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+        isEdit: true,
+      },
+    ],
+  },
+  {
+    name: "铁路",
+    value: "RAILN",
+    geoType: "Polyline",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "ISHS", aliasName: "是否高铁", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name1",
+        aliasName: "附属设施",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name2",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name3",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name4",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      ,
+      {
+        name: "type",
+        aliasName: "类型",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "routenum",
+        aliasName: "编号",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ishs",
+        aliasName: "是否高铁",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "处理日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "地铁点",
+    value: "SUBPT",
+    geoType: "Point",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "open", aliasName: "开通状态", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "地铁点名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name1",
+        aliasName: "附属设施",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name2",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name3",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name4",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "地铁点英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "pac",
+        aliasName: "行政区域代码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "open",
+        aliasName: "开通状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "trans",
+        aliasName: "是否换乘",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "exitcode",
+        aliasName: "出口标识码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "codenum",
+        aliasName: "出口标识长度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "地铁线",
+    value: "SUBLN",
+    geoType: "Polyline",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "open", aliasName: "开通状态", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "地铁线名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name1",
+        aliasName: "附属设施",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name2",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name3",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name4",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "地铁线英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      ,
+      {
+        name: "pac",
+        aliasName: "行政区域代码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "open",
+        aliasName: "开通状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "lincode",
+        aliasName: "线路代码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "linecolor",
+        aliasName: "线路颜色",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "地铁面",
+    value: "SUBPL",
+    geoType: "Polygon",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "open", aliasName: "开通状态", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "地铁面名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name1",
+        aliasName: "附属设施",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name2",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name3",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name4",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "地铁面英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "pac",
+        aliasName: "行政区域代码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "open",
+        aliasName: "开通状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "lincode",
+        aliasName: "线路代码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "linecolor",
+        aliasName: "线路颜色",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "水系线",
+    value: "HYDLN",
+    geoType: "Polyline",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "ename", aliasName: "英文名称", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "水系线名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "水系线英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "period",
+        aliasName: "时令月份",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "level",
+        aliasName: "显示级别",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "status",
+        aliasName: "图面显示状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "shape_len",
+        aliasName: "水系面轮廓长度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "水系面",
+    value: "HYDPL",
+    geoType: "Polygon",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "ename", aliasName: "英文名称", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "水系面名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "水系面英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "period",
+        aliasName: "时令月份",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "level",
+        aliasName: "显示级别",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "status",
+        aliasName: "图面显示状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "shape_len",
+        aliasName: "水系面轮廓长度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "水系注记线",
+    value: "HCTLN",
+    geoType: "Polyline",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "ename", aliasName: "英文名称", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "水系注记线名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "水系注记线英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "period",
+        aliasName: "时令月份",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "level",
+        aliasName: "显示级别",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "status",
+        aliasName: "图面显示状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "shape_len",
+        aliasName: "水系面轮廓长度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "居民地",
+    value: "RESPL",
+    geoType: "Polygon",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "type", aliasName: "类型编码", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "cc",
+        aliasName: "要素代码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "type",
+        aliasName: "类型编码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "address",
+        aliasName: "地址",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "h",
+        aliasName: "高度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "z",
+        aliasName: "绝对高度",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "floor",
+        aliasName: "楼层数",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "status",
+        aliasName: "图面显示状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+  {
+    name: "绿地",
+    value: "VEGPL",
+    geoType: "Polygon",
+    showFields: [
+      { name: "name", aliasName: "名称", index: -1, type: null },
+      { name: "clasid", aliasName: "国标分类码", index: -1, type: null },
+      { name: "ename", aliasName: "英文名称", index: -1, type: null },
+    ],
+    formFields: [
+      { name: "elemid", aliasName: "图元标识码", value: null, formType: "input", index: -1, require: true },
+      {
+        name: "clasid",
+        aliasName: "国标分类码",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "name",
+        aliasName: "名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "ename",
+        aliasName: "英文名称",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "status",
+        aliasName: "图面显示状态",
+        value: null,
+        formType: "input",
+        index: -1,
+        require: false,
+      },
+      {
+        name: "stacode",
+        aliasName: "数据处理状态",
+        value: 0,
+        formType: "select",
+        index: -1,
+        require: false,
+        options: [
+          { name: "未修改", value: 0 },
+          { name: "增加", value: 1 },
+          { name: "修改", value: 2 },
+          { name: "删除", value: 3 },
+        ],
+      },
+      { name: "prodate", aliasName: "更新日期", value: null, formType: "input", index: -1, require: false },
+    ],
+  },
+]),
+  (window.formType = {
+    formInput: "input",
+    formSelect: "select",
+    formDate: "date",
+    cascader: "cascader",
+  });

@@ -1,0 +1,75 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>厄尔尼诺现象 · 自绘动态示意</title>
+<style>
+@font-face{font-family:Smiley;src:url('../../主体课程/得意黑_大字无水印_v6/素材/SmileySans-Oblique.ttf')}*{box-sizing:border-box}body{margin:0;background:#e8f1f3;color:#244c60;font-family:Smiley,'Microsoft YaHei',sans-serif}main{max-width:1600px;margin:16px auto;padding:0 16px}svg{display:block;width:100%;background:#fffaf0;border-radius:22px;box-shadow:0 8px 30px #45687916}svg text{font-family:Smiley,'Microsoft YaHei',sans-serif;fill:#244c60}button{font:inherit;color:#244c60;background:#fffaf0;border:1px solid #abc4ce;border-radius:14px;padding:10px 18px;cursor:pointer}button.active{background:#d5e8ed}nav{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:14px 0}input{flex:1;min-width:200px;accent-color:#d77a56}#status{min-width:130px;text-align:right} .flow{stroke-dasharray:18 13;animation:flow 1.5s linear infinite}@keyframes flow{to{stroke-dashoffset:-62}}
+</style><main>
+<svg id="art" viewBox="0 0 1800 1012" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="正常状态向厄尔尼诺状态变化的赤道太平洋剖面示意">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f4f9fa"/><stop offset="1" stop-color="#e4f1f4"/></linearGradient>
+ <linearGradient id="warm" x2="0" y2="1"><stop stop-color="#ffe2b1"/><stop offset="1" stop-color="#f5bd97"/></linearGradient>
+ <linearGradient id="cold" x2="0" y2="1"><stop stop-color="#89c6de"/><stop offset="1" stop-color="#5499bd"/></linearGradient>
+ <marker id="goldHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#d2a759"/></marker>
+ <marker id="warmHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#d7805f"/></marker>
+ <marker id="coldHead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="3.2" markerHeight="3.2" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#569aba"/></marker>
+ <clipPath id="waterClip"><rect x="170" y="510" width="1460" height="370" rx="16"/></clipPath>
+</defs>
+<rect width="1800" height="1012" fill="#fffaf0"/>
+<text x="72" y="81" font-size="62">厄尔尼诺现象</text>
+<text x="72" y="134" font-size="35">赤道中东太平洋海水持续异常增暖</text>
+<rect x="1390" y="36" width="340" height="80" rx="24" fill="#e3f0f2"/>
+<text id="stateLabel" x="1560" y="90" font-size="43" text-anchor="middle">正常状态</text>
+<rect x="170" y="170" width="1460" height="340" rx="20" fill="url(#sky)"/>
+<text x="235" y="222" font-size="39">西太平洋 · 印尼一侧</text><text x="1200" y="222" font-size="39">东太平洋 · 秘鲁一侧</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path id="highFlow" d="M470 280L1390 280" stroke="#d2a759" stroke-width="10" marker-end="url(#goldHead)"/>
+ <path id="rise" d="M430 467L430 380" stroke="#d7805f" stroke-width="13" marker-end="url(#warmHead)"/>
+ <path id="sink" d="M1430 314L1430 457" stroke="#569aba" stroke-width="13" marker-end="url(#coldHead)"/>
+ <path id="westSink" d="M335 300L335 451" stroke="#569aba" stroke-width="7" opacity="0" marker-end="url(#coldHead)"/>
+ <path id="trade" d="M1390 468L485 468" stroke="#d2a759" stroke-width="12" marker-end="url(#goldHead)"/>
+ <path id="tradeDots" class="flow" d="M1370 468L510 468" stroke="#fff8da" stroke-width="3"/>
+</g>
+<g id="cloud" transform="translate(430 315)">
+ <path d="M-137 31C-177 17-161-26-125-27C-135-73-66-87-48-46C-26-105 45-94 53-54C96-80 137-40 119-8C163-7 172 31 132 42L-137 42Z" fill="#fffef8" stroke="#aac5ce" stroke-width="4"/>
+ <g id="rain" stroke="#76adc7" stroke-width="5" stroke-linecap="round"><path d="M-70 72l-8 24M-20 80l-8 24M30 72l-8 24M80 80l-8 24"/></g>
+</g>
+<rect x="170" y="510" width="1460" height="370" rx="16" fill="url(#cold)" stroke="#87b5c8" stroke-width="3"/>
+<g clip-path="url(#waterClip)"><path id="warmLayer" fill="url(#warm)" d="M170 510H1630V567C1240 596 800 695 170 745Z"/>
+ <path id="thermoOld" d="M170 745C800 695 1240 596 1630 567" fill="none" stroke="#fffbed" stroke-width="3" stroke-dasharray="12 12" opacity="0"/>
+ <path id="thermo" d="M170 745C800 695 1240 596 1630 567" fill="none" stroke="#e8a57b" stroke-width="4"/>
+ <path id="warmMove" d="M510 598L1270 598" fill="none" stroke="#d7805f" stroke-width="9" marker-end="url(#warmHead)" opacity="0"/>
+ <path id="upwell" d="M1510 823C1485 742 1500 650 1510 554" fill="none" stroke="#3a7c9d" stroke-width="11" marker-end="url(#coldHead)"/>
+ <path id="surface" d="M170 516H1630" fill="none" stroke="#fffbed" stroke-width="4"/>
+</g>
+<g><rect x="330" y="543" width="310" height="66" rx="18" fill="#fff8e9"/><text x="485" y="590" font-size="43" text-anchor="middle">表层暖水</text>
+ <rect x="510" y="794" width="280" height="64" rx="18" fill="#eaf5f7"/><text x="650" y="840" font-size="43" text-anchor="middle">深层冷水</text>
+ <rect x="1170" y="742" width="320" height="65" rx="18" fill="#fffaf0"/><text id="upwellLabel" x="1330" y="788" font-size="39" text-anchor="middle">冷水上涌较强</text>
+ <rect id="thermoTag" x="855" y="646" width="235" height="64" rx="18" fill="#fffaf0"/><text id="thermoText" x="973" y="691" font-size="41" text-anchor="middle">温跃层</text>
+ <rect x="650" y="176" width="530" height="65" rx="18" fill="#fffaf0"/><text id="tradeLabel" x="915" y="222" font-size="37" text-anchor="middle">东风信风：东 → 西</text></g>
+<rect x="0" y="913" width="1800" height="99" fill="#244559"/>
+<text id="caption" x="900" y="977" font-size="42" text-anchor="middle" style="fill:#fffaf0">正常状态：西侧暖水较厚，东侧冷水上涌，沃克环流较强。</text>
+</svg>
+<nav><button id="play">播放变化</button><button id="normal">正常状态</button><button id="el">厄尔尼诺状态</button><input id="timeline" aria-label="动画时间" type="range" min="0" max="150" value="0"><span id="status">0.0 / 15 秒</span></nav>
+</main><script>
+const $=id=>document.getElementById(id);let t=0,playing=false,last=0;
+const clamp=x=>Math.max(0,Math.min(1,x));const smooth=x=>{x=clamp(x);return x*x*(3-2*x)};const lerp=(a,b,q)=>a+(b-a)*q;
+function set(id,k,v){$(id).setAttribute(k,v)}
+function draw(seconds){t=Math.max(0,Math.min(15,seconds));
+ const wind=smooth((t-2)/2),water=smooth((t-4)/3),air=smooth((t-7)/3),x=lerp(430,1020,air);
+ const y0=lerp(745,658,water),y1=lerp(567,704,water),c1=lerp(695,669,water),c2=lerp(596,698,water);
+ const path=`M170 ${y0}C800 ${c1} 1240 ${c2} 1630 ${y1}`;
+ set('thermo','d',path);set('warmLayer','d',`M170 510H1630V${y1}C1240 ${c2} 800 ${c1} 170 ${y0}Z`);
+ set('thermoOld','opacity',water*.45);set('warmMove','opacity',water*.9);set('warmMove','d',`M${lerp(510,720,water)} 624L${lerp(1000,1430,water)} 624`);
+ set('upwell','stroke-width',lerp(11,5,water));set('upwell','opacity',lerp(1,.38,water));set('upwell','d',`M1510 823C1485 774 1500 ${lerp(650,760,water)} 1510 ${lerp(554,722,water)}`);
+ set('trade','d',`M1390 468L${lerp(485,1050,wind)} 468`);set('trade','stroke-width',lerp(12,6,wind));set('tradeDots','d',`M1370 468L${lerp(510,1080,wind)} 468`);$('tradeDots').style.animationDuration=`${lerp(1.5,4,wind)}s`;
+ set('rise','d',`M${x} 467L${x} 380`);set('rise','stroke-width',lerp(13,8,air));set('sink','stroke-width',lerp(13,6,air));set('sink','opacity',lerp(1,.45,air));set('westSink','opacity',air*.8);
+ set('highFlow','d',`M${x+50} 280L1390 280`);set('highFlow','stroke-width',lerp(10,6,air));set('cloud','transform',`translate(${x} 315)`);set('rain','transform',`translate(0 ${(t*14)%16})`);
+ set('thermoTag','y',lerp(646,667,water));set('thermoText','y',lerp(691,712,water));
+ $('stateLabel').textContent=t<2?'正常状态':'厄尔尼诺状态';$('upwellLabel').textContent=water>.5?'冷水上涌减弱':'冷水上涌较强';$('tradeLabel').textContent=wind>.5?'东风信风减弱':'东风信风：东 → 西';
+ $('caption').textContent=t<2?'正常状态：西侧暖水较厚，东侧冷水上涌，沃克环流较强。':t<4?'东风信风减弱，推动暖水向西的力量变小。':t<7?'暖水向东扩展，东部温跃层加深，冷水上升流受到抑制。':t<10?'中东部增暖，对流和降雨区域东移，沃克环流减弱。':'海温差缩小又削弱信风：海洋与大气形成正反馈。';
+ $('timeline').value=t*10;$('status').textContent=`${t.toFixed(1)} / 15 秒`;
+}
+function stop(){playing=false;$('play').textContent='播放变化'}
+$('play').onclick=()=>{if(playing){stop();return}if(t>=15)t=0;playing=true;last=performance.now();$('play').textContent='暂停';requestAnimationFrame(step)};
+function step(now){if(!playing)return;draw(t+(now-last)/1000);last=now;if(t>=15){stop();return}requestAnimationFrame(step)}
+$('normal').onclick=()=>{stop();draw(0)};$('el').onclick=()=>{stop();draw(15)};$('timeline').oninput=e=>{stop();draw(Number(e.target.value)/10)};window.setTime=draw;draw(0);
+</script></html>

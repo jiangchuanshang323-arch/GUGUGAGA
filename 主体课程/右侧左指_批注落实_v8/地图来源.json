@@ -1,0 +1,10 @@
+{
+  "institution": "NOAA Physical Sciences Laboratory",
+  "page": "https://psl.noaa.gov/data/timeseries/month/Nino34_CPC/",
+  "image": "https://psl.noaa.gov/enso/img/oceanic-indices-map.gif",
+  "original_dimensions": [
+    685,
+    244
+  ],
+  "transform": "GIF converted losslessly to PNG; original retained; resizing and zooming only"
+}

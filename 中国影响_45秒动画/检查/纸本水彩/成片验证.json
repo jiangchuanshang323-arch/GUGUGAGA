@@ -1,0 +1,94 @@
+{
+  "frames": 1080,
+  "seconds": 45,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "audio_peak": 20830,
+  "clipped_samples": 0,
+  "bubble_baseline": "ls",
+  "text_bounds": "PASS",
+  "decode": "PASS (build_video.py full decode)",
+  "sha256": "596d7c26c1880ca7c5b02459549f5229184c3a70c2fbee1a7db3153b7a054b13",
+  "character_poses": [
+    "cold",
+    "fan",
+    "rain"
+  ],
+  "photo_frames": 101,
+  "photo_size": [
+    880,
+    572
+  ],
+  "compatibility_copy": "identical, baseline H264, AAC 48k stereo",
+  "character_role": "in-map weather vignette",
+  "dialogue_mode": "bottom subtitles, no presenter or bubbles",
+  "map_scale": 2,
+  "northwest_track": "PASS",
+  "inset": "bottom right",
+  "unchanged_formal_segments": [
+    "00_开场",
+    "01_三地情境",
+    "02_测体征",
+    "03_查病因",
+    "04_对照与预测",
+    "05_环境多米诺_水",
+    "06_水收束与气",
+    "07_生与土",
+    "08_地形与配对",
+    "09_辨析与滞后",
+    "10_石河子乡土",
+    "11_适应与减缓",
+    "12_总结与检测"
+  ],
+  "unchanged_complete_merge": "7d01d5612bb28659e8cfeab01217c0860ba58c77553bc246434e1995dca8fed7",
+  "art_direction": "ivory paper, scanned blue watercolor, ochre land, brush title and handwritten notes",
+  "narration_and_timeline": "unchanged byte for byte",
+  "geography_and_river_sources": "unchanged byte for byte",
+  "weather_actor_assets": "unchanged byte for byte",
+  "geographic_shore_clip": {
+    "render_end": [
+      121.36810032765291,
+      31.54773502389404
+    ],
+    "removed_next_point": [
+      121.400409,
+      31.5148746
+    ],
+    "reason": "first intersection with displayed mainland coastline"
+  },
+  "visual_review": "PASS: actual encoded 16-node montage plus full-size 7.8, 17.5, 23.0, 37.8 second frames reviewed; not a manual review of every frame",
+  "imagegen_asset": "texture only, no map or characters",
+  "whole_course_remerged": false,
+  "previous_version_per_frame_teaching_text": "identical sets on all 1080 frames",
+  "previous_version_per_frame_object_motion": "identical tracked objects on all 1080 frames",
+  "subtitle_presence": "identical on all 1080 frames",
+  "encoded_actor_frame_differences": [
+    {
+      "action": "umbrella/rain",
+      "times": [
+        7.65,
+        7.9
+      ],
+      "mean_pixel_difference": 5.30353488372093,
+      "changed_pixels_gt12": 9113
+    },
+    {
+      "action": "fan",
+      "times": [
+        33.15,
+        33.35
+      ],
+      "mean_pixel_difference": 2.391989522417154,
+      "changed_pixels_gt12": 2769
+    },
+    {
+      "action": "shiver",
+      "times": [
+        37.45,
+        37.58
+      ],
+      "mean_pixel_difference": 7.7893988848089215,
+      "changed_pixels_gt12": 16527
+    }
+  ]
+}

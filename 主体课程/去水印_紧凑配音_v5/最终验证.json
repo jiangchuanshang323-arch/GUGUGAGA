@@ -1,0 +1,10 @@
+{
+  "output": "G:\\Arthur\\数字微课\\主体课程\\去水印_紧凑配音_v5\\交付\\海洋发烧了_去小云雀水印_紧凑配音_v5.1.mp4",
+  "decode": "PASS",
+  "voice": "晓伊，复用原配音，仅剪辑停顿",
+  "question_added_pause_seconds": 0.22,
+  "normal_added_pause_seconds": 0.14,
+  "original_text_preserved": true,
+  "watermark": "小云雀字形局部修补；保留AI生成标识",
+  "bytes": 11827847
+}

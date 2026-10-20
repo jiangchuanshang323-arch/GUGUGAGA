@@ -1,0 +1,19 @@
+{
+  "publisher": "NASA Earth Observatory",
+  "page": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-map/",
+  "image": "https://eoimages.gsfc.nasa.gov/images/imagerecords/74000/74218/world.200412.3x5400x2700.jpg",
+  "original_size": [
+    5400,
+    2700
+  ],
+  "sha256": "3d38a8ecaceb1cdb51ced7f831e9ac18d261950049616feff6892efcae0dcc26",
+  "longitude_extent": [
+    90,
+    300
+  ],
+  "latitude_extent": [
+    45,
+    -42.5
+  ],
+  "AI_redraw": false
+}

@@ -1,0 +1,10 @@
+{
+  "output": "G:\\Arthur\\数字微课\\主体课程\\去水印_紧凑配音_v5\\交付\\海洋发烧了_去小云雀水印_紧凑配音_v5.mp4",
+  "expected_duration": 46.978333000000006,
+  "full_decode": "PASS",
+  "original_text_preserved": true,
+  "question_added_pause": 0.22,
+  "audio_resynthesized": false,
+  "watermark_method": "localized FFmpeg delogo; original retained; AI label retained",
+  "bytes": 11913810
+}

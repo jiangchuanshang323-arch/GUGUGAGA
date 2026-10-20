@@ -1,0 +1,17 @@
+{
+  "output": "G:\\Arthur\\数字微课\\demooo\\预览\\单张多米诺牌\\单张多米诺牌_水.mp4",
+  "seconds": 5.72,
+  "sha256": "21c5952f215daad471a7a6f1febf266151579ec4d9f8275fa8b3b7dbaa998f47",
+  "bytes": 1289958,
+  "fade_start": 3.240425,
+  "fade_end": 3.990425,
+  "single_card_count": 1,
+  "character_present": true,
+  "bubble_baseline": "shared ls anchor",
+  "narration": "先翻开第一张，水。环流改变，让降水重新分配。",
+  "new_voice": false,
+  "title_static": true,
+  "formal_segments_unchanged": true,
+  "decode": "PASS",
+  "visual_review": "PASS：6节点实际编码画面复核，气泡共用基线；角色状态与前镜一致"
+}

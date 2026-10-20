@@ -1,0 +1,16 @@
+{
+  "decode": "PASS",
+  "seconds": 7.211416666666665,
+  "release_second": 1.1,
+  "grip_and_scroll_shared_joint": true,
+  "jump_height_px": 88,
+  "landing_second": 1.57,
+  "head_raise_start": 0.86,
+  "head_raise_end": 0.94,
+  "head_recover": [
+    1.57,
+    1.65
+  ],
+  "arm_returns_down": true,
+  "full_segment_rendered": false
+}

@@ -1,0 +1,524 @@
+<!doctype html>
+<html
+  style=""
+  class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>新疆维吾尔自治区--标准地图</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="新疆标准地图" />
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="bzdt/css/animate.css" />
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="bzdt/css/iconstyle.css" />
+    <!-- Themify Icons-->
+    <link rel="stylesheet" href="bzdt/css/themify-icons.css" />
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="bzdt/css/bootstrap.css" />
+    <!-- Magnific Popup -->
+    <!-- <link rel="stylesheet" href="css/magnific-popup.css"> -->
+    <!-- Owl Carousel  -->
+    <link rel="stylesheet" href="bzdt/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="bzdt/css/owl.theme.default.min.css" />
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="bzdt/css/style.css" />
+    <link rel="stylesheet" href="bzdt/css/viewer.min.css" />
+    <link rel="stylesheet" href="bzdt/css/jquery.magnify.css" />
+
+    <script src="bzdt/js/jquery-1.9.1.min.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script> -->
+    <!-- <script src="../js/common/jquery-1.9.1.min.js"></script> -->
+    <!-- Modernizr JS -->
+    <script src="bzdt/js/modernizr-2.6.2.min.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    <style>
+      .thumbnail img {
+        cursor: zoom-in;
+      }
+
+      h2.title {
+        font-weight: bold;
+      }
+
+      .header {
+        margin: 0 auto 15px auto;
+        width: 70%;
+      }
+
+      .topInfo UL LI {
+        float: left;
+        width: auto;
+        padding-right: 10px;
+        padding-left: 10px;
+        list-style-type: none;
+        font-family: "宋体";
+        font-size: 12px;
+      }
+
+      .topInfo a {
+        color: #346ca5;
+        text-decoration: none;
+      }
+
+      .menuInfo UL LI {
+        float: left;
+        width: 83px;
+        text-align: center;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-image: url("images/hljImage/fenge.jpg");
+        background-origin: padding-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        background-size: auto;
+        list-style-type: none;
+        font-family: "宋体";
+        font-size: 12px;
+      }
+
+      .menuInfo a {
+        color: white;
+        font-size: 15px;
+        text-decoration: none;
+      }
+
+      .menuInfo UL LI {
+        float: left;
+        width: 83px;
+        text-align: center;
+        background-attachment: scroll;
+        background-clip: border-box;
+        background-image: url(images/hljImage/fenge.jpg);
+        background-origin: padding-box;
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        background-size: auto;
+        list-style-type: none;
+        font-family: "宋体";
+        font-size: 12px;
+      }
+
+      .map-title {
+        text-align: left;
+        font-size: 18px;
+        padding: 5px;
+        border-bottom: 1px solid #dedede;
+        height: 40px;
+        line-height: 34px;
+        width: 100%;
+        margin-bottom: 10px;
+      }
+
+      .thumbnail {
+        text-align: center;
+      }
+
+      #region_name {
+        height: auto;
+        width: 100%;
+        padding: 10px;
+        text-align: center;
+      }
+
+      .btn {
+        padding: 8px 10px !important;
+      }
+
+      .btn-sm,
+      .btn-group-sm > .btn {
+        line-height: 1 !important;
+      }
+
+      .btn-row {
+        padding: 12px 120px;
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .bigbtn-active {
+        background-color: #7dcfc9 !important;
+        color: white !important;
+      }
+
+      .bigbtn {
+        width: 130px;
+        color: #ffffff;
+        fill: currentColor;
+        display: flex;
+        background: #3399cc;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 20px;
+        border-radius: 8px;
+        text-decoration: none;
+        text-align: center;
+        white-space: nowrap;
+      }
+    </style>
+    <script src="./bzdt/js/jquery.magnify.js"></script>
+    <script>
+      var service = "https://xinjiang.tianditu.gov.cn/xinjiangsj/standardmap/selectbytype";
+      // var service = "http://127.0.0.1:8848/bzdt_code/bzdt/js/getall.json";
+      var resourcepath = "https://xinjiang.tianditu.gov.cn/resource/";
+
+      var changeType = function (type) {
+        $(".bigbtn").removeClass("bigbtn-active");
+        $("#" + type).addClass("bigbtn-active");
+
+        $.ajax({
+          type: "post",
+          url: service + "?type=" + type,
+          dataType: "json",
+          success: function (data) {
+            $("#region_name").empty();
+            $("#mapListDiv").empty();
+            const sortList = ["新疆维吾尔自治区", "乌鲁木齐市","伊犁哈萨克自治州","塔城地区","阿勒泰地区","克拉玛依市","博尔塔拉蒙古自治州","昌吉回族自治州","哈密市","吐鲁番市","巴音郭楞蒙古自治州","阿克苏地区","克孜勒苏柯尔克孜自治州","喀什地区","和田地区"];
+            const sortSubList = ["新疆维吾尔自治区政区","和田地区政区（普染版）", "和田地区政区","和田市","和田县","喀什地区政区（普染版）","喀什地区政区","喀什市","克孜勒苏柯尔克孜自治州政区（普染版）","克孜勒苏柯尔克孜自治州政区","阿图什市","阿克苏地区政区（普染版）","阿克苏地区政区","阿克苏市","巴音郭楞蒙古自治州政区（普染版）","巴音郭楞蒙古自治州政区","库尔勒市","吐鲁番市政区普染版","吐鲁番市政区","哈密市政区（普染版）","哈密市政区","伊州区","昌吉回族自治州政区（普染版）","昌吉回族自治州政区","昌吉市","克拉玛依市政区（普染版）","克拉玛依市政区","克拉玛依区","阿勒泰地区政区（普染版）","阿勒泰地区政区","阿勒泰市","伊犁哈萨克自治州直属县市政区（普染版）","伊犁哈萨克自治州直属县市政区"];
+            var districtOrder = [];
+            data.data.forEach(function (p) {
+              if (districtOrder.indexOf(p.district) === -1) {
+                districtOrder.push(p.district);
+              }
+            });
+            var sortedDistricts = sortList
+              .filter(function (name) {
+                return districtOrder.indexOf(name) !== -1;
+              })
+              .concat(
+                districtOrder.filter(function (name) {
+                  return sortList.indexOf(name) === -1;
+                }),
+              );
+            for (var d = 0; d < sortedDistricts.length; d++) {
+              var key = sortedDistricts[d];
+              var nameHtml = '<button type="button" class="btn btn-primary btn-sm" onclick="locateItem(this);">' + key + "</button>";
+              $("#region_name").append(nameHtml);
+
+              var items = data.data.filter(function (p) {
+                return p.district === key;
+              });
+              items = sortSubList
+                .filter(function (name) {
+                  return items.some(function (p) {
+                    return p.name === name;
+                  });
+                })
+                .map(function (name) {
+                  return items.filter(function (p) {
+                    return p.name === name;
+                  })[0];
+                })
+                .concat(
+                  items.filter(function (p) {
+                    return sortSubList.indexOf(p.name) === -1;
+                  }),
+                );
+              var ulHtmlStr = '<ul id="gtco-portfolio-list" name="' + key + '">' + '<h2 class="map-title">' + key + "</h2> ";
+              for (var i = 0; i < items.length; i++) {
+                console.log(resourcepath + items[i].originPic.replace(".jpg", ".eps"));
+                var liStr =
+                  '<li class="one-four animate-box fadeIn animated-fast" data-animate-effect="fadeIn">' +
+                  '<div class="thumbnail">' +
+                  '<img src="' +
+                  resourcepath +
+                  items[i].thumbnail +
+                  '"' +
+                  'data-original="' +
+                  resourcepath +
+                  items[i].originPic +
+                  '"' +
+                  'data-src="' +
+                  resourcepath +
+                  items[i].originPic +
+                  '"' +
+                  'alt="' +
+                  items[i].name +
+                  '"' +
+                  '<div class="caption">' +
+                  "<h4>" +
+                  items[i].name +
+                  "</h4>" +
+                  //'<p>' + items[i].desc + '</p>' +
+                  '<div style="margin-top: 14px;margin-bottom: 10px;">' +
+                  '<a style="display: inline;width:50%" href="' +
+                  resourcepath +
+                  items[i].originPic +
+                  '"' +
+                  'download="' +
+                  items[i].name +
+                  '" class="btn btn-primary" role="button">jpg下载</a>' +
+                  '<a style="display: inline;width:50%" href="' +
+                  resourcepath +
+                  items[i].originPic.replace(".jpg", ".eps") +
+                  '"' +
+                  'download="' +
+                  items[i].name +
+                  '" class="btn btn-primary" role="button">eps下载</a>' +
+                  "</div>" +
+                  "</div></div></li>";
+                ulHtmlStr += liStr;
+              }
+              ulHtmlStr += "</ul>";
+              $("#mapListDiv").append(ulHtmlStr);
+            }
+            var height = $(window).height();
+            var width = $(window).width();
+            var maginfyOption = {
+              Toolbar: ["rotateLeft", "rotateRight", "zoomIn", "actualSize", "zoomOut"],
+              keyboard: true,
+              draggable: false,
+              movable: true,
+              modalSize: [width, height],
+            };
+            $("#mapListDiv img").Magnify(maginfyOption);
+            debugger;
+            // if (data.success) {
+            // 	$("#searchResult").html(data.msg);
+            // } else {
+            // 	$("#searchResult").html("出现错误：" + data.msg);
+            // }
+          },
+          error: function (jqXHR) {
+            alert("发生错误：" + jqXHR.status);
+          },
+        });
+
+        // $.getJSON(service + "?type=" + type, function(data) {
+        // 	$("#region_name").empty();
+        // 	$("#mapListDiv").empty();
+        // 	var district = {}
+        // 	data.map(function(p) {
+        // 		!district[p.district] && (district[p.district] = 1)
+        // 	});
+        // 	for (var key in district) {
+        // 		var nameHtml =
+        // 			'<button type="button" class="btn btn-primary btn-sm" onclick="locateItem(this);">' +
+        // 			key +
+        // 			'</button>';
+        // 		$("#region_name").append(nameHtml);
+
+        // 		var items = data.filter(function(p) {
+        // 			return p.district === key;
+        // 		})
+        // 		var ulHtmlStr = '<ul id="gtco-portfolio-list" name="' + key + '">' +
+        // 			'<h2 class="map-title">' + key + '</h2> '
+        // 		for (var i = 0; i < items.length; i++) {
+        // 			console.log(resourcepath + items[i].originPic.replace(".jpg", ".eps"))
+        // 			var liStr =
+        // 				'<li class="one-four animate-box fadeIn animated-fast" data-animate-effect="fadeIn">' +
+        // 				'<div class="thumbnail">' +
+        // 				'<img src="' + resourcepath + items[i].thumbnail + '"' +
+        // 				'data-original="' + resourcepath + items[i].originPic + '"' +
+        // 				'data-src="' + resourcepath + items[i].originPic + '"' +
+        // 				'alt="' + items[i].name + '"' +
+        // 				'<div class="caption">' +
+        // 				'<h4>' + items[i].name + '</h4>' +
+        // 				//'<p>' + items[i].desc + '</p>' +
+        // 				'<div style="margin-top: 14px;margin-bottom: 10px;">' +
+        // 				'<a style="display: inline;width:50%" href="' + resourcepath + items[i].originPic +
+        // 				'"' +
+        // 				'download="' + items[i].name + '" class="btn btn-primary" role="button">jpg下载</a>' +
+        // 				'<a style="display: inline;width:50%" href="' + resourcepath + items[i].originPic
+        // 				.replace(".jpg", ".eps") + '"' +
+        // 				'download="' + items[i].name + '" class="btn btn-primary" role="button">eps下载</a>' +
+        // 				'</div>' +
+        // 				'</div></div></li>';
+        // 			ulHtmlStr += liStr;
+        // 		}
+        // 		ulHtmlStr += '</ul>';
+        // 		$('#mapListDiv').append(ulHtmlStr);
+
+        // 	}
+        // 	var height = $(window).height()
+        // 	var width = $(window).width()
+        // 	var maginfyOption = {
+        // 		Toolbar: [
+        // 			'rotateLeft',
+        // 			'rotateRight',
+        // 			'zoomIn',
+        // 			'actualSize',
+        // 			'zoomOut'
+        // 		],
+        // 		keyboard: true,
+        // 		draggable: false,
+        // 		movable: true,
+        // 		modalSize: [width, height]
+        // 	}
+        // 	$('#mapListDiv img').Magnify(maginfyOption)
+        // });
+      };
+      changeType(2026);
+    </script>
+    <script>
+      var _hmt = _hmt || [];
+      (function () {
+        var hm = document.createElement("script");
+        // hm.src = "https://hm.baidu.com/hm.js?d518466c67f1f1330d018dff4b30ad9f";
+        hm.src = "bzdt/js/hm.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+  </head>
+
+  <body onload="">
+    <div class="header">
+      <!-- <a href="../"><img src="/static/lib/images/xj.png" /></a> -->
+    </div>
+    <div class="logo_con">
+      <div class="container portal_logo">
+        <img src="/static/lib/images/xj.png" />
+      </div>
+    </div>
+    <div class="gtco-section" style="padding: 20px">
+      <div class="gtco-container">
+        <div class="row" style="text-align: center">
+          <h2 class="title">新疆维吾尔自治区标准地图</h2>
+          <div class="btn-row">
+            <a style="text-decoration: none" href="#" onclick="changeType(2026)" class="bigbtn bigbtn-active" id="2026">2026</a>
+			<a style="text-decoration: none" href="#" onclick="changeType(2023)" class="bigbtn" id="2023">2023</a>
+            <a style="text-decoration: none" href="#" onclick="changeType(2021)" class="bigbtn" id="2021">2021</a>
+            <a style="text-decoration: none" href="#" onclick="changeType(2020)" class="bigbtn" id="2020">2020</a>
+            <a style="text-decoration: none" href="#" onclick="changeType(2019)" class="bigbtn" id="2019">2019</a>
+          </div>
+          <div id="region_name"></div>
+          <div class="col-md-12" id="mapListDiv"></div>
+        </div>
+        <div class="footer">
+          <div class="footerBox row">
+            <div class="row col-md-8 col-md-push-2">
+              <div class="footer_right col-md-10 col-sm-12 col-xs-12 col-md-push-2">
+                <div class="relation">
+                  <a href="https://xinjiang.tianditu.gov.cn/about/contact.html?type=1" target="_blank">关于我们</a>
+                  <span>|</span>
+                  <a href="https://xinjiang.tianditu.gov.cn/about/contact.html?type=2" target="_blank">服务条款</a>
+                  <span>|</span>
+                  <a href="https://xinjiang.tianditu.gov.cn/about/contact.html?type=3" target="_blank">版权声明</a>
+                  <span class="hidden-xs">|</span>
+                  <br class="visible-xs" />
+                  <a href="https://xinjiang.tianditu.gov.cn/about/contact.html?type=4" target="_blank">联系我们</a>
+                  <span>|</span>
+                  <a href="https://xinjiang.tianditu.gov.cn/about/contact.html?type=5" target="_blank">更新日志</a>
+                  <span>|</span>
+                  <a href="https://xinjiang.tianditu.gov.cn/feedback/" target="_blank">意见反馈</a>
+                </div>
+                <div class="copyright">
+                  <span>主办单位 : 新疆维吾尔自治区自然资源厅</span>
+                  <span>承办单位 : 新疆维吾尔自治区测绘成果中心</span><br />
+                  <span>乙测资字6510801</span><span><a href="http://www.miitbeian.gov.cn/" target="_blank">新ICP备14003566号-1</a></span>
+                </div>
+              </div>
+              <div class="footer_left col-md-2 col-sm-12 col-xs-12 col-md-pull-10"><img src="/static/lib/images/footer/sydw.png" /></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="gtco-section">
+      <div class="gtco-container">
+        <div class="row row-pb-md"></div>
+      </div>
+    </div>
+    <footer class="footer"></footer>
+
+    <div class="gototop js-top">
+      <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+    </div>
+
+    <!-- jQuery -->
+    <!-- jQuery Easing -->
+    <script src="bzdt/js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="bzdt/js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="bzdt/js/jquery.waypoints.min.js"></script>
+    <!-- Carousel -->
+    <script src="bzdt/js/owl.carousel.min.js"></script>
+    <!-- countTo -->
+    <script src="bzdt/js/jquery.countTo.js"></script>
+    <!-- Magnific Popup -->
+    <script src="bzdt/js/jquery.magnific-popup.min.js"></script>
+    <script src="bzdt/js/magnific-popup-options.js"></script>
+    <!-- Main -->
+    <script src="bzdt/js/main.js"></script>
+    <script src="bzdt/js/viewer-jquery.min.js"></script>
+    <script>
+      // function goPage(pno, psize) {
+      //     var itable = document.getElementById("idData");
+      //     var num = itable.rows.length;//表格所有行数(所有记录数)
+      //     console.log(num);
+      //     var totalPage = 0;//总页数
+      //     var pageSize = psize;//每页显示行数
+      //     //总共分几页
+      //     if (num / pageSize > parseInt(num / pageSize)) {
+      //         totalPage = parseInt(num / pageSize) + 1;
+      //     } else {
+      //         totalPage = parseInt(num / pageSize);
+      //     }
+      //     var currentPage = pno;//当前页数
+      //     var startRow = (currentPage - 1) * pageSize + 1;//开始显示的行 31
+      //     var endRow = currentPage * pageSize;//结束显示的行  40
+      //     endRow = (endRow > num) ? num : endRow;  //40
+      //     console.log(endRow);
+      //     //遍历显示数据实现分页
+      //     for (var i = 1; i < (num + 1); i++) {
+      //         var irow = itable.rows[i - 1];
+      //         if (i >= startRow && i <= endRow) {
+      //             irow.style.display = "block";
+      //         } else {
+      //             irow.style.display = "none";
+      //         }
+      //     }
+      //     var tempStr = "共" + num + "条记录 分" + totalPage + "页 当前第" + currentPage + "页";
+      //     if (currentPage > 1) {
+      //         tempStr += "<a href=\"#\" onClick=\"goPage(" + (1) + "," + psize + ")\">首页</a>";
+      //         tempStr += "<a href=\"#\" onClick=\"goPage(" + (currentPage - 1) + "," + psize + ")\"><上一页</a>"
+      //     } else {
+      //         tempStr += "首页";
+      //         tempStr += "<上一页";
+      //     }
+      //     if (currentPage < totalPage) {
+      //         tempStr += "<a href=\"#\" onClick=\"goPage(" + (currentPage + 1) + "," + psize + ")\">下一页></a>";
+      //         tempStr += "<a href=\"#\" onClick=\"goPage(" + (totalPage) + "," + psize + ")\">尾页</a>";
+      //     } else {
+      //         tempStr += "下一页>";
+      //         tempStr += "尾页";
+      //     }
+      //     document.getElementById("barcon").innerHTML = tempStr;
+      // }
+
+      function locateItem(obj) {
+        var mName = $(obj).text();
+        if (!mName) return;
+        var domOffset = $("ul[name='" + mName + "']").offset().top;
+        if (domOffset > 0) {
+          $("html,body").animate(
+            {
+              scrollTop: domOffset,
+            },
+            1000,
+          );
+        }
+      }
+
+      $(function () {
+        $("#searchContextDiv").viewer({
+          url: "data-original",
+        });
+      });
+    </script>
+
+    <img src="https://xinjiang.tianditu.gov.cn/XJway/track?url=https://xinjiang.tianditu.gov.cn/bzdt_code/bzdt.html" width="0" height="0" />
+  </body>
+</html>

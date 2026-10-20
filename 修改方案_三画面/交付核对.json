@@ -1,0 +1,47 @@
+{
+  "frames": [
+    {
+      "name": "01_四步会诊路线.png",
+      "sha256": "ddffcc202116d6404328fc73ef6b5c36037211ea780495bbcf53a8feb889bdf9",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "02_厄尔尼诺与人为增暖.png",
+      "sha256": "7719b55299e48524acbee8b13f09cb89fd3d2de463a4161cb8a5e554a73e69b5",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "03_适应处方单.png",
+      "sha256": "a8f0a45e1bd20aca421fd7d030167232968478d9229ede5b3899ab54d077cc9c",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "四步会诊路线_独立主图.png",
+      "sha256": "ddffcc202116d6404328fc73ef6b5c36037211ea780495bbcf53a8feb889bdf9",
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "适应处方笺_独立主图.png",
+      "sha256": "bced67533593d66c4bfef6f5f61b1c774a73d71b5fc0b6ca159d85110c916a3d",
+      "size": [
+        1920,
+        1080
+      ]
+    }
+  ],
+  "visual_review": "PASS: complete route and prescription frames inspected; prescription heading spacing repaired",
+  "video_changed": false,
+  "independent_plates": true
+}

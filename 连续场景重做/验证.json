@@ -1,0 +1,16 @@
+{
+  "output": "G:\\Arthur\\数字微课\\视频交付\\预览\\太平洋云雨\\demooooo.mp4",
+  "seconds": 23.01066666666668,
+  "frames_checked": 553,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "decode": "PASS",
+  "visual_review": "PASS：6个内容节点及实际编码7、12、21秒帧抽查；标题、字幕、地图过渡、沿岸降雨与河道响应完整。",
+  "audio": "原v36结句及v37前四句，不新生成配音",
+  "full_segments_unchanged": true,
+  "sha256": "ac5a077fac0ef53f95a31020dcff16d46b1dcdadac74a6d420b5ef316f8c4c14",
+  "review_scope": "553帧文字边界自动检查、完整解码与关键帧视觉抽查，非逐帧人工观看。"
+}

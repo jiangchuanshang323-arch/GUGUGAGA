@@ -1,0 +1,11 @@
+{
+  "fan": {
+    "encoded_crop_mean_difference": 7.96813492063492
+  },
+  "cold": {
+    "encoded_crop_mean_difference": 24.26471487360376
+  },
+  "rain": {
+    "encoded_crop_mean_difference": 1.8569623655913978
+  }
+}

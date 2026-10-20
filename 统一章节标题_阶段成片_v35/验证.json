@@ -1,0 +1,147 @@
+{
+  "output": "G:\\Arthur\\数字微课\\统一章节标题_阶段成片_v35\\交付\\海洋发烧了_统一章节标题_v35.mp4",
+  "source": "G:\\Arthur\\数字微课\\阶段合成_v32\\交付\\海洋发烧了_目前阶段新版_v32.mp4",
+  "frames": 4515,
+  "decode": "PASS",
+  "audio_compressed_sha256": "68d95077008d00c7c54fb02ff61d2cf6177f4a5e2cdf9e5d20f6a8f50bf18351",
+  "audio_bit_identical": true,
+  "source_duration": 188.23,
+  "media_info": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'G:\\Arthur\\数字微课\\统一章节标题_阶段成片_v35\\交付\\海洋发烧了_统一章节标题_v35.mp4':\r\n  Metadata:\r\n    major_brand     : isom\r\n    minor_version   : 512\r\n    compatible_brands: isomiso2avc1mp41\r\n    encoder         : Lavf61.7.100\r\n  Duration: 00:03:08.23, start: 0.000000, bitrate: 1036 kb/s\r\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 881 kb/s, 24 fps, 24 tbr, 12288 tbn (default)\r\n      Metadata:\r\n        handler_name    : VideoHandler\r\n        vendor_id       : [0][0][0][0]\r\n        encoder         : Lavc61.19.100 libx264\r\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 150 kb/s (default)\r\n      Metadata:\r\n        handler_name    : SoundHandler\r\n        vendor_id       : [0][0][0][0]\r\nAt least one output file must be specified\r\n",
+  "titles": {
+    "三地": {
+      "title": "海洋“发烧”了",
+      "subtitle": "厄尔尼诺 · 从三地情境开始",
+      "width": 440,
+      "height": 131,
+      "text_rects": [
+        {
+          "text": "海洋“发烧”了",
+          "rect": [
+            43,
+            19,
+            341.0,
+            82.0
+          ],
+          "size": 63
+        },
+        {
+          "text": "厄尔尼诺 · 从三地情境开始",
+          "rect": [
+            29,
+            91,
+            324.5,
+            122.5
+          ],
+          "size": 31
+        }
+      ]
+    },
+    "线索": {
+      "title": "线索藏在赤道中东太平洋",
+      "subtitle": null,
+      "width": 594,
+      "height": 87,
+      "text_rects": [
+        {
+          "text": "线索藏在赤道中东太平洋",
+          "rect": [
+            43,
+            19,
+            527.0,
+            74.0
+          ],
+          "size": 55
+        }
+      ]
+    },
+    "定位": {
+      "title": "定位Niño3.4区",
+      "subtitle": null,
+      "width": 394,
+      "height": 87,
+      "text_rects": [
+        {
+          "text": "定位Niño3.4区",
+          "rect": [
+            43,
+            19,
+            327.5,
+            73.5
+          ],
+          "size": 55
+        }
+      ]
+    },
+    "体温": {
+      "title": "测体征 · 给海洋读“体温”",
+      "subtitle": null,
+      "width": 560,
+      "height": 85,
+      "text_rects": [
+        {
+          "text": "测体征 · 给海洋读“体温”",
+          "rect": [
+            43,
+            19,
+            503.0,
+            72.0
+          ],
+          "size": 53
+        }
+      ]
+    },
+    "热量": {
+      "title": "测体征 · 小温差，大热量",
+      "subtitle": null,
+      "width": 564,
+      "height": 85,
+      "text_rects": [
+        {
+          "text": "测体征 · 小温差，大热量",
+          "rect": [
+            43,
+            19,
+            502.5,
+            79.0
+          ],
+          "size": 53
+        }
+      ]
+    },
+    "原理": {
+      "title": "厄尔尼诺现象",
+      "subtitle": "太平洋东西向剖面",
+      "width": 440,
+      "height": 133,
+      "text_rects": [
+        {
+          "text": "厄尔尼诺现象",
+          "rect": [
+            43,
+            19,
+            337.0,
+            80.5
+          ],
+          "size": 61
+        },
+        {
+          "text": "太平洋东西向剖面",
+          "rect": [
+            29,
+            91,
+            241.0,
+            124.0
+          ],
+          "size": 33
+        }
+      ]
+    }
+  },
+  "all_frames_layout_checked": true,
+  "scroll_frames": 68,
+  "old_theme_preserved": true,
+  "new_voice_synthesis": false,
+  "sha256": "04b00879a3161cb80f8e085895308a0db1a8f10adf956b9ad6b8556c0d32fc7b",
+  "visual_review": "PASS：已复核12个最终MP4解码抽帧，覆盖三地情境、地图、测体征、热量与卷轴/原理图；标题完整、装饰避让文字、单行封签不遮横梁。",
+  "output_seconds": 188.23
+}

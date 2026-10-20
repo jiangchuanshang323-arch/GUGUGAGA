@@ -1,0 +1,33 @@
+{
+  "decode": "PASS",
+  "stream_copy_concat": true,
+  "new_voice_synthesis": false,
+  "duplicates_of_opening": false,
+  "segments": [
+    {
+      "file": "G:\\Arthur\\数字微课\\主体课程\\横梁起卷_双手下拉_v14\\交付\\海洋发烧了_开场与前两段_双手卷板_v14.mp4",
+      "seconds": 127.51,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 950 kb/s, 23.98 fps, 24 tbr, 1000k tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 149 kb/s (default)"
+      ]
+    },
+    {
+      "file": "G:\\Arthur\\数字微课\\合成成片_20261013_v23\\海洋发烧了_第三段_普通姿势卷轴_v23.mp4",
+      "seconds": 54.76,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 330 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 151 kb/s (default)"
+      ]
+    },
+    {
+      "file": "G:\\Arthur\\数字微课\\合成成片_20261013_v23\\海洋发烧了_开场与已完成三段_v23.mp4",
+      "seconds": 182.29,
+      "streams": [
+        "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], 764 kb/s, 23.97 fps, 24 tbr, 1000k tbn (default)",
+        "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 150 kb/s (default)"
+      ]
+    }
+  ],
+  "sha256": "3eda11e69262a453d6b1b1ff783aac24b95814bbf07798da9fbf6a8af299aeb1"
+}

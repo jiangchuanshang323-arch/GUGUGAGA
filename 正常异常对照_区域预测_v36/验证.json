@@ -1,0 +1,40 @@
+{
+  "output": "G:\\Arthur\\数字微课\\正常异常对照_区域预测_v36\\交付\\海洋发烧了_第四段_对照与区域预测_v36.mp4",
+  "seconds": 61.08804166666667,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames_checked": 1467,
+  "decode": "PASS",
+  "word_shots": [
+    12,
+    13
+  ],
+  "digital_human": false,
+  "answer_revealed": false,
+  "think_seconds": 3,
+  "map_original_size": [
+    5400,
+    2700
+  ],
+  "map_crop_size": [
+    3150,
+    1313
+  ],
+  "map_coordinates": {
+    "印尼": [
+      118,
+      -3
+    ],
+    "秘鲁": [
+      -78,
+      -9
+    ]
+  },
+  "source_word": "G:\\Arthur\\数字微课\\00_原始资料\\《海洋“发烧”了》全片章节与画面动作规划_最新批注版_20261012.docx",
+  "visual_review": "PASS：11个渲染节点与6个实际MP4解码抽帧复核；未见标签裁切、遮挡或字幕越界",
+  "sha256": "d11e76c8bb57d3ca075d794b444c643e8ba7614a67e0d7d1f70005c246bbed74",
+  "review_type": "逐帧自动版面检查，加关键帧人工视觉抽查"
+}

@@ -1,0 +1,21 @@
+{
+  "seconds": 13.38,
+  "sha256": "91a09f55271ed5c513361dccf0a9f79783b1c5a201c49e2641ad8c7b062feb28",
+  "bytes": 699509,
+  "decode": "PASS",
+  "frames": 322,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "review_nodes": [
+    1,
+    4.8,
+    7.3,
+    9.0,
+    11.5,
+    13.182375
+  ],
+  "character": false,
+  "shihezi": false,
+  "prior_merged_unchanged": true,
+  "visual_review": "6处实际编码抽帧"
+}

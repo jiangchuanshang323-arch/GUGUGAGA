@@ -1,0 +1,82 @@
+[
+  {
+    "segment": "01_三地情境",
+    "inserted_silence_seconds": 6,
+    "titles": [
+      {
+        "title": "海洋“发烧”了",
+        "source_frame": 39
+      },
+      {
+        "title": "线索藏在赤道中东太平洋",
+        "source_frame": 650
+      },
+      {
+        "title": "定位Niño3.4区",
+        "source_frame": 1100
+      }
+    ],
+    "seconds": 62.57,
+    "sha256": "bbfee0d543571b127f401e21a415c9fcaef029ef663021dad8c9dca6583f797e",
+    "bytes": 7191061
+  },
+  {
+    "segment": "02_测体征",
+    "inserted_silence_seconds": 0,
+    "titles": [],
+    "seconds": 65.13,
+    "sha256": "b59ec362060f4cb8eec3c4e01aa84907392176258d8aed7f5c677dd42f158a2d",
+    "bytes": 6129582
+  },
+  {
+    "segment": "03_查病因",
+    "inserted_silence_seconds": 4,
+    "titles": [
+      {
+        "title": "测体征 · 小温差，大热量",
+        "source_frame": 0
+      },
+      {
+        "title": "厄尔尼诺现象",
+        "source_frame": 451
+      }
+    ],
+    "seconds": 60.54,
+    "sha256": "c759b39e01250d8ddbc3015966553164cf42672c52d47b3ef8c8442a370b04c8",
+    "bytes": 5471224
+  },
+  {
+    "segment": "04_对照与预测",
+    "inserted_silence_seconds": 4,
+    "titles": [
+      {
+        "title": "查病因 · 正常与异常对照",
+        "source_frame": 0
+      },
+      {
+        "title": "互动 · 预测两地降水",
+        "source_frame": 701
+      }
+    ],
+    "seconds": 65.11,
+    "sha256": "cf6fdb5d1da98127c27c20882a16cc284eba329016f03aeac7fc22da4ec2a472",
+    "bytes": 3500183
+  },
+  {
+    "segment": "05_环境多米诺_水",
+    "inserted_silence_seconds": 4,
+    "titles": [
+      {
+        "title": "预测揭晓·两侧为何不同",
+        "source_frame": 0
+      },
+      {
+        "title": "第一张·水",
+        "source_frame": 832
+      }
+    ],
+    "seconds": 72.53,
+    "sha256": "5a08397900dbaf338543ce47a84f21ed40b8e5b3de08216a2b22e89d6fe032ad",
+    "bytes": 7048571
+  }
+]

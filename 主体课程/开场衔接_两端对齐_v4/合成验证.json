@@ -1,0 +1,18 @@
+{
+  "opening_source": "G:\\Arthur\\数字微课\\外部生成视频\\shot_01_用户开场_20261012.mp4",
+  "opening_unchanged_sha256": "bfd0abd085e38ae873b904db092b95b27574f13db0a09e48af47808b9ef6cbfd",
+  "opening_seconds": 10.083333,
+  "bridge_seconds": 5.996,
+  "body_seconds": 43.428,
+  "expected_total_seconds": 59.507333,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "bubble": "solid tail points to character; Chinese justified lines and left-aligned last line",
+  "original_body_text_preserved": true,
+  "full_decode": "PASS",
+  "output": "G:\\Arthur\\数字微课\\主体课程\\开场衔接_两端对齐_v4\\交付\\海洋发烧了_开场衔接与正文_v4.mp4",
+  "bytes": 12768299
+}

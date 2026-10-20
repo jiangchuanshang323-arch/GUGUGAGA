@@ -1,0 +1,25 @@
+{
+  "seconds": 49.71,
+  "sha256": "fff1d309376ce99faa012b866b6e4b22e3753ea9739df56f1cb0df53a5909241",
+  "bytes": 3880609,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "frames": 1194,
+  "decode": "PASS",
+  "review_nodes": [
+    3,
+    9,
+    11.692375,
+    15.379208333333334,
+    17.490833333333335,
+    22.123458333333335,
+    25.923458333333336,
+    31.128083333333336,
+    38.76420833333334,
+    44.49850000000001,
+    49.21120833333334
+  ],
+  "bubble_all_frame_bounds": "PASS",
+  "prior_segments_and_merged_video_unchanged": true,
+  "visual_review": "11处实际编码节点，非人工逐帧"
+}
