@@ -1,0 +1,18 @@
+{
+  "path": "D:\\Arthur\\数字微课\\demooo\\预览\\四步会诊路线全程\\四步会诊路线_原翅膀与帽子贴合_8秒小样.mp4",
+  "duration": 8,
+  "frames": 192,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "sha256": "f09ce5e1f065ae65336df485b90949ffe45cb27605b50720326f3f002c9430c7",
+  "decode": "PASS",
+  "native_wing_source": "D:\\Arthur\\数字微课\\企鹅小老师_教学动作素材_20261012\\独立动作PNG\\15_走位后站稳.png",
+  "cap_pivot": "same as head: native (256,270), art offset +100y",
+  "full_route_updated": false,
+  "full_course_updated": false,
+  "existing_36s_route_unchanged": true,
+  "encoded_visual_samples": 12
+}
