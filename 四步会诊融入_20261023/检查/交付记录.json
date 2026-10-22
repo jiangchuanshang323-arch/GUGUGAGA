@@ -1,0 +1,73 @@
+{
+  "version": "V20261023.02",
+  "output": "/workspace/GUGUGAGA/downloads/ocean_full_V20261023_02.mp4",
+  "output_sha256": "24f96e06c75ca6a404663274737d600c1e7db3dcb537aefca0e3c53d50a5ef5f",
+  "bytes": 279224868,
+  "seconds": 711.9583333333334,
+  "frames": 17087,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "source_version": "V20261023.01",
+  "source_sha256": "43eb4f11d6e2c716271d61343717138f504d36d8624c92e01f8d56b702c344dc",
+  "sample_sha256": "f09ce5e1f065ae65336df485b90949ffe45cb27605b50720326f3f002c9430c7",
+  "sample_all_192_frames_used": true,
+  "sample_is_excerpt_not_continuous_four_station_performance": true,
+  "missing_source_dependency": "rig_reference_v1.py",
+  "source_interval_reworked": [
+    53,
+    61
+  ],
+  "new_interval": [
+    53,
+    63.458333333333336
+  ],
+  "duration_increase_seconds": 2.4583333333333335,
+  "transitions": [
+    "0.75秒纸页展开入场",
+    "小样3.5秒抽选处0.5秒纸页转接",
+    "0.75秒纸页收束回到原定位镜头"
+  ],
+  "audio": {
+    "new_speech": false,
+    "speech_speed_changed": false,
+    "original_pcm_before_and_after_pause_identical": true,
+    "inserted_silence_samples": 118000,
+    "inserted_silence_seconds": 2.4583333333333335,
+    "source_audio_padding_trimmed_or_padded_to_video": true
+  },
+  "video_outside_interval_stream_copied": true,
+  "complete_decode": "PASS",
+  "packet_timeline_24fps": "PASS",
+  "review_times": [
+    52.8,
+    53.2,
+    53.6,
+    53.9,
+    55,
+    57.1,
+    57.5,
+    57.9,
+    58.2,
+    59.5,
+    61,
+    62,
+    62.6,
+    63.4,
+    64,
+    74,
+    82,
+    113,
+    270,
+    554.8,
+    607.5,
+    682.5,
+    710
+  ],
+  "visual_review": "实际编码23节点总览，以及入场、抽选转接、回到定位与字幕全尺寸抽查完成；非逐帧人工观看，未声称用户应用内实播。",
+  "subtitle_font_pixels": 46,
+  "unchanged_prefix_video_packets_identical": true,
+  "unchanged_suffix_video_packets_identical": true
+}

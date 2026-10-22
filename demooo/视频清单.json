@@ -416,5 +416,51 @@
       "pages": 2,
       "visual_review": "Word PDF导出后两页PNG目视检查"
     }
-  }
+  },
+  "presentation_deliveries": {
+    "整体美化": {
+      "path": "合成版本/整体美化/海洋发烧了_整体美化完整版.mp4",
+      "seconds": 709.5,
+      "frames": 17028,
+      "sha256": "43eb4f11d6e2c716271d61343717138f504d36d8624c92e01f8d56b702c344dc",
+      "bytes": 269987266,
+      "source_sha256": "05509bdca1d80ff70d272043a833d7bd9c42dce254f607a61cefd0ed2c48b0a6",
+      "audio_payload_identical": true,
+      "engine": "整片美化_20261023/beautify.py",
+      "source_master_untouched": true,
+      "review": "实际编码53节点与重点页面抽查；完整解码通过",
+      "rebuild": "以内容母版运行美化工程，不直接用原独立段拼接覆盖此观看版。",
+      "version": "V20261023.01",
+      "status": "archived",
+      "download": "downloads/archive/ocean_full_V20261023_01.mp4"
+    },
+    "四步会诊融入": {
+      "version": "V20261023.02",
+      "output_sha256": "24f96e06c75ca6a404663274737d600c1e7db3dcb537aefca0e3c53d50a5ef5f",
+      "bytes": 279224868,
+      "seconds": 711.9583333333334,
+      "frames": 17087,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 24,
+      "source_version": "V20261023.01",
+      "source_sha256": "43eb4f11d6e2c716271d61343717138f504d36d8624c92e01f8d56b702c344dc",
+      "duration_increase_seconds": 2.4583333333333335,
+      "status": "current",
+      "label": "8秒小样融入完整版",
+      "download": "downloads/ocean_full_V20261023_02.mp4",
+      "preview": "downloads/preview_route_V20261023_02.mp4",
+      "archive": "downloads/archive/ocean_full_V20261023_01.mp4",
+      "project": "四步会诊融入_20261023",
+      "sample_scope": "本版使用用户已确认的8秒抽选小样，不是36秒连续四站动作。",
+      "path": "合成版本/四步会诊融入/海洋发烧了_完整版_V20261023.02.mp4",
+      "engine": "四步会诊融入_20261023/build_full.py",
+      "video_outside_interval_stream_copied": true,
+      "audio_note": "原PCM片段不变速，插入静音后重编码AAC，不能称整轨AAC字节一致。"
+    }
+  },
+  "latest_viewing_delivery": "合成版本/四步会诊融入/海洋发烧了_完整版_V20261023.02.mp4",
+  "current_version": "V20261023.02"
 }
