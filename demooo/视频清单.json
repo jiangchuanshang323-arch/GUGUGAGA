@@ -105,9 +105,9 @@
     },
     "11_适应与减缓": {
       "path": "独立片段\\11_适应与减缓\\海洋发烧了_第十一段_适应与减缓.mp4",
-      "seconds": 48.95,
-      "sha256": "60eaa09b15b7e857ffa477323b9d85fe7b78ce1b64b087219047243558f4fc5f",
-      "bytes": 4193894,
+      "seconds": 48.958333,
+      "sha256": "cbc6d89971f407a3fbf828a118c8473cbb67eba12efabdf54deb70fde0fb4991",
+      "bytes": 43425358,
       "decode": "PASS",
       "word_shots": [
         24,
@@ -115,7 +115,10 @@
       ],
       "comment_ids": [
         20
-      ]
+      ],
+      "generator": "处方统一_20261021/build_prescriptions.py",
+      "style": "纸本水彩处方笺",
+      "character_face": "嘴边杂线去除；独立音量口型"
     },
     "12_总结与检测": {
       "path": "独立片段\\12_总结与检测\\海洋发烧了_第十二段_总结与检测.mp4",
@@ -180,9 +183,9 @@
         "12_总结与检测"
       ],
       "seconds": 709.5,
-      "sha256": "9fbf054f8d79c58e81fc67633049fd787911f00d664fe46683041bee56d31a77",
-      "bytes": 303431014,
-      "scope": "完整课程：原第十段中国影响与石河子案例替换为新版45秒中国影响；保留适应与减缓、总结与检测",
+      "sha256": "05509bdca1d80ff70d272043a833d7bd9c42dce254f607a61cefd0ed2c48b0a6",
+      "bytes": 276949044,
+      "scope": "完整课程；处方章节统一纸本水彩，角色脸颊杂线已修复，保留原完整音轨",
       "opening_count": 1,
       "decode": "PASS",
       "word_duration_limit_seconds": 600,
@@ -379,6 +382,19 @@
       "seconds": 12.5,
       "sha256": "1149de5237bac3734b1a2ee320ea21bf87351a8ad464b7775329efebac1c50eb",
       "bytes": 11030398,
+      "decode": "PASS"
+    },
+    "处方统一_首张5秒": {
+      "path": "预览/三个画面5秒样片/适应处方单_5秒.mp4",
+      "seconds": 5.0,
+      "bytes": 4460141,
+      "sha256": "24f816f41386c563da84331df2fdaff7d09dc80d39e1dbcde2c4213c6f77cd9e",
+      "frames": 120,
+      "width": 1920,
+      "height": 1080,
+      "fps": "24/1",
+      "profile": "Constrained Baseline",
+      "pixel_format": "yuv420p",
       "decode": "PASS"
     }
   },

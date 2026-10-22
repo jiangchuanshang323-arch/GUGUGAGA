@@ -1,0 +1,76 @@
+{
+  "master": {
+    "seconds": 709.5,
+    "bytes": 276949044,
+    "sha256": "05509bdca1d80ff70d272043a833d7bd9c42dce254f607a61cefd0ed2c48b0a6",
+    "frames": 17028,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p"
+  },
+  "segment": {
+    "seconds": 48.958333,
+    "bytes": 43425358,
+    "sha256": "cbc6d89971f407a3fbf828a118c8473cbb67eba12efabdf54deb70fde0fb4991",
+    "frames": 1175,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p"
+  },
+  "first_prescription_preview": {
+    "seconds": 5.0,
+    "bytes": 4460141,
+    "sha256": "24f816f41386c563da84331df2fdaff7d09dc80d39e1dbcde2c4213c6f77cd9e",
+    "frames": 120,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "profile": "Constrained Baseline",
+    "pixel_format": "yuv420p"
+  },
+  "source_master_sha256": "9fbf054f8d79c58e81fc67633049fd787911f00d664fe46683041bee56d31a77",
+  "source": "repository same-name master; oversized uploaded attachment not downloaded",
+  "replacement_seconds": [
+    597.0,
+    645.9583333333334
+  ],
+  "replacement_frames_half_open": [
+    14328,
+    15503
+  ],
+  "decode": "PASS",
+  "source_audio_packet_hash": "SHA256=5c68628f59a935d5e7cbda82b810eb88063b8a6e4cce78da1c6fd7fb1a6d2d75",
+  "output_audio_packet_hash": "SHA256=5c68628f59a935d5e7cbda82b810eb88063b8a6e4cce78da1c6fd7fb1a6d2d75",
+  "audio_packet_payloads_identical": true,
+  "comparison_frames_outside_replacement": 15853,
+  "outside_ssim_at_480x270": {
+    "minimum": 0.997847,
+    "mean": 0.9993400587270548
+  },
+  "review_times": [
+    596.9,
+    597.0,
+    599.5,
+    603.1,
+    608.5,
+    615.9,
+    620.8,
+    627.0,
+    632.0,
+    638.0,
+    640.5,
+    644.0,
+    645.916667,
+    645.958334,
+    648.2,
+    708.8
+  ],
+  "visual_review": "PASS：目视复核16个最终编码节点总览、减缓长句完整尺寸画面、原处方企鹅修复前后编码对照及四档口型；未逐帧人工观看。",
+  "browser_playback": "not tested",
+  "manual_frame_by_frame_review": false,
+  "main_remote_commit_checked": "8be22b8df89e3d60f8622cb4a13e7a5e90c5b44d"
+}

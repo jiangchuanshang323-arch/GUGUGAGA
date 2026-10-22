@@ -37,19 +37,20 @@
     {
       "name": "适应处方单_5秒",
       "path": "G:\\Arthur\\数字微课\\demooo\\预览\\三个画面5秒样片\\适应处方单_5秒.mp4",
-      "seconds": 5,
+      "seconds": 5.0,
       "frames": 120,
       "resolution": "1920x1080",
       "fps": 24,
       "decode": "PASS",
-      "sha256": "394e007e2be146c031740bd9538c524373b78e81e494f386c2780827aef210d6",
-      "bytes": 4426879,
+      "sha256": "24f816f41386c563da84331df2fdaff7d09dc80d39e1dbcde2c4213c6f77cd9e",
+      "bytes": 4460141,
       "character_height_range": [
         368,
         368
       ],
       "reference_height": 368.671875,
-      "voice": "existing Xiaoyi audio, not newly generated"
+      "voice": "existing Xiaoyi audio, not newly generated",
+      "revision": "2026-10-21 净面修复；新工程及核对记录见处方统一_20261021/检查"
     }
   ],
   "gloves_contact_times": [
