@@ -1,0 +1,73 @@
+{
+  "path": "D:\\Arthur\\数字微课\\demooo\\合成版本\\目前完整成片\\海洋发烧了_目前完整成片_新版_四站动作.mp4",
+  "seconds": 738.25,
+  "sha256": "c43aababc50a8765bd699d3a9f9bd040f9578c761ad7480148b6d8337648da96",
+  "bytes": 371201633,
+  "frames": 17718,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "decode": "PASS",
+  "previous_full": "D:\\Arthur\\数字微课\\demooo\\合成版本\\目前完整成片\\海洋发烧了_目前完整成片.mp4",
+  "previous_sha256": "8c7181dad1c8210810b5b1909b3c8a73506e9696c592599ccc146d2274654cc4",
+  "route_source": "D:\\Arthur\\数字微课\\demooo\\预览\\四步会诊路线全程\\四步会诊路线_全程动作展示.mp4",
+  "route_sha256": "5a8b14be06d3c62ab97538ea5cfabd88b3c61ee121ecc4894ace5c1b53c60748",
+  "route_seams": [
+    {
+      "station": 1,
+      "label": "测体征",
+      "original_frame": 1743,
+      "new_start_frame": 1743,
+      "new_end_frame": 1881,
+      "demo_source_frames": [
+        0,
+        138
+      ],
+      "crossfade_frames": 8
+    },
+    {
+      "station": 2,
+      "label": "查病因",
+      "original_frame": 3836,
+      "new_start_frame": 3874,
+      "new_end_frame": 4042,
+      "demo_source_frames": [
+        138,
+        306
+      ],
+      "crossfade_frames": 8
+    },
+    {
+      "station": 3,
+      "label": "追并发症",
+      "original_frame": 6930,
+      "new_start_frame": 7036,
+      "new_end_frame": 7198,
+      "demo_source_frames": [
+        306,
+        468
+      ],
+      "crossfade_frames": 8
+    },
+    {
+      "station": 4,
+      "label": "开处方",
+      "original_frame": 14628,
+      "new_start_frame": 14796,
+      "new_end_frame": 15018,
+      "demo_source_frames": [
+        468,
+        690
+      ],
+      "crossfade_frames": 8
+    }
+  ],
+  "stage": "new version; not uploaded",
+  "visual_review": "PASS: four actual encoded splice rows inspected at before, enter, station, leave, after frames",
+  "encoded_frame_count": 17718,
+  "seam_review_sheet": "D:\\Arthur\\数字微课\\路线角色表演_20261022\\新版合入_20261023\\四站新版_实际编码接缝总览.jpg",
+  "manual_frame_by_frame_review": false,
+  "published_local": true
+}

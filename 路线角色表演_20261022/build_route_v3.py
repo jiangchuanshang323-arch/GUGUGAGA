@@ -174,7 +174,8 @@ def frame(t):
  elif j==3:
   end=r.head+[77,-93]
   rh=keys(u,[(0,hands[1]),(.3,r.B((358,405))),(.65,r.B((372,321))),(1.2,end),(1.5,end+[0,-3]),(2.1,r.B((355,365))),(2.35,r.B((286,346))),(3.85,r.B((286,346))),(4.15,r.B((351,363))),(4.55,r.B((370,285))),(6.5,r.B((370,285)))]);lh=keys(u,[(0,hands[0]),(1.4,hands[0]),(1.9,r.B((246,345))),(3.95,r.B((246,345))),(4.4,r.B((200,380))),(6.5,r.B((200,380)))]);hands=r.bound([lh,rh]);capq=E((u-.65)/.55)
-  props.append(('cap',r.head,r.tilt))
+  cap_pos=lerp(r.head+[35,185],r.head,E((u-.22)/1.0))
+  props.append(('cap',cap_pos,r.tilt))
   if u>1.45:
    cp=hands[0]+[25,-5];checks=np.clip((u-2.15)/.55,0,3);close=E((u-4.0)/.45);props.append(('clip',cp,(checks,close)))
    if 2.1<u<3.95:
@@ -192,7 +193,7 @@ def frame(t):
   elif kind=='cap':cap(im,p,a)
   elif kind=='clip':clipboard(im,p,-4,*a)
  for prop in props:
-  kind=prop[0];behind=(j==0 and kind=='therm' and (u<.48 or u>2.78)) or (j==0 and kind=='note' and (u<3.6 or u>4.55)) or (j==1 and kind=='lens' and (u<.6 or u>4.4)) or (j==2 and kind=='note' and (u<.42 or u>4.4))  or (j==3 and kind=='clip' and u<1.72)
+  kind=prop[0];behind=(j==0 and kind=='therm' and (u<.48 or u>2.78)) or (j==0 and kind=='note' and (u<3.6 or u>4.55)) or (j==1 and kind=='lens' and (u<.6 or u>4.4)) or (j==2 and kind=='note' and (u<.42 or u>4.4)) or (j==3 and kind=='cap' and u<1.1) or (j==3 and kind=='clip' and u<1.72)
   if behind:drawprop(prop);rear.append(id(prop))
  r.base(im);r.arms(im,hands);r.finish(im)
  for prop in props:
